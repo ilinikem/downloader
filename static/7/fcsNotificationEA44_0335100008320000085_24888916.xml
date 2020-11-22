@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24888916</id>
+        <purchaseNumber>0335100008320000085</purchaseNumber>
+        <docPublishDate>2020-11-03T08:53:37.247+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100008320000085</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100008320000085</url>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по обучению медицинских работников по специальности "Терапия" в рамках непрерывного медицинского образования</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000083</regNum>
+                <consRegistryNum>00182282</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "МЕДИКО-САНИТАРНАЯ ЧАСТЬ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ Д.ДОНСКОГО, ДОМ 3</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ Д.ДОНСКОГО, ДОМ 3</factAddress>
+                <INN>3905018440</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ Д.ДОНСКОГО, ДОМ 3</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ Д.ДОНСКОГО, ДОМ 3</orgFactAddress>
+                <contactPerson>
+                    <lastName>Рубанова</lastName>
+                    <firstName>Оксана</firstName>
+                    <middleName>Ивановна</middleName>
+                </contactPerson>
+                <contactEMail>mschmvdogovor@mail.ru</contactEMail>
+                <contactPhone>7-4012-689634</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_SBAST</code>
+            <name>АО «Сбербанк-АСТ»</name>
+            <url>http://www.sberbank-ast.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-03T08:53:37+02:00</startDate>
+                <place>Заявка на участие в электронном аукционе подается участником оператору электронной площадки.&#13;
+</place>
+                <order>Порядок подачи заявок указан в разделе 1 ДЭА.</order>
+                <endDate>2020-11-12T10:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-16T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-17T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>3966.66</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000083</regNum>
+                        <consRegistryNum>00182282</consRegistryNum>
+                        <fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "МЕДИКО-САНИТАРНАЯ ЧАСТЬ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>3966.66</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace>ул. Дм. Донского, дом 3</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>с 01 февраля по 01 апреля 2021 года</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>396.67</amount>
+                        <part>10.0</part>
+                        <procedureInfo>указан в разделе 1,2,4 ДЭА</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351822820</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390501844039060100101330088542244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>85.42</ns4:OKPDCode>
+                                <ns4:OKPDName>Услуги по дополнительному профессиональному образованию</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13905018440390601001</customerCode>
+                        <purchaseNumber>0133</purchaseNumber>
+                        <purchaseOrderNumber>008</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000083001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000083001000153</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>3966.66</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>3966.66</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>18809010840490059244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>3966.66</total>
+                                    <currentYear>0</currentYear>
+                                    <firstYear>3966.66</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>3966.66</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>0018228220000000180</BONumber>
+                        <BODate>2020-10-27T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>85.42.19.000</code>
+                        <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                    </OKPD2>
+                    <name>Услуги по дополнительному профессиональному образованию прочие</name>
+                    <OKEI>
+                        <code>902</code>
+                        <nationalCode>УЧЕН МЕСТ</nationalCode>
+                        <fullName>Ученическое место</fullName>
+                    </OKEI>
+                    <price>3966.66</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>3966.66</sum>
+                </purchaseObject>
+                <totalSum>3966.66</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                </requirement>
+            </requirements>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B2A3654804BE6C00E0530F548D0A3751</publishedContentId>
+                <fileName>ДЭА терапия НМО.docx</fileName>
+                <fileSize>204.25 Кб</fileSize>
+                <docDescription>ДЭА терапия НМО</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B2A3654804BE6C00E0530F548D0A3751</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-03T08:53:37+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-09T10:00:00+02:00</endDate>
+                <deliveryProcedure>указан в ДЭА</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24888916&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

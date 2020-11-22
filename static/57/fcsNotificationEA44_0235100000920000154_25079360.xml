@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25079360</id>
+        <externalId>177386582</externalId>
+        <purchaseNumber>0235100000920000154</purchaseNumber>
+        <docPublishDate>2020-11-17T11:54:10.387+02:00</docPublishDate>
+        <docNumber>№0235100000920000154</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0235100000920000154</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0235100000920000154</url>
+        </printForm>
+        <purchaseObjectInfo>Приобретение многофункционального устройства с буклет-финишером в 2020 году</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>02351000009</regNum>
+                <consRegistryNum>004С3500</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ - КАЛИНИНГРАДСКОЕ РЕГИОНАЛЬНОЕ ОТДЕЛЕНИЕ ФОНДА СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ ЧАЙКОВСКОГО, ДОМ 11</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ ЧАЙКОВСКОГО, ДОМ 11</factAddress>
+                <INN>3906010388</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ ЧАЙКОВСКОГО, ДОМ 11</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛ ЧАЙКОВСКОГО, ДОМ 11</orgFactAddress>
+                <contactPerson>
+                    <lastName>Никитина</lastName>
+                    <firstName>Марина</firstName>
+                    <middleName>  Калистратовна</middleName>
+                </contactPerson>
+                <contactEMail>auk@ro39.fss.ru</contactEMail>
+                <contactPhone>8-4012-929-514</contactPhone>
+                <contactFax>8-4012-950-117</contactFax>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-17T11:54:10+02:00</startDate>
+                <place>Заявка подается оператору электронной площадки в порядке, определенном оператором электронной площадки, информация о котором размещена по адресу :  www.rts-tender.ru  (РТС-тендер).</place>
+                <order>Подача заявок на участие в Аукционе осуществляется только лицами, зарегистрированными в единой информационной системе и аккредитованными на электронной площадке.
+Заявка на участие в Аукционе направляется участником Аукциона оператору электронной площадки.
+Заявка на участие в Аукционе направляется участником в форме двух электронных документов, содержащих части заявки, предусмотренные ч.ч. 3 и 5 ст. 66 Закона. Указанные электронные документы подаются одновременно. 
+Участник Аукциона вправе подать только одну заявку на участие в Аукционе.</order>
+                <endDate>2020-11-25T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-26T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-27T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>443500</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>02351000009</regNum>
+                        <consRegistryNum>004С3500</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ - КАЛИНИНГРАДСКОЕ РЕГИОНАЛЬНОЕ ОТДЕЛЕНИЕ ФОНДА СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                    </customer>
+                    <maxPrice>443500</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>236022, г. Калининград, ул. Чайковского, д. 11.</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Поставщик   обязан доставить Товар Заказчику в срок не позднее 22 декабря 2020 года с даты заключения Контракта</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>4435.00</amount>
+                        <part>1.0</part>
+                        <procedureInfo>Денежные средства, предназначенные для обеспечения заявок, вносятся участниками закупки на специальные счета, открытые ими в банках, перечень которых установлен Правительством Российской Федерации.</procedureInfo>
+                        <settlementAccount>40302810827487000099</settlementAccount>
+                        <personalAccount>05354С35000</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <part>10.0</part>
+                        <procedureInfo>Участник закупки, освобождается от предоставления обеспечения исполнения контракта, в том числе с учетом положений статьи 37 Закона № 44-ФЗ, в случае предоставления участником закупки информации, содержащейся в реестре контрактов, заключенных заказчиками, и подтверждающей исполнение таким участником (без учета правопреемства) в течение трех лет до даты подачи заявки на участие в закупке трех контрактов, исполненных без применения к такому участнику неустоек (штрафов, пеней). Такая информация представляется участником закупки до заключения контракта в случаях, установленных Федеральным законом № 44-ФЗ для предоставления обеспечения исполнения контракта. При этом сумма цен таких контрактов должна составлять не менее начальной (максимальной) цены контракта, указанной в извещении об осуществлении закупки и настоящей документации о закупке.
+1.	Исполнение контракта может обеспечиваться предоставлением банковской гарантии или внесением денежных средств на счет Заказчика, реквизиты которого указаны в п. 19 Информационной карты. Способ обеспечения исполнения контракта определяется участником Аукциона, с которым заключается контракт, самостоятельно. Срок действия банковской гарантии должен превышать срок действия контракта не менее чем на один месяц.</procedureInfo>
+                        <settlementAccount>40302810827487000099</settlementAccount>
+                        <personalAccount>05354С35000</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390601038839060100100580012620242</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>26.20</ns4:OKPDCode>
+                                <ns4:OKPDName>Компьютеры и периферийное оборудование</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>242</ns4:code>
+                                <ns4:name>Закупка товаров, работ, услуг в сфере информационно-коммуникационных технологий</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13906010388390601001</customerCode>
+                        <purchaseNumber>0058</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202002351000009001</ns3:plan2020Number>
+                        <ns3:position2020Number>202002351000009001000167</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджета Фонда социального страхования Российской Федерации.</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>443500</total>
+                                <currentYear>443500</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>39301130370290059242</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>443500</total>
+                                    <currentYear>443500</currentYear>
+                                    <firstYear>0</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>443500</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>004С350020000000159</BONumber>
+                        <BODate>2019-12-19T00:00:00+03:00</BODate>
+                        <inputBOFlag>manual</inputBOFlag>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>26.20.18.000-00000068</code>
+                        <name>Многофункциональное устройство (МФУ)</name>
+                        <versionId>111042</versionId>
+                        <versionNumber>3</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>1d4e069c-6</code>
+                                <name>Суммарный ресурс каждого цветного картриджа в комплекте (страниц А4 при 5% заполнении), страница</name>
+                                <type>2</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>19000</min>
+                                                <maxMathNotation>less</maxMathNotation>
+                                                <max>19500</max>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b40158cf-f</code>
+                                <name>Наличие цветных картриджей в комплекте</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>1a0c75dd-5</code>
+                                <name>Суммарный ресурс черно-белых картриджей в комплекте (страниц А4 при 5% заполнении), страница</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>20000</min>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>81c38623-c</code>
+                                <name>Наличие черно-белого картриджа в комплекте</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>d44b3b40-f</code>
+                                <name>Тип сканирования</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Протяжный/планшетный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>013b46e0-8</code>
+                                <name>Суммарная емкость выходных лотков</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>796</code>
+                                            <name>Штука</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>3000</min>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>0108eacf-c</code>
+                                <name>Суммарная емкость лотков подачи бумаги</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>796</code>
+                                            <name>Штука</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>2000</min>
+                                                <maxMathNotation>less</maxMathNotation>
+                                                <max>2500</max>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>01a79ac9-6</code>
+                                <name>Способ подключения</name>
+                                <type>1</type>
+                                <kind>3</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Wi-Fi</qualityDescription>
+                                    </value>
+                                    <value>
+                                        <qualityDescription>USB</qualityDescription>
+                                    </value>
+                                    <value>
+                                        <qualityDescription>LAN</qualityDescription>
+                                    </value>
+                                    <value>
+                                        <qualityDescription>NFC</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>18417cec-f</code>
+                                <name>Объем установленной оперативной памяти</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>257</code>
+                                            <name>Мегабайт</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>2048</min>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>04b7ab61-d</code>
+                                <name>Скорость цветной печати, стр/мин</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>10</min>
+                                                <maxMathNotation>less</maxMathNotation>
+                                                <max>20</max>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>09f4ab96-5</code>
+                                <name>Скорость черно-белой печати, стр/мин</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>20</min>
+                                                <maxMathNotation>less</maxMathNotation>
+                                                <max>30</max>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>e5e23bc7-4</code>
+                                <name>Максимальное разрешение сканирования, dpi</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>600 х 600</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>89826325-a</code>
+                                <name>Максимальное разрешение печати, dpi</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>1200 х 1200</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>d175bec3-6</code>
+                                <name>Ресурс фотобарабана, страница</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>70000</min>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>c71c738a-c</code>
+                                <name>Время выхода первого цветного отпечатка</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>354</code>
+                                            <name>Секунда</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>8</min>
+                                                <maxMathNotation>less</maxMathNotation>
+                                                <max>9</max>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>8845e777-c</code>
+                                <name>Время выхода первого черно-белого отпечатка</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>354</code>
+                                            <name>Секунда</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>5</min>
+                                                <maxMathNotation>less</maxMathNotation>
+                                                <max>6</max>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cc4c24f6-6</code>
+                                <name>Время выхода из спящего режима</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>354</code>
+                                            <name>Секунда</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>10</min>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4183c053-5</code>
+                                <name>Наличие фотопечати</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>de1c0e7b-1</code>
+                                <name>Класс энергетической эффективности</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>A++</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>9a78f7da-b</code>
+                                <name>Возможность двухстороннего сканирования</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>886fbafc-5</code>
+                                <name>Встроенная система непрерывной подачи чернил</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>aa756c8e-d</code>
+                                <name>Тип системы печати</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Двухкомпонентная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>a425c3aa-b</code>
+                                <name>Наличие фальцовщика</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>118bf529-1</code>
+                                <name>Наличие степлера</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>beb2d91f-4</code>
+                                <name>Наличие финишера</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba8259b8-b</code>
+                                <name>Наличие ЖК-дисплея</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b30082ff-2</code>
+                                <name>Наличие разъема USB</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f4214d0a-2</code>
+                                <name>Наличие модуля WI-FI</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>afeac04b-7</code>
+                                <name>Наличие факса</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>c419da24-b</code>
+                                <name>Возможность двухсторонней печати</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>8dc061b2-f</code>
+                                <name>Количество печати страниц в месяц </name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>796</code>
+                                            <name>Штука</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <rangeSet>
+                                            <valueRange>
+                                                <minMathNotation>greaterOrEqual</minMathNotation>
+                                                <min>30000</min>
+                                            </valueRange>
+                                        </rangeSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>aa7d7280-8</code>
+                                <name>Технология печати</name>
+                                <type>1</type>
+                                <kind>3</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Лазерная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>9991ecfa-5</code>
+                                <name>Наличие устройства автоподачи сканера</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>6a98c2a1-a</code>
+                                <name>Формат печати</name>
+                                <type>1</type>
+                                <kind>3</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>А3</qualityDescription>
+                                    </value>
+                                    <value>
+                                        <qualityDescription>А4</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>21804b9d-8</code>
+                                <name>Цветность печати</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Цветная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Многофункциональное устройство (МФУ)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>02351000009</regNum>
+                                <consRegistryNum>004С3500</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ - КАЛИНИНГРАДСКОЕ РЕГИОНАЛЬНОЕ ОТДЕЛЕНИЕ ФОНДА СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>443500</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>443500</sum>
+                </purchaseObject>
+                <totalSum>443500</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Единые требования к участникам (в соответствии с частью 1 cтатьи 31 Федерального закона № 44-ФЗ)</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Отсутствие в реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа участника закупки - юридического лица.</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+            </restrictions>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>0EEEC37E3B404F5FBBE19FE4F7EDB569</publishedContentId>
+                <fileName>Извещение_Д.docx</fileName>
+                <fileSize>33.42 Кб</fileSize>
+                <docDescription>Извещение_Д</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=0EEEC37E3B404F5FBBE19FE4F7EDB569</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIU4AYJKoZIhvcNAQcCoIIU0TCCFM0CAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEFMwggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIIszCCCGCgAwIBAgIUP59wmOoif0zZ4e3/AEXJElEaYzowCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwODI2MTIwMjUxWhcNMjExMTI2MTIwMjUxWjCCAikxGjAYBggqhQMDgQMBARIMMzkwNDA1ODcyMDc2MRYwFAYFKoUDZAMSCzEyMDM0NDUxMzk5MR4wHAYJKoZIhvcNAQkBFg9hdWtAcm8zOS5mc3MucnUxCzAJBgNVBAYTAlJVMTYwNAYDVQQIDC3QmtCw0LvQuNC90LjQvdCz0YDQsNC00YHQutCw0Y8g0L7QsdC70LDRgdGC0YwxHzAdBgNVBAcMFtCa0LDQu9C40L3QuNC90LPRgNCw0LQxgewwgekGA1UECgyB4dCT0J7QodCj0JTQkNCg0KHQotCS0JXQndCd0J7QlSDQo9Cn0KDQldCW0JTQldCd0JjQlSAtINCa0JDQm9CY0J3QmNCd0JPQoNCQ0JTQodCa0J7QlSDQoNCV0JPQmNCe0J3QkNCb0KzQndCe0JUg0J7QotCU0JXQm9CV0J3QmNCVINCk0J7QndCU0JAg0KHQntCm0JjQkNCb0KzQndCe0JPQniDQodCi0KDQkNCl0J7QktCQ0J3QmNCvINCg0J7QodCh0JjQmdCh0JrQntCZINCk0JXQlNCV0KDQkNCm0JjQmDEoMCYGA1UEKgwf0JDQvdC90LAg0JPRgNC40LPQvtGA0YzQtdCy0L3QsDEZMBcGA1UEBAwQ0KDRj9Cx0LjQvdC40L3QsDE5MDcGA1UEAwww0KDRj9Cx0LjQvdC40L3QsCDQkNC90L3QsCDQk9GA0LjQs9C+0YDRjNC10LLQvdCwMGYwHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIDQwAEQLKtEujhgckClIUUgBgeofSkRx9fmWFWW5T311F3dMwOM1ECDt5+TdT2LimTojQAsLK6kPQdmgOzxo/LEwdgKd2jggQPMIIECzAMBgNVHRMBAf8EAjAAMB0GA1UdIAQWMBQwCAYGKoUDZHEBMAgGBiqFA2RxAjA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBZAYFKoUDZHAEggFZMIIBVQxHItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiINCy0LXRgNGB0LjRjyA0LjAgKNC40YHQv9C+0LvQvdC10L3QuNC1IDItQmFzZSkMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gMy4wDE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI0LTMzODAg0L7RgiAxMS4wNS4yMDE4DE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI4LTM1ODEg0L7RgiAyMC4xMi4yMDE4MA4GA1UdDwEB/wQEAwID+DATBgNVHSUEDDAKBggrBgEFBQcDAjArBgNVHRAEJDAigA8yMDIwMDgyNjEyMDIwMFqBDzIwMjExMTI2MTIwMjAwWjCCAV8GA1UdIwSCAVYwggFSgBTQZJZtckDrWH0kf7sgW8/Djmx61KGCASykggEoMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LiCCmKreZUAAAAAA7YwaAYDVR0fBGEwXzAuoCygKoYoaHR0cDovL2NybC5yb3NrYXpuYS5ydS9jcmwvdWNma18yMDIwLmNybDAtoCugKYYnaHR0cDovL2NybC5mc2ZrLmxvY2FsL2NybC91Y2ZrXzIwMjAuY3JsMB0GA1UdDgQWBBQIPB/7i6UWbHY/IaXZmLyr2d0ulDAKBggqhQMHAQEDAgNBAEPRt2QWWrak4fe+1FdV8C/oUT8000sJotxNdsZxOljzB7TQjezAg1EfNzIbp63uAjryGipm3+FBnT/SSULpyUUxggRSMIIETgIBATCCAYcwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFD+fcJjqIn9M2eHt/wBFyRJRGmM6MAwGCCqFAwcBAQICBQCgggJLMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIwMTExNzEwMDQ0MlowLwYJKoZIhvcNAQkEMSIEIHO4CaOaFaRfKyjYM1ohc+/NAenk7QKk/p9TiHasXpUlMIIB3gYLKoZIhvcNAQkQAi8xggHNMIIByTCCAcUwggHBMAoGCCqFAwcBAQICBCA5UJ9tFy8dWYbpNJmphqcUeoFCd3Q6xfMZG6L0LgwolzCCAY8wggF1pIIBcTCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvgIUP59wmOoif0zZ4e3/AEXJElEaYzowHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIEQKWPyFKtI4jKg1RZPjXRf9tY5JvqyFThtbD+ZSZjyncxrzmePkaiI6t9Y7SZwi3dkv8Fw0ZXCrbsZUNgTHNNZ7M=</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>AA37870D5E174ABDADD380821900649C</publishedContentId>
+                <fileName>Документация_Д.doc</fileName>
+                <fileSize>780 Кб</fileSize>
+                <docDescription>Документация_Д</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AA37870D5E174ABDADD380821900649C</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>A02D768C4ADA4A799B365669098371AE</publishedContentId>
+                <fileName>ГК проект.doc</fileName>
+                <fileSize>317.5 Кб</fileSize>
+                <docDescription>ГК проект</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=A02D768C4ADA4A799B365669098371AE</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>69837C9D5ABA49B5ACF70FB51CC7033A</publishedContentId>
+                <fileName>Обоснование НМЦК_443 500,00.docx</fileName>
+                <fileSize>36.11 Кб</fileSize>
+                <docDescription>Обоснование НМЦК_443 500,00</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=69837C9D5ABA49B5ACF70FB51CC7033A</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-17T13:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-24T23:55:00+02:00</endDate>
+                <deliveryProcedure>Любой участник Аукциона, зарегистрированный в единой информационной системе и аккредитованный на электронной площадке, вправе направить с использованием программно-аппаратных средств электронной площадки на адрес электронной площадки, на которой планируется проведение Аукциона, запрос о даче разъяснений положений документации об Аукционе. При этом участник Аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации в отношении одного такого Аукциона. В течение одного часа с момента поступления указанного запроса он направляется оператором электронной площадки заказчику.
+В течение двух дней с даты поступления от оператора электронной площадки указанного запроса Заказчик размещает в единой информационной системе разъяснения положений документации об электронном Аукционе с указанием предмета запроса, но без указания участника такого Аукциона, от которого поступил указанный запрос, при условии, что указанный запрос поступил заказчику не позднее чем за три дня до даты окончания срока подачи заявок на участие в Аукционе.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25079360&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

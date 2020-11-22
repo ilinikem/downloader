@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25125294</id>
+        <purchaseNumber>0335100012020000015</purchaseNumber>
+        <docPublishDate>2020-11-20T11:40:00.324+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100012020000015</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100012020000015</url>
+        </printForm>
+        <purchaseObjectInfo>Автомобиль легковой</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000120</regNum>
+                <consRegistryNum>001Ц4493</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "НАЦИОНАЛЬНЫЙ ПАРК "КУРШСКАЯ КОСА"</fullName>
+                <postAddress>Российская Федерация, 238535, Калининградская обл, Зеленоградский р-н, Рыбачий п, ул ЛЕСНАЯ, 7</postAddress>
+                <factAddress>Российская Федерация, 238535, Калининградская обл, Зеленоградский р-н, Рыбачий п, ул ЛЕСНАЯ, 7</factAddress>
+                <INN>3918005008</INN>
+                <KPP>391801001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 238535, Калининградская обл, Зеленоградский р-н, Рыбачий п, ул ЛЕСНАЯ, 7</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 238535, Калининградская обл, Зеленоградский р-н, Рыбачий п, ул ЛЕСНАЯ, 7</orgFactAddress>
+                <contactPerson>
+                    <lastName>Лодочникова</lastName>
+                    <firstName>Елена</firstName>
+                    <middleName>Закировна</middleName>
+                </contactPerson>
+                <contactEMail>office@park-kosa.ru</contactEMail>
+                <contactPhone>7-4012-310056</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_SBAST</code>
+            <name>АО «Сбербанк-АСТ»</name>
+            <url>http://www.sberbank-ast.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-20T11:40:00+02:00</startDate>
+                <place>Заявка на участие в электронном аукционе направляется участником аукциона оператору электронной площадки http://www.sberbank-ast.ru</place>
+                <order>Подача заявок на участие в электронном аукционе осуществляется с соблюдением требований ст. 66 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд".</order>
+                <endDate>2020-11-30T11:23:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-12-02T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-12-03T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>1281006.67</maxPrice>
+            <standardContractNumber>1400700000520009</standardContractNumber>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000120</regNum>
+                        <consRegistryNum>001Ц4493</consRegistryNum>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "НАЦИОНАЛЬНЫЙ ПАРК "КУРШСКАЯ КОСА"</fullName>
+                    </customer>
+                    <maxPrice>1281006.67</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>R</kladrType>
+                                <kladrCode>39000000000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл</fullName>
+                            </kladr>
+                            <deliveryPlace>Калининградской область, Зеленоградский район, п. Рыбачий, ул. Лесная, д.7, территория национального парка «Куршская коса». </deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Поставка товара производится со дня, следующего за днем заключения Контракта и не позднее 22.12.2020 (включительно)</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>12810.07</amount>
+                        <part>1.0</part>
+                        <procedureInfo>Заявка участника аукциона может обеспечиваться банковской гарантией или внесением денежных средств. Способ обеспечения определяется участником электронного аукциона самостоятельно. Обеспечение заявок на участие в аукционах ст. 44 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд".</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356Ц44930</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>Обеспечение исполнения контракта обеспечивается банковской гарантией или внесением денежных средств. Способ обеспечения определяется участником электронного аукциона, с которым заключается контракт, самостоятельно. Обеспечение исполнения контракта ст. 96 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд".</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356Ц44930</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <provisionWarranty>
+                        <ns3:amount>12810.07</ns3:amount>
+                        <ns3:part>1.0</ns3:part>
+                        <ns3:procedureInfo>Обеспечение гарантийных обязательств обеспечивается банковской гарантией или внесением денежных средств. Способ обеспечения определяется участником электронного аукциона, с которым заключается контракт, самостоятельно. Обеспечение гарантийных обязательств ст. 96 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд".</ns3:procedureInfo>
+                        <ns3:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40501810140302004001</ns3:settlementAccount>
+                            <ns3:personalAccount>20356Ц44930</ns3:personalAccount>
+                        </ns3:account>
+                    </provisionWarranty>
+                    <purchaseCode>201391800500839180100100410012910244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>29.10</ns4:OKPDCode>
+                                <ns4:OKPDName>Средства автотранспортные</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13918005008391801001</customerCode>
+                        <purchaseNumber>0041</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000120001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000120001000045</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>за счет средств, полученных при осуществлении ФГБУ «Национальный парк «Куршская коса» приносящий доход деятельности</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>1281006.67</total>
+                                <currentYear>1281006.67</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>1281006.67</ns3:total>
+                                    <ns3:currentYear>1281006.67</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>1281006.67</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                    <purchaseObjectDescription>Подробные характеристики Товара приведены в Описании объекта закупки (приложение 3 к аукционной документации)</purchaseObjectDescription>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.10.22.000</code>
+                        <name>Средства транспортные с двигателем с искровым зажиганием, с рабочим объемом цилиндров более 1500 см3, новые</name>
+                        <addCharacteristics>Подробные характеристики Товара приведены в Описании объекта закупки (приложение 3 к аукционной документации)</addCharacteristics>
+                    </OKPD2>
+                    <name>Средства транспортные с двигателем с искровым зажиганием, с рабочим объемом цилиндров более 1500 см3, новые</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1281006.67</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1281006.67</sum>
+                </purchaseObject>
+                <totalSum>1281006.67</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>MP44</shortName>
+                    <name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</name>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>установлены</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлены</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>BAN</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>19</ns4:code>
+                                <ns4:name>Постановление Правительства РФ от 30.04.2020 № 616 "Об установлении запрета на допуск промышленных товаров, происходящих из иностранных государств, для целей осуществления закупок для государственных и муниципальных нужд, а также промышленных товаров, происходящих из иностранных государств, работ (услуг), выполняемых (оказываемых) иностранными лицами, для целей осуществления закупок для нужд обороны страны и безопасности государства"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ от 30.04.2020 № 616</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>Установлены</content>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B48736F3B7869E61E0530F548D0A7C19</publishedContentId>
+                <fileName>Аукционная документация Автомобиль легковой.rtf</fileName>
+                <fileSize>1.01 Мб</fileSize>
+                <docDescription>Аукционная документация Автомобиль легковой</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B48736F3B7869E61E0530F548D0A7C19</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-20T11:40:00+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-27T17:00:00+02:00</endDate>
+                <deliveryProcedure>Участник, аккредитованный на электронной площадке, вправе направить не более трех запросов о разъяснении положений документации. В течение двух дней с момента поступления запроса заказчику разъяснения документации об электронном аукционе будут размещены в ЕИС, при условии, что указанный запрос поступил заказчику не позднее, чем за три дня до даты окончания срока подачи заявок на участие в аукционе</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25125294&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

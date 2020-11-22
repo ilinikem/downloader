@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:epNotificationEZK schemeVersion="10.2.310">
+        <ns8:id>24996173</ns8:id>
+        <ns8:versionNumber>1</ns8:versionNumber>
+        <ns8:commonInfo>
+            <ns8:purchaseNumber>0835100001120000136</ns8:purchaseNumber>
+            <ns8:docNumber>№0835100001120000136</ns8:docNumber>
+            <ns8:plannedPublishDate>2020-11-15+02:00</ns8:plannedPublishDate>
+            <ns8:publishDTInEIS>2020-11-16T15:12:40.344+02:00</ns8:publishDTInEIS>
+            <ns8:href>https://zakupki.gov.ru/epz/order/notice/zk504/view/common-info.html?regNumber=0835100001120000136</ns8:href>
+            <ns8:isGOZ>false</ns8:isGOZ>
+            <ns8:purchaseObjectInfo>Поставка средств личной гигиены для женщин на 2021 год</ns8:purchaseObjectInfo>
+            <ns8:placingWay>
+                <ns4:code>ZKP504</ns4:code>
+                <ns4:name>Запрос котировок в электронной форме</ns4:name>
+            </ns8:placingWay>
+            <ns8:ETP>
+                <ns4:code>ETP_EETP</ns4:code>
+                <ns4:name>АО «ЕЭТП»</ns4:name>
+                <ns4:url>http://roseltorg.ru</ns4:url>
+            </ns8:ETP>
+            <ns8:contractConclusionOnSt83Ch2>true</ns8:contractConclusionOnSt83Ch2>
+        </ns8:commonInfo>
+        <ns8:purchaseResponsibleInfo>
+            <ns8:responsibleOrgInfo>
+                <ns8:regNum>08351000011</ns8:regNum>
+                <ns8:consRegistryNum>001А6918</ns8:consRegistryNum>
+                <ns8:fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЦЕНТР ХОЗЯЙСТВЕННОГО И СЕРВИСНОГО ОБЕСПЕЧЕНИЯ УПРАВЛЕНИЯ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</ns8:fullName>
+                <ns8:postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПРОСПЕКТ СОВЕТСКИЙ, 7</ns8:postAddress>
+                <ns8:factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПРОСПЕКТ СОВЕТСКИЙ, 7</ns8:factAddress>
+                <ns8:INN>3906266990</ns8:INN>
+                <ns8:KPP>390601001</ns8:KPP>
+            </ns8:responsibleOrgInfo>
+            <ns8:responsibleRole>CU</ns8:responsibleRole>
+            <ns8:responsibleInfo>
+                <ns8:orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПРОСПЕКТ СОВЕТСКИЙ, 7</ns8:orgPostAddress>
+                <ns8:orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПРОСПЕКТ СОВЕТСКИЙ, 7</ns8:orgFactAddress>
+                <ns8:contactPersonInfo>
+                    <ns3:lastName>Булдаков</ns3:lastName>
+                    <ns3:firstName>Виктор</ns3:firstName>
+                    <ns3:middleName>Викторович</ns3:middleName>
+                </ns8:contactPersonInfo>
+                <ns8:contactEMail>ooz.fky39@yandex.ru</ns8:contactEMail>
+                <ns8:contactPhone>7-4012-554115</ns8:contactPhone>
+            </ns8:responsibleInfo>
+        </ns8:purchaseResponsibleInfo>
+        <ns8:printFormInfo>
+            <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0835100001120000136</ns3:url>
+        </ns8:printFormInfo>
+        <ns8:attachmentsInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B43961F1C499DF07E0530F548D0AFAB3</ns3:publishedContentId>
+                <ns3:fileName>Извещение  о запросе котировок в электронной форме на поставку средств личной гигиены для женщин на 2021 год.doc</ns3:fileName>
+                <ns3:fileSize>333312</ns3:fileSize>
+                <ns3:docDescription>Извещение  о запросе котировок в электронной форме на поставку средств личной гигиены для женщин на 2021 год</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B43961F1C499DF07E0530F548D0AFAB3</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+        </ns8:attachmentsInfo>
+        <ns8:notificationInfo>
+            <ns8:procedureInfo>
+                <ns8:collectingInfo>
+                    <ns8:startDT>2020-11-16T15:12:40+02:00</ns8:startDT>
+                    <ns8:endDT>2020-11-24T09:00:00+02:00</ns8:endDT>
+                    <ns8:place>АО «ЕЭТП»</ns8:place>
+                    <ns8:order>Подача заявок на участие в запросе котировок в электронной форме осуществляется только лицами, зарегистрированными в единой информационной системе и аккредитованными на электронной площадке.&#13;
+Заявка на участие в запросе котировок в электронной форме состоит из предложений участника запроса котировок в электронной форме о предлагаемых работах, а также о цене контракта. Такая заявка направляется участником запроса котировок в электронной форме оператору электронной площадки по адресу.&#13;
+Участник запроса котировок в электронной форме вправе подать заявку на участие в таком запросе в любое время с момента размещения настоящего извещения до предусмотренных настоящим извещением даты и времени окончания срока подачи заявок на участие в таком запросе.&#13;
+Участник запроса котировок в электронной форме вправе подать только одну заявку на участие в таком запросе.&#13;
+Участник запроса котировок в электронной форме, подавший заявку на участие в таком запросе, вправе отозвать данную заявку не позднее даты и времени окончания срока подачи заявок на участие в таком запросе, направив об этом уведомление оператору электронной площадки.</ns8:order>
+                </ns8:collectingInfo>
+                <ns8:contractTermAdd>В течение пяти дней с даты размещения заказчиком в единой информационной системе проекта контракта победитель электронной процедуры подписывает усиленной электронной подписью указанный проект контракта, размещает на электронной площадке подписанный проект контракта.</ns8:contractTermAdd>
+                <ns8:contractConditionsAdd>В случае, если победитель запроса котировок в электронной форме не представил заказчику подписанный контракт и выписку из единого государственного реестра юридических лиц или засвидетельствованную в нотариальном порядке копию такой выписки (для юридического лица), которые получены не ранее чем за три месяца до даты размещения в единой информационной системе извещения о проведении запроса котировок, надлежащим образом заверенный перевод на русский язык документов о государственной регистрации юридического лица в соответствии с законодательством соответствующего государства (для иностранного лица) в срок, указанный в извещении о проведении запроса котировок в электронной форме, такой победитель признается уклонившимся от заключения контракта.</ns8:contractConditionsAdd>
+            </ns8:procedureInfo>
+            <ns8:contractConditionsInfo>
+                <ns8:maxPriceInfo>
+                    <ns8:maxPrice>7359.3</ns8:maxPrice>
+                    <ns8:currency>
+                        <ns4:code>RUB</ns4:code>
+                        <ns4:name>Российский рубль</ns4:name>
+                    </ns8:currency>
+                </ns8:maxPriceInfo>
+                <ns8:maxPriceJustification>Обоснование осуществлено с применением Метода сопоставимых рыночных цен (анализа рынка), в соответствие со ст. 22 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд” (далее – Федеральный закон № 44-ФЗ) – Приложение № 3 к Извещению.</ns8:maxPriceJustification>
+            </ns8:contractConditionsInfo>
+            <ns8:customerRequirementsInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>08351000011</ns4:regNum>
+                        <ns4:consRegistryNum>001А6918</ns4:consRegistryNum>
+                        <ns4:fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ЦЕНТР ХОЗЯЙСТВЕННОГО И СЕРВИСНОГО ОБЕСПЕЧЕНИЯ УПРАВЛЕНИЯ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractGuarantee>
+                        <ns8:amount>735.93</ns8:amount>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40302810000001000001</ns3:settlementAccount>
+                            <ns3:personalAccount>05351А69180</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>Перечисление денежных средств в качестве обеспечения исполнения контракта осуществляется на счёт заказчика по следующим реквизитам:&#13;
+УФК по Калининградской области (ФКУ «ЦХиСО УМВД России по Калининградской области», л/сч 05351А69180) &#13;
+ИНН 3906266990  КПП 390601001&#13;
+Банк: Отделение Калининград г. Калининград&#13;
+Р/сч 40302810340301004001&#13;
+БИК 042748001&#13;
+В наименовании платежа указать: «Обеспечение исполнения контракта, гарантийных обязательств на (указать предмет контракта) _______________извещение №___».&#13;
+Подтверждением внесения денежных средств является платежное поручение поставщика (подрядчика, исполнителя).</ns8:procedureInfo>
+                        <ns8:part>10.0</ns8:part>
+                    </ns8:contractGuarantee>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>7359.3</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:purchaseCode>201390626699039060100102630011399244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>13.99</ns4:OKPDCode>
+                                    <ns4:OKPDName>Изделия текстильные прочие, не включенные в другие группировки</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>13906266990390601001</ns8:customerCode>
+                            <ns8:purchaseNumber>0263</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202008351000011001</ns3:plan2020Number>
+                            <ns3:position2020Number>202008351000011001000266</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>7359.3</ns8:total>
+                                    <ns8:currentYear>0</ns8:currentYear>
+                                    <ns8:firstYear>7359.3</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:budgetFinancings>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:budgetFinancing>
+                                    <ns8:KBKCode>18803020840390049244</ns8:KBKCode>
+                                    <ns8:KBKYearsInfo>
+                                        <ns8:total>7359.3</ns8:total>
+                                        <ns8:currentYear>0</ns8:currentYear>
+                                        <ns8:firstYear>7359.3</ns8:firstYear>
+                                        <ns8:secondYear>0</ns8:secondYear>
+                                        <ns8:subsecYears>0</ns8:subsecYears>
+                                    </ns8:KBKYearsInfo>
+                                </ns8:budgetFinancing>
+                                <ns8:totalSum>7359.3</ns8:totalSum>
+                            </ns8:budgetFinancings>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:BOInfo>
+                            <ns8:BONumber>001А691820000000346</ns8:BONumber>
+                            <ns8:BODate>2020-11-10T00:00:00+03:00</ns8:BODate>
+                            <ns8:inputBOFlag>auto</ns8:inputBOFlag>
+                        </ns8:BOInfo>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39000001000</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл, Калининград г</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>доставка, погрузка, разгрузка товара на склад Заказчика: г. Калининград, ул. Генерала Озерова, д. 33, объединенный склад МТИ ФКУ «ЦХиСО УМВД России по Калининградской области» осуществляется за счёт Поставщика.</ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>Поставщик обязан собственными силами и средствами осуществить поставку товара в полном объеме (единовременно) в 2021 году не позднее 31.01.2021 года в рабочие дни с 9:00 до 13:00 и с 14:00 до 18:00 (время местное), кроме выходных и официально объявленных праздничных дней.</ns8:deliveryTerm>
+                        <ns8:oneSideRejection>Заказчик вправе принять решение об одностороннем отказе от исполнения контракта по основаниям, предусмотренным Гражданским кодексом Российской Федерации, а также в случаях, установленных ч.8-25 ст. 95 Федерального закона от 05 апреля 2013 года №44-ФЗ и контрактом, заключенным по итогам запроса котировок в электронной форме.</ns8:oneSideRejection>
+                    </ns8:contractConditionsInfo>
+                </ns8:customerRequirementInfo>
+            </ns8:customerRequirementsInfo>
+            <ns8:purchaseObjectsInfo>
+                <ns8:notDrugPurchaseObjectsInfo>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>13.99.19.121</ns4:OKPDCode>
+                            <ns4:OKPDName>Прокладки женские гигиенические, салфетки и тампоны из ваты из хлопка</ns4:OKPDName>
+                            <ns3:addCharacteristics>Характеристика: Гигиенические прокладки, толщина не менее 2 мм, впитываемость 3-5 капель, без ароматизатора.&#13;
+Потребительская упаковка: не менее 10 шт. в 1 упаковке.&#13;
+ОКПД 13.99.19.121&#13;
+ГОСТ 52483-2005 </ns3:addCharacteristics>
+                        </ns3:OKPD2>
+                        <ns3:name>Средство личной гигиены для женщин ( Гигиенические прокладки)</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>778</ns4:code>
+                            <ns4:nationalCode>УПАК</ns4:nationalCode>
+                            <ns4:name>Упаковка</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>56.61</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>130</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>7359.3</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:totalSum>7359.3</ns3:totalSum>
+                    <ns8:quantityUndefined>false</ns8:quantityUndefined>
+                </ns8:notDrugPurchaseObjectsInfo>
+            </ns8:purchaseObjectsInfo>
+            <ns8:preferensesInfo>
+                <ns8:preferenseInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>IN44</ns4:shortName>
+                        <ns4:name>Организациям инвалидов (в соответствии со статьей 29 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:prefValue>15.0</ns3:prefValue>
+                </ns8:preferenseInfo>
+            </ns8:preferensesInfo>
+            <ns8:requirementsInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44</ns4:shortName>
+                        <ns4:name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>TR442</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+            </ns8:requirementsInfo>
+            <ns8:restrictionsInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>JB2149</ns4:shortName>
+                        <ns4:name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>BAN</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>19</ns4:code>
+                                <ns4:name>Постановление Правительства РФ от 30.04.2020 № 616 "Об установлении запрета на допуск промышленных товаров, происходящих из иностранных государств, для целей осуществления закупок для государственных и муниципальных нужд, а также промышленных товаров, происходящих из иностранных государств, работ (услуг), выполняемых (оказываемых) иностранными лицами, для целей осуществления закупок для нужд обороны страны и безопасности государства"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ от 30.04.2020 № 616</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </ns3:restrictionsSt14>
+                </ns8:restrictionInfo>
+            </ns8:restrictionsInfo>
+            <ns8:contractServiceInfo>Приказ</ns8:contractServiceInfo>
+        </ns8:notificationInfo>
+    </ns2:epNotificationEZK>
+</ns2:export>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25094572</id>
+        <purchaseNumber>0335300062120000003</purchaseNumber>
+        <docPublishDate>2020-11-19T11:50:59.460+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335300062120000003</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335300062120000003</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка продуктов питания (молоко, йогурт, кефир)</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03353000621</regNum>
+                <consRegistryNum>273Щ2857</consRegistryNum>
+                <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ  УЧРЕЖДЕНИЕ "ДЕТСКИЙ САД №9 "РОДНИК"</fullName>
+                <postAddress>Российская Федерация, 238321, Калининградская обл, Гурьевский р-н, Константиновка п, УЛ БЕРЕЗОВАЯ, ДОМ 1</postAddress>
+                <factAddress>Российская Федерация, 238321, Калининградская обл, Гурьевский р-н, Константиновка п, УЛ БЕРЕЗОВАЯ, ДОМ 1</factAddress>
+                <INN>3917508954</INN>
+                <KPP>391701001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 238321, Калининградская обл, Гурьевский р-н, Константиновка п, УЛ БЕРЕЗОВАЯ, ДОМ 1</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 238321, Калининградская обл, Гурьевский р-н, Константиновка п, УЛ БЕРЕЗОВАЯ, ДОМ 1</orgFactAddress>
+                <contactPerson>
+                    <lastName>Сологуб </lastName>
+                    <firstName>Тамара</firstName>
+                    <middleName>Анатольевна</middleName>
+                </contactPerson>
+                <contactEMail>ya.rodnik-9@yandex.ru</contactEMail>
+                <contactPhone>7-4015-137793</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-19T11:50:59+02:00</startDate>
+                <place>АО «Единая Электронная Торговая Площадка» - http://roseltorg.ru (далее – ЭТП)&#13;
+</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-11-27T09:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-30T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-12-01T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>194800.85</maxPrice>
+            <standardContractNumber>1400700000520005</standardContractNumber>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <interbudgetaryTransfer>false</interbudgetaryTransfer>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000621</regNum>
+                        <consRegistryNum>273Щ2857</consRegistryNum>
+                        <fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ  УЧРЕЖДЕНИЕ "ДЕТСКИЙ САД №9 "РОДНИК"</fullName>
+                    </customer>
+                    <maxPrice>194800.85</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>S</kladrType>
+                                <kladrCode>39004000049</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Гурьевский р-н, Константиновка п</fullName>
+                            </kladr>
+                            <deliveryPlace>ул. Березовая, д.1 МБДОУ «Детский сад №9 «Родник»</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с разделом 4 «Проект контракта» документации об аукционе в электронной форме.</deliveryTerm>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>Порядок предоставления обеспечения исполнения контракта: указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» документации о закупке. </procedureInfo>
+                        <settlementAccount>40701810727481000084</settlementAccount>
+                        <personalAccount>20356Щ28570</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>203391750895439170100100070010000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>33917508954391701001</customerCode>
+                        <purchaseNumber>0007</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000621001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000621002000007</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>местный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>194800.85</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>194800.85</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>194800.85</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>194800.85</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>194800.85</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.51.52.110-00000004</code>
+                        <name>Йогурт</name>
+                        <versionId>101530</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>43cdf5a1-f</code>
+                                <name>Йогурт питьевой</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>0d32051b-1</code>
+                                <name>Наличие вкусовых компонентов</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>8aa8099b-e</code>
+                                <name>Для детского питания</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>0cf1aa43-f</code>
+                                <name>Вид продукта</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Йогурт</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingTextForm>
+                                <name>Массовая доля жира </name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>1,5</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>Характеристики Товара, указанные в КТРУ не позволяют&#13;
+определить соответствие Товара, предлагаемого к поставке, Заказчиком принято&#13;
+решение об уточнении описания технических характеристик Товара, имеющих&#13;
+существенное значение для Заказчика.</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Йогурт</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>77.67</price>
+                    <quantity>
+                        <value>735</value>
+                    </quantity>
+                    <sum>57087.45</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.51.52.140-00000007</code>
+                        <name>Кефир</name>
+                        <versionId>104223</versionId>
+                        <versionNumber>3</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>518d3d6a-c</code>
+                                <name>Массовая доля жира</name>
+                                <type>2</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <OKEI>
+                                            <code>744</code>
+                                            <name>Процент</name>
+                                        </OKEI>
+                                        <valueFormat>N</valueFormat>
+                                        <valueSet>
+                                            <concreteValue>2.5000</concreteValue>
+                                        </valueSet>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>c7637ad3-c</code>
+                                <name>Вид молочного сырья</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Цельное молоко</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>3866a285-b</code>
+                                <name>Наличие обогащающих компонентов</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Кефир</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>74.67</price>
+                    <quantity>
+                        <value>380</value>
+                    </quantity>
+                    <sum>28374.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>10.51.11.111</code>
+                        <name>Молоко питьевое коровье пастеризованное</name>
+                        <addCharacteristics>Вид молока: коровье&#13;
+Вид молока по способу обработки: пастеризованное&#13;
+Вид молочного сырья: Цельное&#13;
+Массовая доля жира не менее 2.5% &#13;
+Наличие обогащающих компонентов: Нет </addCharacteristics>
+                    </OKPD2>
+                    <name>Молоко питьевое</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>46.33</price>
+                    <quantity>
+                        <value>2360</value>
+                    </quantity>
+                    <sum>109338.8</sum>
+                </purchaseObject>
+                <totalSum>194800.85</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>отсутствие в предусмотренном Законом №44-ФЗ реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа участника закупки - юридического лица;</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+            </restrictions>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>B4731C41DA6E59FBE0530F548D0A77F0</publishedContentId>
+                <fileName>Извещение.docx</fileName>
+                <fileSize>18.25 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4731C41DA6E59FBE0530F548D0A77F0</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>B45D7E934A89CAB9E0530F548D0A3C36</publishedContentId>
+                <fileName>Проект контракта на поставку продуктов питания.docx</fileName>
+                <fileSize>47.83 Кб</fileSize>
+                <docDescription>Проект контракта на поставку продуктов питания</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B45D7E934A89CAB9E0530F548D0A3C36</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B473418B2D4ABC9EE0530F548D0A4FBF</publishedContentId>
+                <fileName>Документация об аукционе в электронной форме.docx</fileName>
+                <fileSize>85.62 Кб</fileSize>
+                <docDescription>Документация об аукционе в электронной форме</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B473418B2D4ABC9EE0530F548D0A4FBF</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B46EF546758A4DC9E0530F548D0A35E6</publishedContentId>
+                <fileName>ТЗ и обоснование Н(М)ЦК.docx</fileName>
+                <fileSize>27.93 Кб</fileSize>
+                <docDescription>ТЗ и обоснование Н(М)ЦК</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B46EF546758A4DC9E0530F548D0A35E6</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-19T11:50:59+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-27T17:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» документации о закупке.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25094572&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

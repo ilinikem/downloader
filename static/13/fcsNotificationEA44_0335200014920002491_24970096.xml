@@ -1,0 +1,2684 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24970096</id>
+        <externalId>75E0B042-42FB-4304-80C3-3E0C10FABC1001</externalId>
+        <purchaseNumber>0335200014920002491</purchaseNumber>
+        <docPublishDate>2020-11-05T17:31:11.009+02:00</docPublishDate>
+        <docNumber>№ИИ1</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335200014920002491</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200014920002491</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка товара (Сок из фруктов и (или) овощей)</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03352000149</regNum>
+                <consRegistryNum>272J3311</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТР ОБЕСПЕЧЕНИЯ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ ТОРГОВ"</fullName>
+                <postAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</factAddress>
+                <INN>3904612235</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>AI</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</orgFactAddress>
+                <contactPerson>
+                    <lastName>Коробкова</lastName>
+                    <firstName>Мария</firstName>
+                    <middleName>Владимировна</middleName>
+                </contactPerson>
+                <contactEMail>m.korobkova@gov39.ru</contactEMail>
+                <contactPhone>7-4012-570431</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-10-30T17:39:20+02:00</startDate>
+                <place>ООО 'РТС - тендер'</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-11-13T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-16T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-17T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>1745225</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000522</regNum>
+                        <consRegistryNum>272Ч3391</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ БОЛЬНИЦА № 2"</fullName>
+                    </customer>
+                    <maxPrice>23000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>1150.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч33910</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390701212339060100102370050000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23907012123390601001</customerCode>
+                        <purchaseNumber>0237</purchaseNumber>
+                        <purchaseOrderNumber>005</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000522001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000522001000249</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>23000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>23000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>23000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>23000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>23000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000458</regNum>
+                        <consRegistryNum>272Ч5798</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "БАГРАТИОНОВСКАЯ ЦЕНТРАЛЬНАЯ РАЙОННАЯ БОЛЬНИЦА"</fullName>
+                    </customer>
+                    <maxPrice>30700</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>1535.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч57980</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202391500455039150100100800011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23915004550391501001</customerCode>
+                        <purchaseNumber>0080</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000458001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000458001000080</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>30700</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>30700</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>30700</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>30700</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>30700</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000532</regNum>
+                        <consRegistryNum>272Ц8956</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА СКОРОЙ МЕДИЦИНСКОЙ ПОМОЩИ"</fullName>
+                    </customer>
+                    <maxPrice>250000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>12500.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ц89560</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390604084039060100102860011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906040840390601001</customerCode>
+                        <purchaseNumber>0286</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000532001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000532001000375</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений (средства обязательного медицинского страхования)</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>250000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>250000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>250000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>250000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>250000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000047</regNum>
+                        <consRegistryNum>272X5441</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ №2"</fullName>
+                    </customer>
+                    <maxPrice>291750</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>14587.50</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356X54410</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390800899439060100101060011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23908008994390601001</customerCode>
+                        <purchaseNumber>0106</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000047001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000047001000106</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>291750</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>291750</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>291750</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>291750</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>291750</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000454</regNum>
+                        <consRegistryNum>272Ч4562</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ № 4"</fullName>
+                    </customer>
+                    <maxPrice>14400</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>720.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч45620</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390401335139060100100980011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23904013351390601001</customerCode>
+                        <purchaseNumber>0098</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000454001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000454001000099</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>14400</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>14400</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>14400</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>14400</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>14400</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000089</regNum>
+                        <consRegistryNum>272Ц7519</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>20000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>1000.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ц75190</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202391200705539120100100380011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23912007055391201001</customerCode>
+                        <purchaseNumber>0038</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000089001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000089001000038</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>20000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>20000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>20000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>20000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>20000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000140</regNum>
+                        <consRegistryNum>272X5442</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ № 1"</fullName>
+                    </customer>
+                    <maxPrice>201875</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>10093.75</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Х54420</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390604296839060100101220021032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906042968390601001</customerCode>
+                        <purchaseNumber>0122</purchaseNumber>
+                        <purchaseOrderNumber>002</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000140001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000140001000143</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений (средства обязательного медицинского страхования)</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>201875</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>201875</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>201875</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>201875</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>201875</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000136</regNum>
+                        <consRegistryNum>272X6914</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКАЯ ОБЛАСТНАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>20000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>1000.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Х69140</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390501046639060100100050120000000</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:undefined>000</ns3:undefined>
+                        </KVRInfo>
+                        <customerCode>23905010466390601001</customerCode>
+                        <purchaseNumber>0005</purchaseNumber>
+                        <purchaseOrderNumber>012</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000136001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000136001000005</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>20000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>20000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>20000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>20000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>20000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000010</regNum>
+                        <consRegistryNum>272X2812</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ОБЛАСТНАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>442500</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>22125.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Х28120</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390603079339060100106880011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906030793390601001</customerCode>
+                        <purchaseNumber>0688</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000010001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000010001000696</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>442500</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>442500</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>442500</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>442500</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>442500</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000079</regNum>
+                        <consRegistryNum>272У6012</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>12000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>600.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356У60120</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390605520539060100101010011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906055205390601001</customerCode>
+                        <purchaseNumber>0101</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000079001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000079001000107</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>12000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>12000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>12000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>12000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>12000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000080</regNum>
+                        <consRegistryNum>272У5949</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>80000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>4000.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356У59490</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202391200810839120100100680011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23912008108391201001</customerCode>
+                        <purchaseNumber>0068</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000080001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000080001000076</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Бюджет Калининградской области</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>80000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>80000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>80000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>80000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>80000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000191</regNum>
+                        <consRegistryNum>272Ч5156</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ БОЛЬНИЦА № 4"</fullName>
+                    </customer>
+                    <maxPrice>61000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>3050.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч51560</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390602923739060100101900011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906029237390601001</customerCode>
+                        <purchaseNumber>0190</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000191001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000191001000303</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений (средства обязательного медицинского страхования)</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>61000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>61000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>61000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>61000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>61000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000123</regNum>
+                        <consRegistryNum>272X3134</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПРОТИВОТУБЕРКУЛЕЗНЫЙ ДИСПАНСЕР КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>298000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>В соответствии с документацией об электронном аукционе</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с документацией об электронном аукционе</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>14900.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии с действующим законодательством о контрактной системе</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Х31340</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390501406939060100100870011032244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>10.32</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукция соковая из фруктов и овощей</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23905014069390601001</customerCode>
+                        <purchaseNumber>0087</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000123002</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000123002000087</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>298000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>298000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>298000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>298000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>298000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2000</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>80000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000136</regNum>
+                                <consRegistryNum>272X6914</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКАЯ ОБЛАСТНАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>500</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>20000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000140</regNum>
+                                <consRegistryNum>272X5442</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ № 1"</fullName>
+                            </customer>
+                            <quantity>4625</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>4625</value>
+                    </quantity>
+                    <sum>185000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000089</regNum>
+                                <consRegistryNum>272Ц7519</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>500</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>20000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000123</regNum>
+                                <consRegistryNum>272X3134</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПРОТИВОТУБЕРКУЛЕЗНЫЙ ДИСПАНСЕР КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>7000</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>7000</value>
+                    </quantity>
+                    <sum>280000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000191</regNum>
+                                <consRegistryNum>272Ч5156</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ БОЛЬНИЦА № 4"</fullName>
+                            </customer>
+                            <quantity>1300</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>1300</value>
+                    </quantity>
+                    <sum>52000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000532</regNum>
+                                <consRegistryNum>272Ц8956</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА СКОРОЙ МЕДИЦИНСКОЙ ПОМОЩИ"</fullName>
+                            </customer>
+                            <quantity>4000</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>4000</value>
+                    </quantity>
+                    <sum>160000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000047</regNum>
+                                <consRegistryNum>272X5441</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ №2"</fullName>
+                            </customer>
+                            <quantity>6900</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>6900</value>
+                    </quantity>
+                    <sum>276000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000522</regNum>
+                                <consRegistryNum>272Ч3391</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ БОЛЬНИЦА № 2"</fullName>
+                            </customer>
+                            <quantity>350</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>350</value>
+                    </quantity>
+                    <sum>14000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000010</regNum>
+                                <consRegistryNum>272X2812</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ОБЛАСТНАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>6000</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>6000</value>
+                    </quantity>
+                    <sum>240000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>300</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>12000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000458</regNum>
+                                <consRegistryNum>272Ч5798</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "БАГРАТИОНОВСКАЯ ЦЕНТРАЛЬНАЯ РАЙОННАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>610</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>610</value>
+                    </quantity>
+                    <sum>24400</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000007</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84452</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>cdb51dc7-1</code>
+                                <name>Сок с мякотью</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Нет</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Фруктовый</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000454</regNum>
+                                <consRegistryNum>272Ч4562</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ № 4"</fullName>
+                            </customer>
+                            <quantity>360</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>40</price>
+                    <quantity>
+                        <value>360</value>
+                    </quantity>
+                    <sum>14400</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000140</regNum>
+                                <consRegistryNum>272X5442</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ № 1"</fullName>
+                            </customer>
+                            <quantity>375</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>375</value>
+                    </quantity>
+                    <sum>16875</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000458</regNum>
+                                <consRegistryNum>272Ч5798</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "БАГРАТИОНОВСКАЯ ЦЕНТРАЛЬНАЯ РАЙОННАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>140</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>140</value>
+                    </quantity>
+                    <sum>6300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000010</regNum>
+                                <consRegistryNum>272X2812</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ОБЛАСТНАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>4500</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>4500</value>
+                    </quantity>
+                    <sum>202500</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000522</regNum>
+                                <consRegistryNum>272Ч3391</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ БОЛЬНИЦА № 2"</fullName>
+                            </customer>
+                            <quantity>200</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>200</value>
+                    </quantity>
+                    <sum>9000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000047</regNum>
+                                <consRegistryNum>272X5441</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА КАЛИНИНГРАДСКОЙ ОБЛАСТИ №2"</fullName>
+                            </customer>
+                            <quantity>350</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>350</value>
+                    </quantity>
+                    <sum>15750</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000532</regNum>
+                                <consRegistryNum>272Ц8956</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА СКОРОЙ МЕДИЦИНСКОЙ ПОМОЩИ"</fullName>
+                            </customer>
+                            <quantity>2000</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>90000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000191</regNum>
+                                <consRegistryNum>272Ч5156</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ БОЛЬНИЦА № 4"</fullName>
+                            </customer>
+                            <quantity>200</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>200</value>
+                    </quantity>
+                    <sum>9000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>10.32.10.000-00000011</code>
+                        <name>Сок из фруктов и (или) овощей</name>
+                        <versionId>84448</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ba784396-f</code>
+                                <name>Вид сока по способу обработки</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Стерилизованный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b8688b4d-f</code>
+                                <name>Вид сока по технологии производства</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Восстановленный</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>4549125b-7</code>
+                                <name>Вид сока</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Овощной</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сок из фруктов и (или) овощей</name>
+                    <OKEI>
+                        <code>112</code>
+                        <nationalCode>Л;ДМ3</nationalCode>
+                        <fullName>Литр;^кубический дециметр</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000123</regNum>
+                                <consRegistryNum>272X3134</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ПРОТИВОТУБЕРКУЛЕЗНЫЙ ДИСПАНСЕР КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>400</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>45</price>
+                    <quantity>
+                        <value>400</value>
+                    </quantity>
+                    <sum>18000</sum>
+                </purchaseObject>
+                <totalSum>1745225</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>IN44</shortName>
+                    <name>Организациям инвалидов (в соответствии со статьей 29 Федерального закона № 44-ФЗ)</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Требование о наличии у участника закупки специального разрешения (лицензии), членства в саморегулируемой организации или выданного саморегулируемой организацией свидетельства о допуске к определенному виду работ  законодательством Российской Федерации не установлено</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлено</content>
+                </requirement>
+            </requirements>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B2E5A2586D467513E0530F548D0AD33C</publishedContentId>
+                <fileName>ОБОСНОВАНИЕ НМЦК.docx</fileName>
+                <fileSize>33.54 Кб</fileSize>
+                <docDescription>Обоснование начальной (максимальной) цены контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B2E5A2586D467513E0530F548D0AD33C</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B2E5A2586D487513E0530F548D0AD33C</publishedContentId>
+                <fileName>ОПИСАНИЕ ОБЪЕКТА ЗАКУПКИ_сок город.docx</fileName>
+                <fileSize>16.94 Кб</fileSize>
+                <docDescription>Описание объекта закупки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B2E5A2586D487513E0530F548D0AD33C</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B35C1F7A3AF78FB3E0530F548D0A7121</publishedContentId>
+                <fileName>Документация.docx</fileName>
+                <fileSize>92.28 Кб</fileSize>
+                <docDescription>Документация</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B35C1F7A3AF78FB3E0530F548D0A7121</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B357DD7191DDE4B7E0530F548D0A4A10</publishedContentId>
+                <fileName>Проект контракта.docx</fileName>
+                <fileSize>56.72 Кб</fileSize>
+                <docDescription>Проект контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B357DD7191DDE4B7E0530F548D0A4A10</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B35C1F7A3AF98FB3E0530F548D0A7121</publishedContentId>
+                <fileName>Извещение.docx</fileName>
+                <fileSize>23.93 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B35C1F7A3AF98FB3E0530F548D0A7121</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B2E421D2C2C347EEE0530F548D0A93EC</publishedContentId>
+                <fileName>Понятия и определения_ используемые заказчиком в техническом задании.docx</fileName>
+                <fileSize>12.52 Кб</fileSize>
+                <docDescription>Понятия и определения, используемые заказчиком в техническом задании</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B2E421D2C2C347EEE0530F548D0A93EC</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIU5gYJKoZIhvcNAQcCoIIU1zCCFNMCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEFcwggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIItzCCCGSgAwIBAgIUMgRygksZmpbtCAJjAq0mPa8L+CYwCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwMzMwMTIxMjIwWhcNMjEwNjMwMTIxMjIwWjCCAisxGjAYBggqhQMDgQMBARIMMzkwNDA0NTI0OTY4MRYwFAYFKoUDZAMSCzExNjc1MjI2MjUzMSMwIQYJKoZIhvcNAQkBFhRtLmtvcm9ia292YUBnb3YzOS5ydTELMAkGA1UEBhMCUlUxNjA0BgNVBAgMLdCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDEfMB0GA1UEBwwW0JrQsNC70LjQvdC40L3Qs9GA0LDQtDGB3TCB2gYDVQQKDIHS0JPQntCh0KPQlNCQ0KDQodCi0JLQldCd0J3QntCVINCa0JDQl9CV0J3QndCe0JUg0KPQp9Cg0JXQltCU0JXQndCY0JUg0JrQkNCb0JjQndCY0J3Qk9Cg0JDQlNCh0JrQntCZINCe0JHQm9CQ0KHQotCYICLQptCV0J3QotCgINCe0JHQldCh0J/QldCn0JXQndCY0K8g0J7QoNCT0JDQndCY0JfQkNCm0JjQmCDQmCDQn9Cg0J7QktCV0JTQldCd0JjQryDQotCe0KDQk9Ce0JIiMSwwKgYDVQQqDCPQnNCw0YDQuNGPINCS0LvQsNC00LjQvNC40YDQvtCy0L3QsDEbMBkGA1UEBAwS0JrQvtGA0L7QsdC60L7QstCwMT8wPQYDVQQDDDbQmtC+0YDQvtCx0LrQvtCy0LAg0JzQsNGA0LjRjyDQktC70LDQtNC40LzQuNGA0L7QstC90LAwaDAhBggqhQMHAQEBATAVBgkqhQMHAQIBAQEGCCqFAwcBAQICA0MABECbjdI59EDYueCOP99H7hDk3KZjikgFnahyF5+vyrfXXiY8Y5B4DE103/cxVHsLCGZVUYESYWWzbyQ5qG0eJmfVo4IEDzCCBAswDAYDVR0TAQH/BAIwADATBgNVHSAEDDAKMAgGBiqFA2RxATA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBZAYFKoUDZHAEggFZMIIBVQxHItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiINCy0LXRgNGB0LjRjyA0LjAgKNC40YHQv9C+0LvQvdC10L3QuNC1IDItQmFzZSkMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gMy4wDE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI0LTMzODAg0L7RgiAxMS4wNS4yMDE4DE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI4LTM1ODEg0L7RgiAyMC4xMi4yMDE4MA4GA1UdDwEB/wQEAwID+DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwKwYDVR0QBCQwIoAPMjAyMDAzMzAxMjA1NTdagQ8yMDIxMDYzMDEyMDU1N1owggFfBgNVHSMEggFWMIIBUoAU0GSWbXJA61h9JH+7IFvPw45setShggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ggpiq3mVAAAAAAO2MGgGA1UdHwRhMF8wLqAsoCqGKGh0dHA6Ly9jcmwucm9za2F6bmEucnUvY3JsL3VjZmtfMjAyMC5jcmwwLaAroCmGJ2h0dHA6Ly9jcmwuZnNmay5sb2NhbC9jcmwvdWNma18yMDIwLmNybDAdBgNVHQ4EFgQUkPSh3oq8e4ZDHjwBhBFHQklYSuAwCgYIKoUDBwEBAwIDQQCeRGzNx4PheMWXRVSAJ1gWO2Svb/KJhuf5jS45Ynwe5XATzJ3wA8i/ppLsAmPK6jzYyYjHvozcL22clDs3wLR7MYIEVDCCBFACAQEwggGHMIIBbTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGTAXBgNVBAgMENCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+AhQyBHKCSxmalu0IAmMCrSY9rwv4JjAMBggqhQMHAQECAgUAoIICSzAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMDUxNTMxMDRaMC8GCSqGSIb3DQEJBDEiBCA5bP4HjPduZruGd5xfGy6m/81bZySIr/F0ixP546FT+DCCAd4GCyqGSIb3DQEJEAIvMYIBzTCCAckwggHFMIIBwTAKBggqhQMHAQECAgQgV6XTC5KEdiSGh3gaibO6BRuCyrB/brzTKmwfJNW5xXYwggGPMIIBdaSCAXEwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFDIEcoJLGZqW7QgCYwKtJj2vC/gmMCEGCCqFAwcBAQEBMBUGCSqFAwcBAgEBAQYIKoUDBwEBAgIEQBp4Wv5lXeN+1Mu7DJXF3FaJpXHe6gJ9T+C0ON2kjisWDBSTRHRFU1AefAnx63KS+Jj/31QmDER4xvR8kBchjLs=</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <modification>
+            <modificationNumber>1</modificationNumber>
+            <info>Внесение изменений в проект контратка</info>
+            <reason>
+                <responsibleDecision>
+                    <decisionDate>2020-11-03T00:00:00+03:00</decisionDate>
+                </responsibleDecision>
+            </reason>
+        </modification>
+        <documentation>
+            <purchaseObjectsCh9St37>true</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-10-30T20:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-11T19:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24970096&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

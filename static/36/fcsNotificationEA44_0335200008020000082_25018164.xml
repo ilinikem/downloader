@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25018164</id>
+        <externalId>15CEE899-4E76-44B6-9494-4C4C776CB0A001</externalId>
+        <purchaseNumber>0335200008020000082</purchaseNumber>
+        <docPublishDate>2020-11-11T12:44:15.683+02:00</docPublishDate>
+        <docNumber>№0335200008020000082</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335200008020000082</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200008020000082</url>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по лабораторным исследованиям</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03352000080</regNum>
+                <consRegistryNum>272У5949</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                <postAddress>Российская Федерация, 238563, Калининградская обл, Светлогорский р-н, Светлогорск г, УЛ ПИОНЕРСКАЯ, 1</postAddress>
+                <factAddress>Российская Федерация, 238563, Калининградская обл, Светлогорский р-н, Светлогорск г, УЛ ПИОНЕРСКАЯ, 1</factAddress>
+                <INN>3912008108</INN>
+                <KPP>391201001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 238563, Калининградская обл, Светлогорский р-н, Светлогорск г, УЛ ПИОНЕРСКАЯ, 1</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 238563, Калининградская обл, Светлогорский р-н, Светлогорск г, УЛ ПИОНЕРСКАЯ, 1</orgFactAddress>
+                <contactPerson>
+                    <lastName>ШЕСТЕРОВ</lastName>
+                    <firstName>АРКАДИЙ</firstName>
+                    <middleName>ВАДИМОВИЧ</middleName>
+                </contactPerson>
+                <contactEMail>zakupki.dpt-san@infomed39.ru</contactEMail>
+                <contactPhone>7-40153-22761</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-11T12:44:15+02:00</startDate>
+                <place>АО "Единая электронная торговая площадка"</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-11-20T10:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-23T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-24T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>99860</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000080</regNum>
+                        <consRegistryNum>272У5949</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>99860</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>в соответствии с условиями Проекта Контракта</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>с даты заключения контракта до 01.08.2021</deliveryTerm>
+                    <purchaseCode>202391200810839120100100070028690000</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>86.90</ns4:OKPDCode>
+                                <ns4:OKPDName>Услуги в области медицины прочие</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:undefined>000</ns3:undefined>
+                        </KVRInfo>
+                        <customerCode>23912008108391201001</customerCode>
+                        <purchaseNumber>0007</purchaseNumber>
+                        <purchaseOrderNumber>002</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000080001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000080001000012</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Бюджет Калининградской области</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>99860</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>99860</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>99860</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>99860</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>99860</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Клинический анализ крови</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>140</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>290</price>
+                    <quantity>
+                        <value>140</value>
+                    </quantity>
+                    <sum>40600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Общий анализ мочи</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>140</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>126</price>
+                    <quantity>
+                        <value>140</value>
+                    </quantity>
+                    <sum>17640</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на AlAt (Аланинаминотрансфераза)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>140</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>91</price>
+                    <quantity>
+                        <value>140</value>
+                    </quantity>
+                    <sum>12740</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на AsAt (Аспартатаминотрансфераза)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>140</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>91</price>
+                    <quantity>
+                        <value>140</value>
+                    </quantity>
+                    <sum>12740</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на гамма-глютамилтрансферазу</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>140</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>89</price>
+                    <quantity>
+                        <value>140</value>
+                    </quantity>
+                    <sum>12460</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на билирубин</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>5</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>88</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>440</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на глюкозу</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>5</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>78</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>390</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на мочевину</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>5</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>91</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>455</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на креатинин</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>5</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>91</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>455</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Анализ крови на С-реактивный белок</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>10</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>91</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>910</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование кала на яйца гельминтов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03352000080</regNum>
+                                <consRegistryNum>272У5949</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ДЕТСКИЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>5</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>206</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>1030</sum>
+                </purchaseObject>
+                <totalSum>99860</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Требование о наличии у участника закупки специального разрешения (лицензии), членства в саморегулируемой организации или выданного саморегулируемой организацией свидетельства о допуске к определенному виду работ  законодательством Российской Федерации не установлено</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B3D1E3CFCB3F4F8DE0530F548D0AA63C</publishedContentId>
+                <fileName>НМЦК_лабисс.docx</fileName>
+                <fileSize>17.01 Кб</fileSize>
+                <docDescription>Обоснование начальной (максимальной) цены контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D1E3CFCB3F4F8DE0530F548D0AA63C</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3CFC6F960AB5993E0530F548D0A6144</publishedContentId>
+                <fileName>ТЗ_лабисследования.docx</fileName>
+                <fileSize>21.98 Кб</fileSize>
+                <docDescription>Описание объекта закупки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3CFC6F960AB5993E0530F548D0A6144</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3D2706325E71776E0530F548D0AD14F</publishedContentId>
+                <fileName>Документация_лабисследования.docx</fileName>
+                <fileSize>85.81 Кб</fileSize>
+                <docDescription>Документация</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D2706325E71776E0530F548D0AD14F</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIVjgYJKoZIhvcNAQcCoIIVfzCCFXsCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCENUwggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIJNTCCCOKgAwIBAgIUYAiGr241IR3qwRt9sBZwPEvaAaswCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwNTEyMDczMzI0WhcNMjEwODEyMDczMzI0WjCCAjExGjAYBggqhQMDgQMBARIMMzkxMjAxMTE5Njc3MRYwFAYFKoUDZAMSCzA1MDc4NDc2Nzc3MSMwIQYJKoZIhvcNAQkBFhRkcHQtc2FuQGluZm9tZWQzOS5ydTELMAkGA1UEBhMCUlUxNjA0BgNVBAgMLdCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDEfMB0GA1UEBwwW0KHQstC10YLQu9C+0LPQvtGA0YHQujGB6zCB6AYDVQQKDIHg0JPQntCh0KPQlNCQ0KDQodCi0JLQldCd0J3QntCVINCR0K7QlNCW0JXQotCd0J7QlSDQo9Cn0KDQldCW0JTQldCd0JjQlSDQl9CU0KDQkNCS0J7QntCl0KDQkNCd0JXQndCY0K8gItCU0JXQotCh0JrQmNCZINCf0KDQntCi0JjQktCe0KLQo9CR0JXQoNCa0KPQm9CV0JfQndCr0Jkg0KHQkNCd0JDQotCe0KDQmNCZINCa0JDQm9CY0J3QmNCd0JPQoNCQ0JTQodCa0J7QmSDQntCR0JvQkNCh0KLQmCIxKjAoBgNVBCoMIdCQ0YDQutCw0LTQuNC5INCS0LDQtNC40LzQvtCy0LjRhzEZMBcGA1UEBAwQ0KjQtdGB0YLQtdGA0L7QsjE7MDkGA1UEAwwy0KjQtdGB0YLQtdGA0L7QsiDQkNGA0LrQsNC00LjQuSDQktCw0LTQuNC80L7QstC40YcwZjAfBggqhQMHAQEBATATBgcqhQMCAiQABggqhQMHAQECAgNDAARAJoKJQLPl/AJNLbtc4Irtg9282fxYnU5FE+6ML1bQ4GvXraQJwtnzGAF1QvbPrkb/nQyfwdPEMX3hXD3pMBxvyKOCBIkwggSFMAwGA1UdEwEB/wQCMAAwHQYDVR0gBBYwFDAIBgYqhQNkcQEwCAYGKoUDZHECMCgGA1UdEQQhMB+gHQYKKoUDAz2e1zYBCKAPEw0wMzM1MjAwMDAwMDg3MDYGBSqFA2RvBC0MKyLQmtGA0LjQv9GC0L7Qn9GA0L4gQ1NQIiAo0LLQtdGA0YHQuNGPIDQuMCkwggFkBgUqhQNkcASCAVkwggFVDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKQxo0J/RgNC+0LPRgNCw0LzQvNC90L4t0LDQv9C/0LDRgNCw0YLQvdGL0Lkg0LrQvtC80L/Qu9C10LrRgSDCq9Cu0L3QuNGB0LXRgNGCLdCT0J7QodCiwrsuINCS0LXRgNGB0LjRjyAzLjAMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjQtMzM4MCDQvtGCIDExLjA1LjIwMTgMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjgtMzU4MSDQvtGCIDIwLjEyLjIwMTgwDgYDVR0PAQH/BAQDAgP4MGMGA1UdJQRcMFoGCCsGAQUFBwMBBggrBgEFBQcDAgYIKoUDAgEGCAUGDSqFAwM9ntc2AQYDBQEGDSqFAwM9ntc2AQYDBQIGCCqFAwOBewEBBggqhQMDgXsIAQYIKoUDA4F7CAIwKwYDVR0QBCQwIoAPMjAyMDA1MTIwNzMwNDRagQ8yMDIxMDgxMjA3MzA0NFowggFfBgNVHSMEggFWMIIBUoAU0GSWbXJA61h9JH+7IFvPw45setShggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ggpiq3mVAAAAAAO2MGgGA1UdHwRhMF8wLqAsoCqGKGh0dHA6Ly9jcmwucm9za2F6bmEucnUvY3JsL3VjZmtfMjAyMC5jcmwwLaAroCmGJ2h0dHA6Ly9jcmwuZnNmay5sb2NhbC9jcmwvdWNma18yMDIwLmNybDAdBgNVHQ4EFgQUoLMsjCzPVyqSfv9uCuJsI4tZh2AwCgYIKoUDBwEBAwIDQQAYD7ir1dFFosWSzbHcQK8XjTsdUT0jXsnr0K06Ya7wSus7HXteAbbxHw6j3bHI639arjOJx2Ti3lLrqaT9KmRwMYIEfjCCBHoCAQEwggGHMIIBbTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGTAXBgNVBAgMENCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+AhRgCIavbjUhHerBG32wFnA8S9oBqzAMBggqhQMHAQECAgUAoIICdzAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMTExMDQxMDFaMCoGCisGAQQBgjdYAgExHAQaRABvAGMAdQBtAGUAbgB0ACAATgBhAG0AZQAwLwYJKoZIhvcNAQkEMSIEIHIepNLmdlwsBxTNdXzpgD8/ISq5c1pqWKa1478KXicvMIIB3gYLKoZIhvcNAQkQAi8xggHNMIIByTCCAcUwggHBMAoGCCqFAwcBAQICBCD7N/VOCUE+Fiz/Lu9xrCW+qZSK9VkE8Mhd48cijnZQjjCCAY8wggF1pIIBcTCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvgIUYAiGr241IR3qwRt9sBZwPEvaAaswHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIEQNsXcHtPsgTSysLXQW/sZ9yI6tq5N4AohZvs1Qgz1VROKpONGui67gJVHJ7IyH3SiBzLRBQ13H3viEVO7ANfZ+4=</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3CFC6F960A95993E0530F548D0A6144</publishedContentId>
+                <fileName>Проект_контракта_лабисследования.docx</fileName>
+                <fileSize>41.58 Кб</fileSize>
+                <docDescription>Проект контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3CFC6F960A95993E0530F548D0A6144</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-12T00:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-18T10:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25018164&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

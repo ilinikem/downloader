@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:epNotificationEZK schemeVersion="10.2.310">
+        <ns8:id>25038521</ns8:id>
+        <ns8:versionNumber>1</ns8:versionNumber>
+        <ns8:commonInfo>
+            <ns8:purchaseNumber>0335100001720000013</ns8:purchaseNumber>
+            <ns8:docNumber>№0335100001720000013</ns8:docNumber>
+            <ns8:plannedPublishDate>2020-11-17+02:00</ns8:plannedPublishDate>
+            <ns8:publishDTInEIS>2020-11-18T16:57:05.361+02:00</ns8:publishDTInEIS>
+            <ns8:href>https://zakupki.gov.ru/epz/order/notice/zk504/view/common-info.html?regNumber=0335100001720000013</ns8:href>
+            <ns8:isGOZ>false</ns8:isGOZ>
+            <ns8:purchaseObjectInfo>Приборы бытовые электрические </ns8:purchaseObjectInfo>
+            <ns8:placingWay>
+                <ns4:code>ZKP504</ns4:code>
+                <ns4:name>Запрос котировок в электронной форме</ns4:name>
+            </ns8:placingWay>
+            <ns8:ETP>
+                <ns4:code>ETP_EETP</ns4:code>
+                <ns4:name>АО «ЕЭТП»</ns4:name>
+                <ns4:url>http://roseltorg.ru</ns4:url>
+            </ns8:ETP>
+            <ns8:contractConclusionOnSt83Ch2>true</ns8:contractConclusionOnSt83Ch2>
+        </ns8:commonInfo>
+        <ns8:purchaseResponsibleInfo>
+            <ns8:responsibleOrgInfo>
+                <ns8:regNum>03351000017</ns8:regNum>
+                <ns8:consRegistryNum>00121795</ns8:consRegistryNum>
+                <ns8:fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 4 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</ns8:fullName>
+                <ns8:postAddress>Российская Федерация, 238543, Калининградская обл, Зеленоградский р-н, Колосовка п</ns8:postAddress>
+                <ns8:factAddress>Российская Федерация, 238543, Калининградская обл, Зеленоградский р-н, Колосовка п</ns8:factAddress>
+                <ns8:INN>3918008707</ns8:INN>
+                <ns8:KPP>391801001</ns8:KPP>
+            </ns8:responsibleOrgInfo>
+            <ns8:responsibleRole>CU</ns8:responsibleRole>
+            <ns8:responsibleInfo>
+                <ns8:orgPostAddress>Российская Федерация, 238543, Калининградская обл, Зеленоградский р-н, Колосовка п</ns8:orgPostAddress>
+                <ns8:orgFactAddress>Российская Федерация, 238543, Калининградская обл, Зеленоградский р-н, Колосовка п</ns8:orgFactAddress>
+                <ns8:contactPersonInfo>
+                    <ns3:lastName>Олесова</ns3:lastName>
+                    <ns3:firstName>Зоя</ns3:firstName>
+                    <ns3:middleName>Михитаровна</ns3:middleName>
+                </ns8:contactPersonInfo>
+                <ns8:contactEMail>proiz.ik4@yandex.ru</ns8:contactEMail>
+                <ns8:contactPhone>7-4012-355700-4407</ns8:contactPhone>
+                <ns8:addInfo>Информация отсутствует</ns8:addInfo>
+            </ns8:responsibleInfo>
+        </ns8:purchaseResponsibleInfo>
+        <ns8:printFormInfo>
+            <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100001720000013</ns3:url>
+        </ns8:printFormInfo>
+        <ns8:attachmentsInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B3E8F0C4A1514EF3E0530F548D0ABFA9</ns3:publishedContentId>
+                <ns3:fileName>Приборы бытовые электрические 88013,33.docx</ns3:fileName>
+                <ns3:fileSize>71177</ns3:fileSize>
+                <ns3:docDescription>Приборы бытовые электрические 88013,33</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3E8F0C4A1514EF3E0530F548D0ABFA9</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+        </ns8:attachmentsInfo>
+        <ns8:notificationInfo>
+            <ns8:procedureInfo>
+                <ns8:collectingInfo>
+                    <ns8:startDT>2020-11-18T16:57:05+02:00</ns8:startDT>
+                    <ns8:endDT>2020-11-26T19:16:00+02:00</ns8:endDT>
+                    <ns8:place>АО «ЕЭТП»</ns8:place>
+                    <ns8:order>Заявка на участие в запросе котировок в электронной форме состоит из предложений участника запроса котировок в электронной форме о предлагаемых товаре, работе, услуге, а также о цене контракта, сумме цен единиц товара, работы, услуги. Такая заявка направляется участником запроса котировок в электронной форме оператору электронной площадки.</ns8:order>
+                </ns8:collectingInfo>
+                <ns8:additionalInfo>Информация отсутствует</ns8:additionalInfo>
+                <ns8:contractTermAdd>Контракт может быть заключен не ранее чем через десять дней с даты размещения в единой информационной системе указанных в части 12 статьи 54.7, части 8 статьи 69 настоящего Федерального закона, части 13 настоящей статьи протоколов, а в случае определения поставщика (подрядчика, исполнителя) путем проведения запроса котировок в электронной форме или запроса предложений в электронной форме не ранее чем через семь дней с даты размещения в единой информационной системе указанных в части 8 статьи 82.4, части 23 статьи 83.1 настоящего Федерального закона протоколов.</ns8:contractTermAdd>
+                <ns8:contractConditionsAdd>В течение пяти дней с даты размещения в единой информационной системе указанных в части 12 статьи 54.7, части 8 статьи 69, части 8 статьи 82.4, части 23 статьи 83.1 настоящего Федерального закона протоколов заказчик размещает в единой информационной системе и на электронной площадке с использованием единой информационной системы без своей подписи проект контракта, который составляется путем включения с использованием единой информационной системы в проект контракта, прилагаемый к документации или извещению о закупке, цены контракта (за исключением части 2.1 настоящей статьи), предложенной участником закупки, с которым заключается контракт, либо предложения о цене за право заключения контракта в случае, предусмотренном частью 23 статьи 68 настоящего Федерального закона, а также включения представленной в соответствии с настоящим Федеральным законом информации о товаре (товарном знаке и (или) конкретных показателях товара, стране происхождения товара), информации, предусмотренной пунктом 2 части 4 статьи 54.4, пунктом 7 части 9 статьи 83.1 настоящего Федерального закона, указанных в заявке, окончательном предложении участника электронной процедуры. Победитель электронной процедуры (за исключением победителя, предусмотренного частью 14 настоящей статьи) признается заказчиком уклонившимся от заключения контракта в случае, если в сроки, предусмотренные настоящей статьей, он не направил заказчику проект контракта, подписанный лицом, имеющим право действовать от имени такого победителя, или не направил протокол разногласий, предусмотренный частью 4 настоящей статьи, или не исполнил требования, предусмотренные статьей 37 настоящего Федерального закона (в случае снижения при проведении электронного аукциона или конкурса цены контракта, суммы цен единиц товара, работы, услуги на двадцать пять процентов и более от начальной (максимальной) цены контракта, начальной суммы цен единиц товара, работы, услуги).</ns8:contractConditionsAdd>
+            </ns8:procedureInfo>
+            <ns8:contractConditionsInfo>
+                <ns8:maxPriceInfo>
+                    <ns8:maxPrice>88013.33</ns8:maxPrice>
+                    <ns8:currency>
+                        <ns4:code>RUB</ns4:code>
+                        <ns4:name>Российский рубль</ns4:name>
+                    </ns8:currency>
+                </ns8:maxPriceInfo>
+                <ns8:maxPriceJustification>Приложение №4 проекта контракта</ns8:maxPriceJustification>
+            </ns8:contractConditionsInfo>
+            <ns8:customerRequirementsInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>03351000017</ns4:regNum>
+                        <ns4:consRegistryNum>00121795</ns4:consRegistryNum>
+                        <ns4:fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ "ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 4 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractGuarantee>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40302810340301004001</ns3:settlementAccount>
+                            <ns3:personalAccount>05351217950</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>Контракт заключается только после предоставления победителем, с которым заключается контракт, обеспечения исполнения контракта в форме: предоставления банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона 44 - ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд», или внесением денежных средств на указанный Заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику. Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно. В случае если участником закупки, с которым заключается контракт, является государственное или муниципальное казенное учреждение, положения Федерального закона от 05.04.2013 № 44-ФЗ об обеспечении исполнения контракта к такому участнику не применяются.</ns8:procedureInfo>
+                        <ns8:part>5.0</ns8:part>
+                    </ns8:contractGuarantee>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>88013.33</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:purchaseCode>201391800870739180100100410012751244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>27.51</ns4:OKPDCode>
+                                    <ns4:OKPDName>Приборы бытовые электрические</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>13918008707391801001</ns8:customerCode>
+                            <ns8:purchaseNumber>0041</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202003351000017001</ns3:plan2020Number>
+                            <ns3:position2020Number>202003351000017001000055</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:financingSource>Федеральный бюджет</ns8:financingSource>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>88013.33</ns8:total>
+                                    <ns8:currentYear>88013.33</ns8:currentYear>
+                                    <ns8:firstYear>0</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:budgetFinancings>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:budgetFinancing>
+                                    <ns8:KBKCode>32003054230190048244</ns8:KBKCode>
+                                    <ns8:KBKYearsInfo>
+                                        <ns8:total>88013.33</ns8:total>
+                                        <ns8:currentYear>88013.33</ns8:currentYear>
+                                        <ns8:firstYear>0</ns8:firstYear>
+                                        <ns8:secondYear>0</ns8:secondYear>
+                                        <ns8:subsecYears>0</ns8:subsecYears>
+                                    </ns8:KBKYearsInfo>
+                                </ns8:budgetFinancing>
+                                <ns8:totalSum>88013.33</ns8:totalSum>
+                            </ns8:budgetFinancings>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:BOInfo>
+                            <ns8:BONumber>0012179520000000036</ns8:BONumber>
+                            <ns8:BODate>2020-11-17T00:00:00+03:00</ns8:BODate>
+                            <ns8:inputBOFlag>auto</ns8:inputBOFlag>
+                            <ns8:BORegistered>false</ns8:BORegistered>
+                        </ns8:BOInfo>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39006000005</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл, Зеленоградский р-н, Колосовка п</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>ФКУ ИК-4 УФСИН России по Калининградской области</ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>в течение 10 (десяти) календарных дней с момента подписания контракта.</ns8:deliveryTerm>
+                        <ns8:oneSideRejection>Предусмотрена</ns8:oneSideRejection>
+                    </ns8:contractConditionsInfo>
+                </ns8:customerRequirementInfo>
+            </ns8:customerRequirementsInfo>
+            <ns8:purchaseObjectsInfo>
+                <ns8:notDrugPurchaseObjectsInfo>
+                    <ns3:purchaseObject>
+                        <ns3:KTRU>
+                            <ns4:code>27.51.21.122-00000002</ns4:code>
+                            <ns4:name>Мясорубка электрическая</ns4:name>
+                            <ns4:versionId>110497</ns4:versionId>
+                            <ns4:versionNumber>1</ns4:versionNumber>
+                            <ns3:characteristics>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>98172b3c-a</ns3:code>
+                                    <ns3:name>Наличие функции защиты от перегрузки</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>820f3ddf-d</ns3:code>
+                                    <ns3:name>Наличие режима реверс</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>84775e5f-c</ns3:code>
+                                    <ns3:name>Количество скоростей</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Односкоростная</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>e0d269d8-5</ns3:code>
+                                    <ns3:name>Тип подачи</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Ручной</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>045484d3-2</ns3:code>
+                                    <ns3:name>Необходимое напряжение сети</ns3:name>
+                                    <ns3:type>2</ns3:type>
+                                    <ns3:kind>3</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:OKEI>
+                                                <ns4:code>222</ns4:code>
+                                                <ns4:nationalCode>В</ns4:nationalCode>
+                                                <ns4:name>Вольт</ns4:name>
+                                            </ns3:OKEI>
+                                            <ns3:valueFormat>N</ns3:valueFormat>
+                                            <ns3:valueSet>
+                                                <ns3:concreteValue>220.0000</ns3:concreteValue>
+                                            </ns3:valueSet>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>9a1bf317-f</ns3:code>
+                                    <ns3:name>Дополнительные функции</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>3</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Насадка для резки и шинковки овощей</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>4ff55812-3</ns3:code>
+                                    <ns3:name>Класс энергетической эффективности</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>А+</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>546c0cba-c</ns3:code>
+                                    <ns3:name>Мощность</ns3:name>
+                                    <ns3:type>2</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:OKEI>
+                                                <ns4:code>214</ns4:code>
+                                                <ns4:nationalCode>КВТ</ns4:nationalCode>
+                                                <ns4:name>Киловатт</ns4:name>
+                                            </ns3:OKEI>
+                                            <ns3:valueFormat>N</ns3:valueFormat>
+                                            <ns3:rangeSet>
+                                                <ns3:valueRange>
+                                                    <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                    <ns3:min>5</ns3:min>
+                                                </ns3:valueRange>
+                                            </ns3:rangeSet>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>2834c515-7</ns3:code>
+                                    <ns3:name>Производительность, кг/ч</ns3:name>
+                                    <ns3:type>2</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:valueFormat>N</ns3:valueFormat>
+                                            <ns3:rangeSet>
+                                                <ns3:valueRange>
+                                                    <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                    <ns3:min>200</ns3:min>
+                                                    <ns3:maxMathNotation>less</ns3:maxMathNotation>
+                                                    <ns3:max>300</ns3:max>
+                                                </ns3:valueRange>
+                                            </ns3:rangeSet>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>923367d8-c</ns3:code>
+                                    <ns3:name>Тип системы измельчения</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>1</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Унгер</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                            </ns3:characteristics>
+                        </ns3:KTRU>
+                        <ns3:name>Мясорубка электрическая</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>43773.33</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>43773.33</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:KTRU>
+                            <ns4:code>27.51.25.110-00000001</ns4:code>
+                            <ns4:name>Электрокипятильник</ns4:name>
+                            <ns4:versionId>108492</ns4:versionId>
+                            <ns4:versionNumber>1</ns4:versionNumber>
+                            <ns3:characteristics>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>95464478-4</ns3:code>
+                                    <ns3:name>Наличие фильтров для воды</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>2fd1935c-a</ns3:code>
+                                    <ns3:name>Рабочий объем</ns3:name>
+                                    <ns3:type>2</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:OKEI>
+                                                <ns4:code>112</ns4:code>
+                                                <ns4:nationalCode>Л;ДМ3</ns4:nationalCode>
+                                                <ns4:name>Литр;^кубический дециметр</ns4:name>
+                                            </ns3:OKEI>
+                                            <ns3:valueFormat>N</ns3:valueFormat>
+                                            <ns3:rangeSet>
+                                                <ns3:valueRange>
+                                                    <ns3:maxMathNotation>less</ns3:maxMathNotation>
+                                                    <ns3:max>50</ns3:max>
+                                                </ns3:valueRange>
+                                            </ns3:rangeSet>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>691d1fac-8</ns3:code>
+                                    <ns3:name>Наличие индикатора уровня воды</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>a1eab37c-2</ns3:code>
+                                    <ns3:name>Наличие термостата</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>f4d5e5b6-1</ns3:code>
+                                    <ns3:name>Необходимое напряжение сети</ns3:name>
+                                    <ns3:type>2</ns3:type>
+                                    <ns3:kind>3</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:OKEI>
+                                                <ns4:code>222</ns4:code>
+                                                <ns4:nationalCode>В</ns4:nationalCode>
+                                                <ns4:name>Вольт</ns4:name>
+                                            </ns3:OKEI>
+                                            <ns3:valueFormat>N</ns3:valueFormat>
+                                            <ns3:valueSet>
+                                                <ns3:concreteValue>220.0000</ns3:concreteValue>
+                                            </ns3:valueSet>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>ef877539-6</ns3:code>
+                                    <ns3:name>Мощность</ns3:name>
+                                    <ns3:type>2</ns3:type>
+                                    <ns3:kind>2</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:OKEI>
+                                                <ns4:code>214</ns4:code>
+                                                <ns4:nationalCode>КВТ</ns4:nationalCode>
+                                                <ns4:name>Киловатт</ns4:name>
+                                            </ns3:OKEI>
+                                            <ns3:valueFormat>N</ns3:valueFormat>
+                                            <ns3:rangeSet>
+                                                <ns3:valueRange>
+                                                    <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                    <ns3:min>5</ns3:min>
+                                                </ns3:valueRange>
+                                            </ns3:rangeSet>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                                <ns3:characteristicsUsingReferenceInfo>
+                                    <ns3:code>ab0474f5-c</ns3:code>
+                                    <ns3:name>Тип кипятильника</ns3:name>
+                                    <ns3:type>1</ns3:type>
+                                    <ns3:kind>1</ns3:kind>
+                                    <ns3:values>
+                                        <ns3:value>
+                                            <ns3:qualityDescription>Наливной</ns3:qualityDescription>
+                                        </ns3:value>
+                                    </ns3:values>
+                                </ns3:characteristicsUsingReferenceInfo>
+                            </ns3:characteristics>
+                        </ns3:KTRU>
+                        <ns3:name>Электрокипятильник</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>6346.67</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>6346.67</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>27.51.21.129</ns4:OKPDCode>
+                            <ns4:OKPDName>Машины и приборы для механизации кухонных работ прочие, не включенные в другие группировки</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Машины и приборы для механизации кухонных работ прочие, не включенные в другие группировки</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>37893.33</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>37893.33</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:totalSum>88013.33</ns3:totalSum>
+                    <ns8:quantityUndefined>false</ns8:quantityUndefined>
+                </ns8:notDrugPurchaseObjectsInfo>
+            </ns8:purchaseObjectsInfo>
+            <ns8:preferensesInfo>
+                <ns8:preferenseInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>RBK126</ns4:shortName>
+                        <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:prefValue>15.0</ns3:prefValue>
+                </ns8:preferenseInfo>
+            </ns8:preferensesInfo>
+            <ns8:requirementsInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44</ns4:shortName>
+                        <ns4:name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>TR442</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+            </ns8:requirementsInfo>
+            <ns8:restrictionsInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MB44330</ns4:shortName>
+                        <ns4:name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:restrictionInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>JB2149</ns4:shortName>
+                        <ns4:name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </ns3:restrictionsSt14>
+                </ns8:restrictionInfo>
+            </ns8:restrictionsInfo>
+            <ns8:contractServiceInfo>Определена приказом ФКУ ИК-4 УФСИН России по Калининградской области</ns8:contractServiceInfo>
+        </ns8:notificationInfo>
+    </ns2:epNotificationEZK>
+</ns2:export>

@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25131984</id>
+        <externalId>8130A602-1984-4394-998C-F3D5B73FB68801</externalId>
+        <purchaseNumber>0335200014920002901</purchaseNumber>
+        <docPublishDate>2020-11-20T16:28:36.550+02:00</docPublishDate>
+        <docNumber>№0335200014920002901</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335200014920002901</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200014920002901</url>
+        </printForm>
+        <purchaseObjectInfo>на поставку наборов биохимических реагентов для определения субстратов и наборов реагентов для количественного и качественного определения иммуноглобулинов или антигенов инфекционных агентов методом иммуноферментного анализа</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03352000149</regNum>
+                <consRegistryNum>272J3311</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТР ОБЕСПЕЧЕНИЯ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ ТОРГОВ"</fullName>
+                <postAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</factAddress>
+                <INN>3904612235</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>AI</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</orgFactAddress>
+                <contactPerson>
+                    <lastName>Шабохина</lastName>
+                    <firstName>Светлана</firstName>
+                    <middleName>Владимировна</middleName>
+                </contactPerson>
+                <contactEMail>s.shabohina@gov39.ru</contactEMail>
+                <contactPhone>7-4012-570431</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-20T16:28:36+02:00</startDate>
+                <place>ООО 'РТС - тендер'</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-12-01T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-12-02T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-12-03T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>5970362</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000447</regNum>
+                        <consRegistryNum>272Ч0862</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                    </customer>
+                    <maxPrice>5970362</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>Калининградская область, г. Калининград, ул. Летняя, д. 3А, аптечный склад</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>с 01.01.2021 года по 30.11.2021 года</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>59703.62</amount>
+                        <part>1.0</part>
+                        <procedureInfo>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч08620</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <part>10.0</part>
+                        <procedureInfo>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч08620</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390801098639060100104610010000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23908010986390601001</customerCode>
+                        <purchaseNumber>0461</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000447001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000447001000461</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>5970362</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>5970362</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>5970362</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>5970362</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>5970362</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения альбумина  </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1939</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>7756</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор калибраторов </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>6</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>6181</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>37086</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор дилюентов к калибратору </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>6</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2942</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>17652</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор калибраторов</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>30869</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>123476</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов  для определения ферритина  </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>49280</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>197120</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор контрольного материала для определения ферритина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>2</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>43287</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>86574</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор калибраторов для определения ферритина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>2</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>24780</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>49560</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения железа </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>6</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>11046</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>66276</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для  определения гликогемоглобина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>36</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>31787</price>
+                    <quantity>
+                        <value>36</value>
+                    </quantity>
+                    <sum>1144332</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор контрольных материалов для гликозилированного гемоглобина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>25658</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>102632</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор калибраторов для определения гликозилированного гемоглобина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>22737</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>90948</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения с-реактивного белка </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>36</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>28159</price>
+                    <quantity>
+                        <value>36</value>
+                    </quantity>
+                    <sum>1013724</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор калибраторов низкого уровня  для ионоселективного блока </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>6</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2754</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>16524</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор калибраторов высокого уровня для ионоселективного блока </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>6</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1498</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>8988</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Референсный раствор для ионоселективного блока </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>6</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3402</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>20412</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор Калибраторов С-реактивного белка </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>8161</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>32644</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор контролей  С-реактивного белка  уровень 1 </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3230</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>12920</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор контролей  С-реактивного белка  уровень 2 </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1614</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>6456</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Контрольная сыворотка Норма</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>13658</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>54632</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Контрольная сыворотка Патология</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>13658</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>54632</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для иммуноферментного выявления HBs-антигена</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>150</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2726</price>
+                    <quantity>
+                        <value>150</value>
+                    </quantity>
+                    <sum>408900</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для иммуноферментного выявления и подтверждения присутствия HBs- антигена</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>40</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3936</price>
+                    <quantity>
+                        <value>40</value>
+                    </quantity>
+                    <sum>157440</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для иммуноферментного выявления  иммуноглобулинов классов G и М  к вирусу гепатита С</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>160</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2726</price>
+                    <quantity>
+                        <value>160</value>
+                    </quantity>
+                    <sum>436160</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для иммуноферментного выявления и подтверждения наличия иммуноглобулинов классов G и М  к вирусу гепатита С</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>60</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>4845</price>
+                    <quantity>
+                        <value>60</value>
+                    </quantity>
+                    <sum>290700</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для иммуноферментного определения концентрации ревматоидного фактора класса М в сыворотке крови</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>16</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>6191</price>
+                    <quantity>
+                        <value>16</value>
+                    </quantity>
+                    <sum>99056</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для качественного и полуколичественного определения содержания антистрептолизина О (АСЛ-О)</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>8</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1340</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>10720</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Сыворотка контрольная для диагностики сифилиса отрицательная </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>2</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>6226</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>12452</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.10.60.196</code>
+                        <name>Препараты диагностические (реагенты) микробного и вирусного происхождения; наборы диагностические</name>
+                    </OKPD2>
+                    <name>Сыворотка контрольная для диагностики сифилиса положительная кроличья</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>2</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>7194</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>14388</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения креатинина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>24</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3202</price>
+                    <quantity>
+                        <value>24</value>
+                    </quantity>
+                    <sum>76848</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения общего белка </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>36</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1371</price>
+                    <quantity>
+                        <value>36</value>
+                    </quantity>
+                    <sum>49356</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения холестерина низкой плотности </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>30</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>18363</price>
+                    <quantity>
+                        <value>30</value>
+                    </quantity>
+                    <sum>550890</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения холестерина высокой плотности</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>18210</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>218520</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения общего билирубина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>8</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>4672</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>37376</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения прямого билирубина </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>8</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3133</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>25064</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения кальция </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>3</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3284</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>9852</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения мочевины </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>24</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>10020</price>
+                    <quantity>
+                        <value>24</value>
+                    </quantity>
+                    <sum>240480</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения мочевой кислоты </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>12990</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>51960</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>21.20.23.111</code>
+                        <name>Препараты диагностические</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения триглицеридов </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000447</regNum>
+                                <consRegistryNum>272Ч0862</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА"</fullName>
+                            </customer>
+                            <quantity>8</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>16982</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>135856</sum>
+                </purchaseObject>
+                <totalSum>5970362</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Декларация о соответствии участника аукциона требованиям, установленным пунктами 3 - 9 части 1 статьи 31 Закона № 44-ФЗ (указанная декларация предоставляется с использованием программно-аппаратных средств электронной площадки).</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:note>Установлено в соответствии с приказом Министерства финансов Российской Федерации от 04.06.2018 № 126н.</ns3:note>
+                        </ns3:restrictionSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>RA</ns3:type>
+                                </ns3:requirementType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>11</ns4:code>
+                                <ns4:name>Постановление Правительства РФ от 05.02.2015 N 102 "Об ограничениях и условиях допуска отдельных видов медицинских изделий, происходящих из иностранных государств, для целей осуществления закупок для обеспечения государственных и муниципальных нужд"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ от 05.02.2015 N 102</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:note>Установлено в соответствии с Постановлением Правительства РФ № 102 от 05.02.2015</ns3:note>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>Декларация о принадлежности участника аукциона к субъектам малого предпринимательства или социально ориентированным некоммерческим организациям (указанная декларация предоставляется с использованием программно-аппаратных средств электронной площадки).</content>
+                </restriction>
+            </restrictions>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>B4886A0FEC1BE2B1E0530F548D0A3DA4</publishedContentId>
+                <fileName>Извещение 10992.doc</fileName>
+                <fileSize>75.5 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4886A0FEC1BE2B1E0530F548D0A3DA4</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>B4886A0FEC13E2B1E0530F548D0A3DA4</publishedContentId>
+                <fileName>Понятия и определения_ используемые заказчиком в техническом задании.docx</fileName>
+                <fileSize>15.16 Кб</fileSize>
+                <docDescription>Понятия и определения, используемые заказчиком в техническом задании</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4886A0FEC13E2B1E0530F548D0A3DA4</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B4886A0FEC1DE2B1E0530F548D0A3DA4</publishedContentId>
+                <fileName>Документация 10992.doc</fileName>
+                <fileSize>392.5 Кб</fileSize>
+                <docDescription>Документация</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4886A0FEC1DE2B1E0530F548D0A3DA4</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B4886A0FEC15E2B1E0530F548D0A3DA4</publishedContentId>
+                <fileName>Техническое задание.docx</fileName>
+                <fileSize>29.26 Кб</fileSize>
+                <docDescription>Описание объекта закупки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4886A0FEC15E2B1E0530F548D0A3DA4</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B4886A0FEC11E2B1E0530F548D0A3DA4</publishedContentId>
+                <fileName>Обоснование НМЦК приказ 450-н.xlsx</fileName>
+                <fileSize>28.6 Кб</fileSize>
+                <docDescription>Обоснование начальной (максимальной) цены контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4886A0FEC11E2B1E0530F548D0A3DA4</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIU6gYJKoZIhvcNAQcCoIIU2zCCFNcCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEF0wggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIIvTCCCGqgAwIBAgIUIfc/mfW9Ac/WmNylPaIKzlmiGVUwCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwNDE3MDcxMDMxWhcNMjEwNzE3MDcxMDMxWjCCAjMxGjAYBggqhQMDgQMBARIMNzczMzA0NjQzMjk5MRYwFAYFKoUDZAMSCzA3NzgyMDY2OTAwMSMwIQYJKoZIhvcNAQkBFhRzLnNoYWJvaGluYUBnb3YzOS5ydTELMAkGA1UEBhMCUlUxNjA0BgNVBAgMLdCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDEfMB0GA1UEBwwW0JrQsNC70LjQvdC40L3Qs9GA0LDQtDGB3TCB2gYDVQQKDIHS0JPQntCh0KPQlNCQ0KDQodCi0JLQldCd0J3QntCVINCa0JDQl9CV0J3QndCe0JUg0KPQp9Cg0JXQltCU0JXQndCY0JUg0JrQkNCb0JjQndCY0J3Qk9Cg0JDQlNCh0JrQntCZINCe0JHQm9CQ0KHQotCYICLQptCV0J3QotCgINCe0JHQldCh0J/QldCn0JXQndCY0K8g0J7QoNCT0JDQndCY0JfQkNCm0JjQmCDQmCDQn9Cg0J7QktCV0JTQldCd0JjQryDQotCe0KDQk9Ce0JIiMTIwMAYDVQQqDCnQodCy0LXRgtC70LDQvdCwINCS0LvQsNC00LjQvNC40YDQvtCy0L3QsDEZMBcGA1UEBAwQ0KjQsNCx0L7RhdC40L3QsDFDMEEGA1UEAww60KjQsNCx0L7RhdC40L3QsCDQodCy0LXRgtC70LDQvdCwINCS0LvQsNC00LjQvNC40YDQvtCy0L3QsDBmMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICA0MABEArhYfy8upK5j0qkGkt9RaISrQV9V1shINlsLRzuy+7E1FlUZjj+BSRmGB4w/08GukPRC9eghJTH0oie/YGh00Oo4IEDzCCBAswDAYDVR0TAQH/BAIwADATBgNVHSAEDDAKMAgGBiqFA2RxATA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBZAYFKoUDZHAEggFZMIIBVQxHItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiINCy0LXRgNGB0LjRjyA0LjAgKNC40YHQv9C+0LvQvdC10L3QuNC1IDItQmFzZSkMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gMy4wDE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI0LTMzODAg0L7RgiAxMS4wNS4yMDE4DE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI4LTM1ODEg0L7RgiAyMC4xMi4yMDE4MA4GA1UdDwEB/wQEAwID+DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwKwYDVR0QBCQwIoAPMjAyMDA0MTcwNzA3NDVagQ8yMDIxMDcxNzA3MDc0NVowggFfBgNVHSMEggFWMIIBUoAU0GSWbXJA61h9JH+7IFvPw45setShggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ggpiq3mVAAAAAAO2MGgGA1UdHwRhMF8wLqAsoCqGKGh0dHA6Ly9jcmwucm9za2F6bmEucnUvY3JsL3VjZmtfMjAyMC5jcmwwLaAroCmGJ2h0dHA6Ly9jcmwuZnNmay5sb2NhbC9jcmwvdWNma18yMDIwLmNybDAdBgNVHQ4EFgQUjO7C+O0nBRMiVz6E5YwkCxmdEOYwCgYIKoUDBwEBAwIDQQD4D2FP3nooirNmu3fjxg9i24DuONKPc+Kn1kXLXVyTgyH41DXNE/rlpxI2N4vLswkJ033VBn9letjQ5NmMIc/EMYIEUjCCBE4CAQEwggGHMIIBbTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGTAXBgNVBAgMENCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+AhQh9z+Z9b0Bz9aY3KU9ogrOWaIZVTAMBggqhQMHAQECAgUAoIICSzAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMjAxNDI4MzNaMC8GCSqGSIb3DQEJBDEiBCC9silRDI+vc9wfm8AqUPTmFNFsjZk/013l65cGyJtKujCCAd4GCyqGSIb3DQEJEAIvMYIBzTCCAckwggHFMIIBwTAKBggqhQMHAQECAgQgE3xmdE3e2zWgXhoD53KZgOAYy+MZk/BhrBpL14hUiekwggGPMIIBdaSCAXEwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFCH3P5n1vQHP1pjcpT2iCs5ZohlVMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICBEDPaXKC+Q3mWkfBgXV6XwHDrpfh+Xog+xyyTylGTAn+Ha/nn+7RFyKwwd7x+av0By5jqJ9I3OVVKB05PrYvfLpT</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B482E4665E02E78BE0530F548D0ABC61</publishedContentId>
+                <fileName>Проект контракта на поставку изделий медицинского назначения .docx</fileName>
+                <fileSize>46.47 Кб</fileSize>
+                <docDescription>Проект контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B482E4665E02E78BE0530F548D0ABC61</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-20T20:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-29T19:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25131984&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

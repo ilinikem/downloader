@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24762310</id>
+        <purchaseNumber>0335100003120000119</purchaseNumber>
+        <docPublishDate>2020-11-12T17:14:13.624+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100003120000119</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100003120000119</url>
+        </printForm>
+        <purchaseObjectInfo>оказание услуг радиотелефонной (сотовой) связи</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000031</regNum>
+                <consRegistryNum>00186690</consRegistryNum>
+                <fullName>КАЛИНИНГРАДСКАЯ ОБЛАСТНАЯ ТАМОЖНЯ</fullName>
+                <postAddress>Российская Федерация, 236016, Калининградская обл, Калининград г, ул. Артиллерийская, дом 26, строение1 </postAddress>
+                <factAddress>Российская Федерация, 236016, Калининградская обл, Калининград г, УЛИЦА АРТИЛЛЕРИЙСКАЯ, ДОМ 26/СТРОЕНИЕ 1</factAddress>
+                <INN>3906190003</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236016, Калининградская обл, Калининград г, ул. Артиллерийская, дом 26, строение1 </orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236016, Калининградская обл, Калининград г, УЛИЦА АРТИЛЛЕРИЙСКАЯ, ДОМ 26/СТРОЕНИЕ 1</orgFactAddress>
+                <contactPerson>
+                    <lastName>Баськов</lastName>
+                    <firstName>Александр</firstName>
+                    <middleName>Николаевич</middleName>
+                </contactPerson>
+                <contactEMail>tamozhnya39@mail.ru</contactEMail>
+                <contactPhone>7-4012-609499</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_SBAST</code>
+            <name>АО «Сбербанк-АСТ»</name>
+            <url>http://www.sberbank-ast.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-12T17:14:13+02:00</startDate>
+                <place>Электронная площадка АО «Сбербанк - АСТ» - www.sberbank-ast.ru</place>
+                <order>         Участник закупки осуществляет подачу заявки в соответствии с порядком, установленным статьей 66 Федерального закона № 44-ФЗ от 05.04.2013 года «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд».&#13;
+Подача заявок на участие в электронном аукционе осуществляется только лицами, зарегистрированными в единой информационной системе и аккредитованными на электронной площадке.&#13;
+       Заявка на участие в электронном аукционе направляется участником аукциона оператору электронной площадки в форме двух электронных документов, содержащих первую и вторую части заявки. Указанные электронные документы подаются одновременно.&#13;
+Требования к содержанию, составу заявки на участие и инструкция по ее заполнению содержатся в разделе 10 документации.&#13;
+      Участник электронного аукциона вправе подать только одну заявку на участие в электронном аукционе в отношении объекта закупки.</order>
+                <endDate>2020-11-20T10:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-23T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-24T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>2600000</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>true</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000031</regNum>
+                        <consRegistryNum>00186690</consRegistryNum>
+                        <fullName>КАЛИНИНГРАДСКАЯ ОБЛАСТНАЯ ТАМОЖНЯ</fullName>
+                    </customer>
+                    <maxPrice>2600000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>R</kladrType>
+                                <kladrCode>39000000000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл</fullName>
+                            </kladr>
+                            <deliveryPlace>г. Калининград</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>1 января 2021 года по 31 августа 2022 года</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>26000.00</amount>
+                        <part>1.0</part>
+                        <procedureInfo>Обеспечение заявки может предоставляться участником закупки в виде денежных средств или банковской гарантии. Выбор способа обеспечения заявки осуществляется участником закупки.&#13;
+ Требование об обеспечении заявки в равной мере относится ко всем участникам закупки, за исключением государственных, муниципальных учреждений, которые не предоставляют обеспечение подаваемых ими заявок.&#13;
+ Банковская гарантия, выданная участнику закупки банком для целей обеспечения заявки, должна соответствовать требованиям статьи 45 Федерального закона. &#13;
+Срок действия банковской гарантии, предоставленной в качестве обеспечения заявки, должен составлять не менее чем два месяца с даты окончания срока подачи заявок.&#13;
+ Денежные средства, предназначенные для обеспечения заявок, вносятся участниками закупок на специальные счета, открытые ими в банках, перечень которых устанавливается Правительством Российской Федерации (далее - специальный счет). Требования к указанным банкам устанавливаются Правительством Российской Федерации. &#13;
+ Обеспечение заявки возможно путем блокирования денежных средств при наличии на специальном счете участника закупки незаблокированных денежных средств в размере, предусмотренном документацией, либо путем предоставления банковской гарантии в порядке, определенном в соответствии с частью 29 статьи 44 Федерального закона, информация о которой включена в реестры банковских гарантий, предусмотренные статьей 45 Федерального закона.&#13;
+ Подачей заявки участник закупки выражает согласие на блокирование денежных средств, находящихся на его специальном счете в размере обеспечения соответствующей заявки. При этом в случае наличия в реестрах банковских гарантий, предусмотренных статьей 45 Федерального закона, информации о банковской гарантии, выданной участнику закупки для обеспечения заявки на участие в соответствующем электронном аукционе, блокирование денежных средств, находящихся на его специальном счете, в размере обеспечения соответствующей заявки не осуществляется.&#13;
+ Денежные.</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351866900</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <amount>780000.00</amount>
+                        <part>30.0</part>
+                        <procedureInfo> Исполнение контракта может обеспечиваться:&#13;
+Предоставлением банковской гарантии,  внесением денежных средств.&#13;
+Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно.&#13;
+ Банковская гарантия должна быть выдана банком, соответствующим требованиям, установленным постановлением Правительства Российской Федерации от 12.04.2018 № 440 «О требованиях к банкам, которые вправе выдавать банковские гарантии для обеспечения заявок и исполнения контрактов».&#13;
+Банковская гарантия должна соответствовать требованиям, предусмотренным в статье 45 Федерального закона.&#13;
+Срок действия банковской гарантии определяется в соответствии с требованиями Федерального закона участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе, в случае его изменения в соответствии со статьей 95 Федерального закона.&#13;
+В банковскую гарантию включается условие о праве заказчика на бесспорное списание денежных средств со счета гаранта, если гарантом в срок не более чем пять рабочих дней не исполнено требование заказчика об уплате денежной суммы по банковской гарантии, направленное до окончания срока действия банковской гарантии.&#13;
+ Документ, подтверждающий предоставление обеспечения исполнения контракта должен быть предоставлен заказчику до заключения контракта.&#13;
+ В ходе исполнения контракта поставщик вправе предоставить заказчику обеспечение исполнения контракта, уменьшенное на размер выполненных обязательств, предусмотренных контрактом, взамен ранее предоставленного обеспечения исполнения контракта. При этом может быть изменен способ обеспечения исполнения контракта.&#13;
+ В случае, если участником закупки, с которым заключается контракт, является казенное учреждение, требования об обеспечении исполнения контракта к такому участни</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351866900</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390619000339060100102080016120242</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>61.20</ns4:OKPDCode>
+                                <ns4:OKPDName>Услуги телекоммуникационные беспроводные</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>242</ns4:code>
+                                <ns4:name>Закупка товаров, работ, услуг в сфере информационно-коммуникационных технологий</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13906190003390601001</customerCode>
+                        <purchaseNumber>0208</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000031001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000031001000449</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет РФ на 2021-2022 г.г.</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>2600000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>1560000</firstYear>
+                                <secondYear>1040000</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>15301062750190049242</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>2600000</total>
+                                    <currentYear>0</currentYear>
+                                    <firstYear>1560000</firstYear>
+                                    <secondYear>1040000</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>2600000</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>0018669020000000266</BONumber>
+                        <BODate>2020-11-09T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>61.20.10.000-00000002</code>
+                        <name>Услуги радиотелефонной (сотовой) связи</name>
+                        <versionId>63199</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>bf156aee-8</code>
+                                <name>Переадресация</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>b5367356-b</code>
+                                <name>Ожидание вызова</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>15f13e53-8</code>
+                                <name>Ограничения вызовов</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>d0ff4018-9</code>
+                                <name>Мобильный интернет</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>c1929f2b-9</code>
+                                <name>Местные телефонные соединения по сети сотовой связи оператора с использованием пользовательского (оконечного) оборудования для передачи голосовой информации, коротких текстовых сообщений, сообщений в формате данных и роуминга</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>685245b6-f</code>
+                                <name>Доступ к системе информационно-справочного обслуживания</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f91af1e1-a</code>
+                                <name>Доступ к сетям связи общего пользования, другим сетям сотовой связи различного стандарта</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>dcfe76cd-0</code>
+                                <name>Доступ к сети сотовой связи исполнителя (оператора)</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>82f685e4-3</code>
+                                <name>Голосовая почта</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>95bc6961-e</code>
+                                <name>Автоматическое определение номера</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>ae5eaf70-e</code>
+                                <name>Абонентский номер из плана нумерации сети оператора сотовой связи</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>24b5730c-4</code>
+                                <name> Возможность бесплатного круглосуточного вызова экстренных оперативных служб</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingTextForm>
+                                <name>Определение номеров мобильных телефонов с подключенной услугой «АнтиАОН»</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Обеспечение SMS уведомлений об изменениях статуса услуги</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Предоставление информации о платежах на персональный счет абонента</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Предоставление информации об остатке лимита абонента в текущем билинговом периоде</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Предоставление информации о сумме начислений по абоненту в текущем билинговом периоде</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Предоставление информации о балансе персонального счета абонента</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Услуга контроля начислений в текущем периоде для каждого абонента Заказчика, без возможности подключения/отключения ими других услуг посредством набора USSD (Unstructured Supplementary Services Data) - команды</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Услуга контроля текущих расходов на мобильную связь и установки оповещения о достижении определенного денежного порога</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Услуга автоматического расчета начислений за пользование мобильной связью</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Возможность установления запрета доступа к платным информационно-развлекательным голосовым и SMS-сервисам</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Возможность установления запрета приема наличных платежей на счет Заказчика</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Возможность установления запрета Интернет – роуминга</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Конференцсвязь</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличчие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Видеосвязь</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Антиопределитель номера</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Доступ к специальному Web-интерфейсу (личный кабинет)</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Услуга SMS-информирования через Web-интерфейс Исполнителя</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Возможность замены номеров</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Блокировка (разблокировка) SIM-карты, замена SIM-карты</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>прием/передача SMS(Short Message Service) /MMS (Multimedia Messaging Service) - сообщений</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Наличие</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>Обусловлено необходимостью оперативного решения рабочих вопросов по средствам мобильной голосовой связи одновременно с несколькими абонентами.&#13;
+Обусловлено необходимостью конференцсвязи с использованием видео изображения.&#13;
+Обусловлено необходимостью проведения оперативно-розыскных мероприятий и скрытия номера, звонящего для соблюдения анонимности служебного телефонного номера.&#13;
+Обусловлено необходимостью абонента знать кто ему звонит и последующей возможности перезвонить даже при подключенной услуге АнтиАОН у звонящего.&#13;
+Обусловлено необходимостью оперативного массового оповещения руководящего состава таможни о чрезвычайных ситуациях, требующих незамедлительного реагирования.&#13;
+Возможность оперативного реагирования на возникающие потребности сотрудников.&#13;
+Возможность гибкого реагирования на возникающие потребности сотрудников в изменении перечня услуг с целью экономии бюджетных средств.&#13;
+Обусловлено необходимостью приёма-передачи коротких текстовых сообщений и фотографий.&#13;
+Возможность гибкого реагирования на возникающие потребности сотрудников в изменении перечня услуг с целью экономии бюджетных средств.&#13;
+Обусловлено отсутствием возможности внесения платежей на счет Заказчика.&#13;
+Обусловлено необходимостью Абонентом контролировать расход средств так как приказом ФТС России установлен лимит на расходы по номеру сотового телефона.&#13;
+Обусловлено необходимостью Абонентом контролировать расход средств так как приказом ФТС России установлен лимит на расходы по номеру сотового телефона. Так же приказом установлен запрет на подключение платных развлекательных услуг.&#13;
+Обусловлено подключенным персональным счетом абонента для контроля расхода личных средств.&#13;
+Обусловлено подключенным персональным счетом абонента для контроля расхода личных средств.&#13;
+Обусловлено необходимостью контроля абонентских номеров в контракте.</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Услуги радиотелефонной (сотовой) связи</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <price>6039.76</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>6039.76</sum>
+                </purchaseObject>
+                <totalSum>6039.76</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>    1) соответствие участников закупки требованиям, устанавливаемым в соответствии с законодательством Российской Федерации к лицам, осуществляющим оказание услуг, являющихся объектом данного электронного аукциона – на основании Федерального закона от 4 мая 2011 г. №99-ФЗ "О лицензировании отдельных видов деятельности", Федерального закона от 7 июля 2003 г. № 126-ФЗ "О связи", постановления Правительства Российской Федерации от 18 февраля 2005 г. № 87 «Об утверждении перечня наименований услуг связи, вносимых в лицензии, и перечней лицензионных условий» наличие у Исполнителя следующих лицензий: &#13;
+-   на оказание услуг подвижной радиотелефонной связи;&#13;
+- на оказание услуг связи по передаче данных, за исключением услуг связи по передаче данных для целей передачи голосовой информации;&#13;
+-   на оказание телематических услуг связи;&#13;
+-  на оказание услуг связи по передаче данных для целей передачи голосовой информации.&#13;
+2) непроведение ликвидации участника закупки - юридического лица и отсутствие решения арбитражного суда о признании участника закупки - юридического лица или индивидуального предпринимателя несостоятельным (банкротом) и об открытии конкурсного производства;&#13;
+3) неприостановление деятельности участника закупки в порядке, установленном КоАП РФ, на дату подачи заявки на участие в закупке;&#13;
+4) отсутствие у участника закупки недоимки по налогам, сборам, задолженности по иным обязательным платежам в бюджеты бюджетной системы Российской Федерации (за исключением сумм, на которые предоставлены отсрочка, рассрочка, инвестиционный налоговый кредит в соответствии с законодательством Российской Федерации о налогах и сборах, которые реструктурированы в соответствии с законодательством Российской Федерации, по которым имеется вступившее в законную силу решение суда о признании обязанности заявителя по уплате этих сумм исполненной или которые признаны безнадежными к взысканию в соответствии с законодательством Российской Федерации о налогах и сборах) за прошедший календарный год, размер которых превышает двадцать пять процентов балансовой стоимости активов участника закупки, по данным бухгалтерской отчетности за последний отчетный период;&#13;
+5) отсутствие у участника закупки - физического лица либо у руководителя, членов коллегиального исполнительного органа, лица, исполняющего функции единоличного исполнительного органа, или главного бухгалтера юридического лица - участника закупки судимости за преступления в сфере экономики и (или) преступления, предусмотренные статьями 289, 290, 291, 291.1 Уголовного кодекса Российской Федерации (за исключением лиц, у которых такая судимость погашена или снята), а также неприменение в отношении указанных физических лиц наказания в виде лишения права занимать определенные должности или заниматься определенной деятельностью, которые связаны с поставкой товара, выполнением работы, оказанием услуги, являющихся объектом осуществляемой закупки, и административного наказания в виде дисквалификации;&#13;
+5.1) участник закупки - юридическое лицо, которое в течение двух лет до момента подачи заявки на участие в закупке не было привлечено к административной ответственности за совершение административного правонарушения, предусмотренного статьей 19.28 Кодекса Российской Федерации об административных правонарушениях;&#13;
+6) отсутствие между участником закупки и заказчиком конфликта интересов, под которым понимаются случаи, при которых руководитель заказчика, член комиссии по осуществлению закупок, руководитель контрактной службы заказчика, контрактный управляющий состоят в браке с физическими лицами, являющимися выгодоприобретателями, единоличным исполнительным органом хозяйственного общества (директором, генеральным директором, управляющим, президентом и другими), членами коллегиального исполнительного органа хозяйственного общества, руководителем (директором, генеральным директором) учреждения или унитарного предприятия либо иными органами управления юридических лиц - участников закупки, с физическими лицами, в том </content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Отсутствие в предусмотренном Законом №44-ФЗ реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа.</content>
+                </requirement>
+            </requirements>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B3E5EA2E62ADED3FE0530F548D0A7CDC</publishedContentId>
+                <fileName>Документация 118-аэ.rtf</fileName>
+                <fileSize>697.48 Кб</fileSize>
+                <docDescription>Документация 118-аэ</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3E5EA2E62ADED3FE0530F548D0A7CDC</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIdAgYJKoZIhvcNAQcCoIIc8zCCHO8CAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCF8MwgggHMIIHtKADAgECAgsAx5zaWgAAAAABNzAKBggqhQMHAQEDAjCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MB4XDTE4MTAyMzA5MzEwNVoXDTMzMTAyMzA5MzEwNVowggHJMSAwHgYJKoZIhvcNAQkBFhF2dWNAY2EuY3VzdG9tcy5ydTEYMBYGBSqFA2QBEg0xMTE3NzQ2ODg5OTQxMRowGAYIKoUDA4EDAQESDDAwNzczMDY1NDQ3MTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEzMDEGA1UECQwq0YPQuy4g0J3QvtCy0L7Qt9Cw0LLQvtC00YHQutCw0Y8sINC0LiAxMS81MXsweQYDVQQKDHLQptC10L3RgtGA0LDQu9GM0L3QvtC1INC40L3RhNC+0YDQvNCw0YbQuNC+0L3QvdC+LdGC0LXRhdC90LjRh9C10YHQutC+0LUg0YLQsNC80L7QttC10L3QvdC+0LUg0YPQv9GA0LDQstC70LXQvdC40LUxezB5BgNVBAMMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtTBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABEBGzA87vdTRH9fhLixMtZ9oQPc+t0mXhRn07R/RPTRQJY85RgUM+hzHHBIANblwJO4zAuvKfg1mxa3RfX/EsBpno4IEFTCCBBEwCwYDVR0PBAQDAgGGMB0GA1UdDgQWBBT5A1UQ5q6CEZS0txB7MadDTE8XtDAUBgkrBgEEAYI3FAIEBwwFU3ViQ0EwEgYDVR0TAQH/BAgwBgEB/wIBADAlBgNVHSAEHjAcMAYGBFUdIAAwCAYGKoUDZHEBMAgGBiqFA2RxAjA/BgUqhQNkbwQ2DDTQodCa0JfQmCAi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMBAGCSsGAQQBgjcVAQQDAgEAMIIBZQYDVR0jBIIBXDCCAViAFMJU8bRr1Ey34G02tCOQ8f7DPJsGoYIBLKSCASgwggEkMR4wHAYJKoZIhvcNAQkBFg9kaXRAbWluc3Z5YXoucnUxCzAJBgNVBAYTAlJVMRgwFgYDVQQIDA83NyDQnNC+0YHQutCy0LAxGTAXBgNVBAcMENCzLiDQnNC+0YHQutCy0LAxLjAsBgNVBAkMJdGD0LvQuNGG0LAg0KLQstC10YDRgdC60LDRjywg0LTQvtC8IDcxLDAqBgNVBAoMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MRgwFgYFKoUDZAESDTEwNDc3MDIwMjY3MDExGjAYBggqhQMDgQMBARIMMDA3NzEwNDc0Mzc1MSwwKgYDVQQDDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuIIQTm1HiybyfWV/do4CXOPTkzCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBngCmxQFSsFL7PtPCQbi4zJtVktC/ZSVfLok+yC34WK4Hwpa1DH/AtTD3GG7s40K3gko6kD2TwbSsm1Uf1koaiMIIPtDCCD2GgAwIBAgIRAOCy2XrEDOyA6xGIAcJFqM0wCgYIKoUDBwEBAwIwggHJMSAwHgYJKoZIhvcNAQkBFhF2dWNAY2EuY3VzdG9tcy5ydTEYMBYGBSqFA2QBEg0xMTE3NzQ2ODg5OTQxMRowGAYIKoUDA4EDAQESDDAwNzczMDY1NDQ3MTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEzMDEGA1UECQwq0YPQuy4g0J3QvtCy0L7Qt9Cw0LLQvtC00YHQutCw0Y8sINC0LiAxMS81MXsweQYDVQQKDHLQptC10L3RgtGA0LDQu9GM0L3QvtC1INC40L3RhNC+0YDQvNCw0YbQuNC+0L3QvdC+LdGC0LXRhdC90LjRh9C10YHQutC+0LUg0YLQsNC80L7QttC10L3QvdC+0LUg0YPQv9GA0LDQstC70LXQvdC40LUxezB5BgNVBAMMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtTAeFw0yMDA5MjgxMjM3NDVaFw0yMTEyMjgxMjM3NDVaMIIB3jEWMBQGBSqFA2QDEgsxMzk3MzQwNzE4MzEYMBYGBSqFA2QBEg0xMDgzOTI1OTk5OTkyMRowGAYIKoUDA4EDAQESDDAwMzkwNjE5MDAwMzEkMCIGCSqGSIb3DQEJARYVU2h0eWtFVkBjYS5jdXN0b21zLnJ1MQswCQYDVQQGEwJSVTE5MDcGA1UECAwwMzkg0JrQsNC70LjQvdC40L3Qs9GA0LDQtNGB0LrQsNGPINC+0LHQu9Cw0YHRgtGMMR8wHQYDVQQHDBbQmtCw0LvQuNC90LjQvdCz0YDQsNC0MUkwRwYDVQQKDEDQmtCw0LvQuNC90LjQvdCz0YDQsNC00YHQutCw0Y8g0L7QsdC70LDRgdGC0L3QsNGPINGC0LDQvNC+0LbQvdGPMRUwEwYDVQQLDAzQntCe0LjQodCX0JQxSTBHBgNVBAMMQNCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLQvdCw0Y8g0YLQsNC80L7QttC90Y8xETAPBgNVBAwMCNCT0JPQotCYMSwwKgYDVQQqDCPQldCy0LPQtdC90LjQuSDQktCw0YHQuNC70YzQtdCy0LjRhzERMA8GA1UEBAwI0KjRgtGL0LowZjAfBggqhQMHAQEBATATBgcqhQMCAiQABggqhQMHAQECAgNDAARACTK+dwwxfqfSKYIAI1mmaR4Ona8MZCokNV/TPC9HmtIYNM/t7OqHO/Rmxkeo5AFwFgqfKC3jgLCo79sTSNE3kaOCCwIwggr+MA4GA1UdDwEB/wQEAwIE8DAdBgNVHQ4EFgQUq3nsRgoLTqxyw4xGfBCTkPGDNGMwMwYJKwYBBAGCNxUHBCYwJAYcKoUDAgIyAQmD/NIGgo30HIWFimuBmYMLtWDBRwIBAQIBADCCAWAGA1UdIwSCAVcwggFTgBT5A1UQ5q6CEZS0txB7MadDTE8XtKGCASykggEoMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LiCCwDHnNpaAAAAAAE3MEIGA1UdJQQ7MDkGCCsGAQUFBwMCBggrBgEFBQcDBAYHKoUDA4FXAQYHKoUDA4FXEQYHKoUDA4FXEgYIKwYBBQUHAwgwVAYJKwYBBAGCNxUKBEcwRTAKBggrBgEFBQcDAjAKBggrBgEFBQcDBDAJBgcqhQMDgVcBMAkGByqFAwOBVxEwCQYHKoUDA4FXEjAKBggrBgEFBQcDCDAdBgNVHSAEFjAUMAgGBiqFA2RxATAIBgYqhQNkcQIwKwYDVR0QBCQwIoAPMjAyMDA5MjgxMjM3NDVagQ8yMDIxMTIyODEyMzc0NVowggEwBgUqhQNkcASCASUwggEhDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApDCwi0JrRgNC40L/RgtC+0J/RgNC+INCj0KYiICjQstC10YDRgdC40LggMi4wKQxf0KHQtdGA0YLQuNGE0LjQutCw0YIg0YHQvtC+0YLQstC10YLRgdGC0LLQuNGPINCk0KHQkSDQoNC+0YHRgdC40Lgg0KHQpC8xMjQtMjg2NCDQvtGCIDIwLjAzLjIwMTYMY9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDQpNCh0JEg0KDQvtGB0YHQuNC4IOKEliDQodCkLzEyOC0yODgxINC+0YIgMTIuMDQuMjAxNjA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIGGBgNVHR8EfzB9MC2gK6AphidodHRwOi8vdnVjLmN1c3RvbXMucnUvY2RwL2NhX3N2dWN0by5jcmwwTKBKoEiGRmh0dHA6Ly9zdnVjdG9zLmduaXZjLmVhaXMuY3VzdG9tcy5ydS9pbWFnZXMvc3Rvcmllcy9maWxlL2NhX3N2dWN0by5jcmwwggZXBggrBgEFBQcBAQSCBkkwggZFMDoGCCsGAQUFBzABhi5odHRwOi8vb2NzcHRzcC5zdnVjdG8uY3VzdG9tcy5ydS9vY3NwL29jc3Auc3JmMDUGCCsGAQUFBzAChilodHRwOi8vdnVjLmN1c3RvbXMucnUvY2RwL3VjX2NpdHR1XzEyLmNlcjBUBggrBgEFBQcwAoZIaHR0cDovL3N2dWN0b3MuZ25pdmMuZWFpcy5jdXN0b21zLnJ1L2ltYWdlcy9zdG9yaWVzL2ZpbGUvdWNfY2l0dHVfMTIuY2VyMF8GCCsGAQUFBzAChlNodHRwOi8vcmEyLWNpdHR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBiBggrBgEFBQcwAoZWaHR0cDovL3JhLXNrdHUuc2t0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYQYIKwYBBQUHMAKGVWh0dHA6Ly9yYTEtcHR1LnB0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwZQYIKwYBBQUHMAKGWWh0dHA6Ly9yYTEtZHZ0dS5kdnR1cmEuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLXN0dTIuc3R1Mi5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYQYIKwYBBQUHMAKGVWh0dHA6Ly9yYTEtdXR1LnV0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEtc3p0dS5zenR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBgBggrBgEFBQcwAoZUaHR0cDovL3JhLWN0dS5jdHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLXl1dHUueXV0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEteXV0dS55dXR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBjBggrBgEFBQcwAoZXaHR0cDovL3JhMS15dXR1Lnl1dHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLWR2dHUuZHZ0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEteXV0dS55dXR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBjBggrBgEFBQcwAoZXaHR0cDovL3JhMS15dXR1Lnl1dHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MAoGCCqFAwcBAQMCA0EA/5dN99RPLVBMwl0YMdJM5K0tNgE5z7HKUILapwj8DkueP29VN55y6G706GDL+pNvYd0LrIh72w0/TD3rbGXbozGCBQQwggUAAgEBMIIB4DCCAckxIDAeBgkqhkiG9w0BCQEWEXZ1Y0BjYS5jdXN0b21zLnJ1MRgwFgYFKoUDZAESDTExMTc3NDY4ODk5NDExGjAYBggqhQMDgQMBARIMMDA3NzMwNjU0NDcxMQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMTMwMQYDVQQJDCrRg9C7LiDQndC+0LLQvtC30LDQstC+0LTRgdC60LDRjywg0LQuIDExLzUxezB5BgNVBAoMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtTF7MHkGA1UEAwxy0KbQtdC90YLRgNCw0LvRjNC90L7QtSDQuNC90YTQvtGA0LzQsNGG0LjQvtC90L3Qvi3RgtC10YXQvdC40YfQtdGB0LrQvtC1INGC0LDQvNC+0LbQtdC90L3QvtC1INGD0L/RgNCw0LLQu9C10L3QuNC1AhEA4LLZesQM7IDrEYgBwkWozTAMBggqhQMHAQECAgUAoIICpDAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMTIxNDUyMDZaMC8GCSqGSIb3DQEJBDEiBCCFxbrUUcTKQpjas4shNqQ3GW3JhFlUAVoijjn7wLm9IzCCAjcGCyqGSIb3DQEJEAIvMYICJjCCAiIwggIeMIICGjAKBggqhQMHAQECAgQg5KH8AB7eO2rJIKT1Hfkrk+AwQuJzKhUVa568rB+HvsowggHoMIIB0aSCAc0wggHJMSAwHgYJKoZIhvcNAQkBFhF2dWNAY2EuY3VzdG9tcy5ydTEYMBYGBSqFA2QBEg0xMTE3NzQ2ODg5OTQxMRowGAYIKoUDA4EDAQESDDAwNzczMDY1NDQ3MTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEzMDEGA1UECQwq0YPQuy4g0J3QvtCy0L7Qt9Cw0LLQvtC00YHQutCw0Y8sINC0LiAxMS81MXsweQYDVQQKDHLQptC10L3RgtGA0LDQu9GM0L3QvtC1INC40L3RhNC+0YDQvNCw0YbQuNC+0L3QvdC+LdGC0LXRhdC90LjRh9C10YHQutC+0LUg0YLQsNC80L7QttC10L3QvdC+0LUg0YPQv9GA0LDQstC70LXQvdC40LUxezB5BgNVBAMMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtQIRAOCy2XrEDOyA6xGIAcJFqM0wHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIEQJZSQYio9NDbodG+8gE4/ZEYkFQN/3m6KgYRPUegVUE9Gysfy50jf1KlLZMM5uV/vTZ0ImhbceYfLwf7qZv3Nxo=</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3E6241E2236115EE0530F548D0AC71A</publishedContentId>
+                <fileName>Приложение №1 Расчет НМЦК.xls</fileName>
+                <fileSize>67.5 Кб</fileSize>
+                <docDescription>Приложение №1 Расчет НМЦК</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3E6241E2236115EE0530F548D0AC71A</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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cy5ydS9vY3NwL29jc3Auc3JmMDUGCCsGAQUFBzAChilodHRwOi8vdnVjLmN1c3RvbXMucnUvY2RwL3VjX2NpdHR1XzEyLmNlcjBUBggrBgEFBQcwAoZIaHR0cDovL3N2dWN0b3MuZ25pdmMuZWFpcy5jdXN0b21zLnJ1L2ltYWdlcy9zdG9yaWVzL2ZpbGUvdWNfY2l0dHVfMTIuY2VyMF8GCCsGAQUFBzAChlNodHRwOi8vcmEyLWNpdHR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBiBggrBgEFBQcwAoZWaHR0cDovL3JhLXNrdHUuc2t0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYQYIKwYBBQUHMAKGVWh0dHA6Ly9yYTEtcHR1LnB0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwZQYIKwYBBQUHMAKGWWh0dHA6Ly9yYTEtZHZ0dS5kdnR1cmEuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLXN0dTIuc3R1Mi5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYQYIKwYBBQUHMAKGVWh0dHA6Ly9yYTEtdXR1LnV0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEtc3p0dS5zenR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBgBggrBgEFBQcwAoZUaHR0cDovL3JhLWN0dS5jdHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLXl1dHUueXV0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEteXV0dS55dXR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBjBggrBgEFBQcwAoZXaHR0cDovL3JhMS15dXR1Lnl1dHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLWR2dHUuZHZ0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEteXV0dS55dXR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBjBggrBgEFBQcwAoZXaHR0cDovL3JhMS15dXR1Lnl1dHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MAoGCCqFAwcBAQMCA0EA/5dN99RPLVBMwl0YMdJM5K0tNgE5z7HKUILapwj8DkueP29VN55y6G706GDL+pNvYd0LrIh72w0/TD3rbGXbozGCBQQwggUAAgEBMIIB4DCCAckxIDAeBgkqhkiG9w0BCQEWEXZ1Y0BjYS5jdXN0b21zLnJ1MRgwFgYFKoUDZAESDTExMTc3NDY4ODk5NDExGjAYBggqhQMDgQMBARIMMDA3NzMwNjU0NDcxMQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMTMwMQYDVQQJDCrRg9C7LiDQndC+0LLQvtC30LDQstC+0LTRgdC60LDRjywg0LQuIDExLzUxezB5BgNVBAoMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtTF7MHkGA1UEAwxy0KbQtdC90YLRgNCw0LvRjNC90L7QtSDQuNC90YTQvtGA0LzQsNGG0LjQvtC90L3Qvi3RgtC10YXQvdC40YfQtdGB0LrQvtC1INGC0LDQvNC+0LbQtdC90L3QvtC1INGD0L/RgNCw0LLQu9C10L3QuNC1AhEA4LLZesQM7IDrEYgBwkWozTAMBggqhQMHAQECAgUAoIICpDAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMTIxNDUyMDZaMC8GCSqGSIb3DQEJBDEiBCD7L9wd2sOhCWBv49AU0IIPwCHusfsGSUHqV0MBGQuV8zCCAjcGCyqGSIb3DQEJEAIvMYICJjCCAiIwggIeMIICGjAKBggqhQMHAQECAgQg5KH8AB7eO2rJIKT1Hfkrk+AwQuJzKhUVa568rB+HvsowggHoMIIB0aSCAc0wggHJMSAwHgYJKoZIhvcNAQkBFhF2dWNAY2EuY3VzdG9tcy5ydTEYMBYGBSqFA2QBEg0xMTE3NzQ2ODg5OTQxMRowGAYIKoUDA4EDAQESDDAwNzczMDY1NDQ3MTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEzMDEGA1UECQwq0YPQuy4g0J3QvtCy0L7Qt9Cw0LLQvtC00YHQutCw0Y8sINC0LiAxMS81MXsweQYDVQQKDHLQptC10L3RgtGA0LDQu9GM0L3QvtC1INC40L3RhNC+0YDQvNCw0YbQuNC+0L3QvdC+LdGC0LXRhdC90LjRh9C10YHQutC+0LUg0YLQsNC80L7QttC10L3QvdC+0LUg0YPQv9GA0LDQstC70LXQvdC40LUxezB5BgNVBAMMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtQIRAOCy2XrEDOyA6xGIAcJFqM0wHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIEQOTTQRrumZcumIDyglCqWGe4iHeGKH/ZsZtxDCxbK2dNyvhfQJTLRehUYENLMS6YLgSh08QF1vZ55be5mQQldco=</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3EA3BCBA2DC7A0DE0530F548D0A23AA</publishedContentId>
+                <fileName>Приложение №3 проект ГК на оказание услуг радиотелефонной (сотовой) связи.doc</fileName>
+                <fileSize>252 Кб</fileSize>
+                <docDescription>Приложение №3 проект ГК на оказание услуг радиотелефонной (сотовой) связи</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3EA3BCBA2DC7A0DE0530F548D0A23AA</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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cy5ydS9vY3NwL29jc3Auc3JmMDUGCCsGAQUFBzAChilodHRwOi8vdnVjLmN1c3RvbXMucnUvY2RwL3VjX2NpdHR1XzEyLmNlcjBUBggrBgEFBQcwAoZIaHR0cDovL3N2dWN0b3MuZ25pdmMuZWFpcy5jdXN0b21zLnJ1L2ltYWdlcy9zdG9yaWVzL2ZpbGUvdWNfY2l0dHVfMTIuY2VyMF8GCCsGAQUFBzAChlNodHRwOi8vcmEyLWNpdHR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBiBggrBgEFBQcwAoZWaHR0cDovL3JhLXNrdHUuc2t0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYQYIKwYBBQUHMAKGVWh0dHA6Ly9yYTEtcHR1LnB0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwZQYIKwYBBQUHMAKGWWh0dHA6Ly9yYTEtZHZ0dS5kdnR1cmEuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLXN0dTIuc3R1Mi5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYQYIKwYBBQUHMAKGVWh0dHA6Ly9yYTEtdXR1LnV0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEtc3p0dS5zenR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBgBggrBgEFBQcwAoZUaHR0cDovL3JhLWN0dS5jdHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLXl1dHUueXV0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEteXV0dS55dXR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBjBggrBgEFBQcwAoZXaHR0cDovL3JhMS15dXR1Lnl1dHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MGMGCCsGAQUFBzAChldodHRwOi8vcmExLWR2dHUuZHZ0dS5zdnVjdG8uY3VzdG9tcy5ydS9haWEvZjkwMzU1MTBlNmFlODIxMTk0YjRiNzEwN2IzMWE3NDM0YzRmMTdiNC5jcnQwYwYIKwYBBQUHMAKGV2h0dHA6Ly9yYTEteXV0dS55dXR1LnN2dWN0by5jdXN0b21zLnJ1L2FpYS9mOTAzNTUxMGU2YWU4MjExOTRiNGI3MTA3YjMxYTc0MzRjNGYxN2I0LmNydDBjBggrBgEFBQcwAoZXaHR0cDovL3JhMS15dXR1Lnl1dHUuc3Z1Y3RvLmN1c3RvbXMucnUvYWlhL2Y5MDM1NTEwZTZhZTgyMTE5NGI0YjcxMDdiMzFhNzQzNGM0ZjE3YjQuY3J0MAoGCCqFAwcBAQMCA0EA/5dN99RPLVBMwl0YMdJM5K0tNgE5z7HKUILapwj8DkueP29VN55y6G706GDL+pNvYd0LrIh72w0/TD3rbGXbozGCBQQwggUAAgEBMIIB4DCCAckxIDAeBgkqhkiG9w0BCQEWEXZ1Y0BjYS5jdXN0b21zLnJ1MRgwFgYFKoUDZAESDTExMTc3NDY4ODk5NDExGjAYBggqhQMDgQMBARIMMDA3NzMwNjU0NDcxMQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMTMwMQYDVQQJDCrRg9C7LiDQndC+0LLQvtC30LDQstC+0LTRgdC60LDRjywg0LQuIDExLzUxezB5BgNVBAoMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtTF7MHkGA1UEAwxy0KbQtdC90YLRgNCw0LvRjNC90L7QtSDQuNC90YTQvtGA0LzQsNGG0LjQvtC90L3Qvi3RgtC10YXQvdC40YfQtdGB0LrQvtC1INGC0LDQvNC+0LbQtdC90L3QvtC1INGD0L/RgNCw0LLQu9C10L3QuNC1AhEA4LLZesQM7IDrEYgBwkWozTAMBggqhQMHAQECAgUAoIICpDAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMTIxNDUyMDZaMC8GCSqGSIb3DQEJBDEiBCCpAWo9b37JcC6tAV/28E7KvL4CRcwxJ4LOP5n4Xjtp9TCCAjcGCyqGSIb3DQEJEAIvMYICJjCCAiIwggIeMIICGjAKBggqhQMHAQECAgQg5KH8AB7eO2rJIKT1Hfkrk+AwQuJzKhUVa568rB+HvsowggHoMIIB0aSCAc0wggHJMSAwHgYJKoZIhvcNAQkBFhF2dWNAY2EuY3VzdG9tcy5ydTEYMBYGBSqFA2QBEg0xMTE3NzQ2ODg5OTQxMRowGAYIKoUDA4EDAQESDDAwNzczMDY1NDQ3MTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEzMDEGA1UECQwq0YPQuy4g0J3QvtCy0L7Qt9Cw0LLQvtC00YHQutCw0Y8sINC0LiAxMS81MXsweQYDVQQKDHLQptC10L3RgtGA0LDQu9GM0L3QvtC1INC40L3RhNC+0YDQvNCw0YbQuNC+0L3QvdC+LdGC0LXRhdC90LjRh9C10YHQutC+0LUg0YLQsNC80L7QttC10L3QvdC+0LUg0YPQv9GA0LDQstC70LXQvdC40LUxezB5BgNVBAMMctCm0LXQvdGC0YDQsNC70YzQvdC+0LUg0LjQvdGE0L7RgNC80LDRhtC40L7QvdC90L4t0YLQtdGF0L3QuNGH0LXRgdC60L7QtSDRgtCw0LzQvtC20LXQvdC90L7QtSDRg9C/0YDQsNCy0LvQtdC90LjQtQIRAOCy2XrEDOyA6xGIAcJFqM0wHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIEQD0gDt5NVFl/Xr2kZt4Hkev9JVd8owp6Jq95Qao7nGxcumU0Z5HWb34M+mT3LlyMLI9uFIWmxLPKp7eeqEWJq28=</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-12T00:00:00+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-18T23:59:00+02:00</endDate>
+                <deliveryProcedure>Любой участник электронного аукциона, зарегистрированный в единой информационной системе и аккредитованный на электронной площадке, вправе направить с использованием программно-аппаратных средств электронной площадки на адрес электронной площадки, на которой планируется проведение такого аукциона, запрос о даче разъяснений положений документации о таком аукционе. &#13;
+Участник аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации в отношении одного такого аукциона. В течение одного часа с момента поступления указанного запроса он направляется оператором электронной площадки заказчику.&#13;
+В течение двух дней с даты поступления от оператора электронной площадки запроса в единой информационной системе размещаются разъяснения положений документации с указанием предмета запроса, но без указания участника такого аукциона, от которого поступил указанный запрос, при условии, что указанный запрос поступил заказчику не позднее чем за 3 дня до даты окончания срока подачи заявок на участие в таком аукционе.&#13;
+Разъяснения положений документации не должны изменять ее суть.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24762310&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

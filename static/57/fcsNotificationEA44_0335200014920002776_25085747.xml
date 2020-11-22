@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25085747</id>
+        <externalId>660F3BDF-8616-4826-9F62-E3D1B1102AD401</externalId>
+        <purchaseNumber>0335200014920002776</purchaseNumber>
+        <docPublishDate>2020-11-17T18:01:05.439+02:00</docPublishDate>
+        <docNumber>№0335200014920002776</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335200014920002776</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200014920002776</url>
+        </printForm>
+        <purchaseObjectInfo>на поставку реагентов для исследований</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03352000149</regNum>
+                <consRegistryNum>272J3311</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТР ОБЕСПЕЧЕНИЯ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ ТОРГОВ"</fullName>
+                <postAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</factAddress>
+                <INN>3904612235</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>AI</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</orgFactAddress>
+                <contactPerson>
+                    <lastName>Короткова</lastName>
+                    <firstName>Галина</firstName>
+                    <middleName>Александровна</middleName>
+                </contactPerson>
+                <contactEMail>g.korotkova@gov39.ru</contactEMail>
+                <contactPhone>7-4012-570431</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-17T18:01:05+02:00</startDate>
+                <place>ООО 'РТС - тендер'</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-11-26T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-27T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-30T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>915211.7</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000438</regNum>
+                        <consRegistryNum>272Ч5396</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                    </customer>
+                    <maxPrice>915211.7</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>236011 Г. Калининград, ул. Аллея Смелых, 136/138</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>с 1 января 2021 года по 10 декабря 2021 года</deliveryTerm>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч53960</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390701238839060100101410012059244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>20.59</ns4:OKPDCode>
+                                <ns4:OKPDName>Продукты химические прочие, не включенные в другие группировки</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23907012388390601001</customerCode>
+                        <purchaseNumber>0141</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000438001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000438001000145</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>915211.7</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>915211.7</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>915211.7</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>915211.7</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>915211.7</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения глюкозы в сыворотке и плазме крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>960</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>11520</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения мочевины в сыворотке, плазме крови и моче человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2350</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>28200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения аланинаминотрансферазы в сыворотке крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2310</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>27720</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения аспартатаминотрансферазы в сыворотке крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2900</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>34800</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name> Набор реагентов для определения гаммаглутамилтрансферазы в сыворотке крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>4220</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>16880</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения креатинина в сыворотке, плазме крови и моче человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>3</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1400</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>4200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения щелочной фосфатазы в сыворотке и плазме крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>5</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1150</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>5750</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name> Набор реагентов для определения общего билирубина в сыворотке крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1010</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>12120</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name> Набор эритроцитов</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2950</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>35400</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Чистящий реагент для гематологического анализатора МЕК8222</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>10</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>5702.85</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>57028.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Лизирующий реагент для гематологического анализатора МЕК822</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>4</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>23500</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>94000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Чистящий реагент для гематологического анализатора МЕК8222, хлорированный</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>12</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>5702.85</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>68434.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Лизирующий реагент для работы на гематологическом анализаторе МЕК 8222</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>13</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>6325</price>
+                    <quantity>
+                        <value>13</value>
+                    </quantity>
+                    <sum>82225</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Гематологический контрольный материал, нормальный уровень концентрации </name>
+                    <OKEI>
+                        <code>872</code>
+                        <nationalCode>ФЛАК</nationalCode>
+                        <fullName>Флакон</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>10</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>5200</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>52000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Гематологический контрольный материал, высокий уровень концентрации </name>
+                    <OKEI>
+                        <code>872</code>
+                        <nationalCode>ФЛАК</nationalCode>
+                        <fullName>Флакон</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>10</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>5200</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>52000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Гематологический контрольный материал, низкий уровень концентрации </name>
+                    <OKEI>
+                        <code>872</code>
+                        <nationalCode>ФЛАК</nationalCode>
+                        <fullName>Флакон</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>10</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>5200</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>52000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Разбавляющий реагент для анализатора МЕК8222</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>38</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>4938</price>
+                    <quantity>
+                        <value>38</value>
+                    </quantity>
+                    <sum>187644</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения белка в моче на приборе Урискан БК</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>2</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>680</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1360</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения содержания общего белка в сыворотке и плазме крови человека </name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>10</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>6500</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>65000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения микроальбумина в моче человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>3</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2970</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>8910</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Стандарт микроальбумина</name>
+                    <OKEI>
+                        <code>872</code>
+                        <nationalCode>ФЛАК</nationalCode>
+                        <fullName>Флакон</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>710</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>710</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Контроль общих параметров мочи человека</name>
+                    <OKEI>
+                        <code>872</code>
+                        <nationalCode>ФЛАК</nationalCode>
+                        <fullName>Флакон</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>13</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1190</price>
+                    <quantity>
+                        <value>13</value>
+                    </quantity>
+                    <sum>15470</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>20.59.52.199</code>
+                        <name>Реагенты сложные диагностические или лабораторные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Набор реагентов для определения общего белка в сыворотке и плазме крови человека</name>
+                    <OKEI>
+                        <code>704</code>
+                        <nationalCode>НАБОР</nationalCode>
+                        <fullName>Набор</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000438</regNum>
+                                <consRegistryNum>272Ч5396</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РОДИЛЬНЫЙ ДОМ КАЛИНИНГРАДСКОЙ ОБЛАСТИ  № 3"</fullName>
+                            </customer>
+                            <quantity>2</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>920</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1840</sum>
+                </purchaseObject>
+                <totalSum>915211.7</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Требование о наличии у участника закупки специального разрешения (лицензии), членства в саморегулируемой организации или выданного саморегулируемой организацией свидетельства о допуске к определенному виду работ  законодательством Российской Федерации не установлено</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:note>Установлено в соответствии с приказом Министерства финансов Российской Федерации от 04.06.2018 № 126н.</ns3:note>
+                        </ns3:restrictionSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>RA</ns3:type>
+                                </ns3:requirementType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>11</ns4:code>
+                                <ns4:name>Постановление Правительства РФ от 05.02.2015 N 102 "Об ограничениях и условиях допуска отдельных видов медицинских изделий, происходящих из иностранных государств, для целей осуществления закупок для обеспечения государственных и муниципальных нужд"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ от 05.02.2015 N 102</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:note>Установлено в соответствии с Постановлением Правительства РФ № 102 от 05.02.2015</ns3:note>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>B45036847056C0FCE0530F548D0A8115</publishedContentId>
+                <fileName>Извещение.docx</fileName>
+                <fileSize>19.11 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B45036847056C0FCE0530F548D0A8115</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>B45036847054C0FCE0530F548D0A8115</publishedContentId>
+                <fileName>ТЗ 102.docx</fileName>
+                <fileSize>25.4 Кб</fileSize>
+                <docDescription>Описание объекта закупки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B45036847054C0FCE0530F548D0A8115</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B447B7B993E1BD84E0530F548D0ACE65</publishedContentId>
+                <fileName>Проект контракта на поставку изделий медицинского назначения .docx</fileName>
+                <fileSize>46.17 Кб</fileSize>
+                <docDescription>Проект контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B447B7B993E1BD84E0530F548D0ACE65</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B447B7B993E3BD84E0530F548D0ACE65</publishedContentId>
+                <fileName>Документация.docx</fileName>
+                <fileSize>87.64 Кб</fileSize>
+                <docDescription>Документация</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B447B7B993E3BD84E0530F548D0ACE65</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B447B7B993DFBD84E0530F548D0ACE65</publishedContentId>
+                <fileName>обоснование цены (1).xls</fileName>
+                <fileSize>73 Кб</fileSize>
+                <docDescription>Обоснование начальной (максимальной) цены контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B447B7B993DFBD84E0530F548D0ACE65</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-17T20:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-24T19:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25085747&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

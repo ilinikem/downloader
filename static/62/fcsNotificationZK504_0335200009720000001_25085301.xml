@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:epNotificationEZK schemeVersion="10.2.310">
+        <ns8:id>25085301</ns8:id>
+        <ns8:versionNumber>1</ns8:versionNumber>
+        <ns8:commonInfo>
+            <ns8:purchaseNumber>0335200009720000001</ns8:purchaseNumber>
+            <ns8:docNumber>№0335200009720000001</ns8:docNumber>
+            <ns8:plannedPublishDate>2020-11-17+02:00</ns8:plannedPublishDate>
+            <ns8:publishDTInEIS>2020-11-18T09:35:25.331+02:00</ns8:publishDTInEIS>
+            <ns8:href>https://zakupki.gov.ru/epz/order/notice/zk504/view/common-info.html?regNumber=0335200009720000001</ns8:href>
+            <ns8:isGOZ>false</ns8:isGOZ>
+            <ns8:purchaseObjectInfo>оказание услуг по модернизации АИАС «Аверс: Сводная отчетность»</ns8:purchaseObjectInfo>
+            <ns8:placingWay>
+                <ns4:code>ZKP504</ns4:code>
+                <ns4:name>Запрос котировок в электронной форме</ns4:name>
+            </ns8:placingWay>
+            <ns8:ETP>
+                <ns4:code>ETP_RTS</ns4:code>
+                <ns4:name>РТС-тендер</ns4:name>
+                <ns4:url>http://www.rts-tender.ru</ns4:url>
+            </ns8:ETP>
+            <ns8:contractConclusionOnSt83Ch2>true</ns8:contractConclusionOnSt83Ch2>
+        </ns8:commonInfo>
+        <ns8:purchaseResponsibleInfo>
+            <ns8:responsibleOrgInfo>
+                <ns8:regNum>03352000097</ns8:regNum>
+                <ns8:consRegistryNum>272X6911</ns8:consRegistryNum>
+                <ns8:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РЕГИОНАЛЬНЫЙ ЦЕНТР ОБРАЗОВАНИЯ"</ns8:fullName>
+                <ns8:postAddress>Российская Федерация, 236039, Калининградская обл, Калининград г, УЛ А.СУВОРОВА, 45</ns8:postAddress>
+                <ns8:factAddress>Российская Федерация, 236039, Калининградская обл, Калининград г, УЛ А.СУВОРОВА, 45</ns8:factAddress>
+                <ns8:INN>3904046396</ns8:INN>
+                <ns8:KPP>390601001</ns8:KPP>
+            </ns8:responsibleOrgInfo>
+            <ns8:responsibleRole>CU</ns8:responsibleRole>
+            <ns8:responsibleInfo>
+                <ns8:orgPostAddress>Российская Федерация, 236039, Калининградская обл, Калининград г, УЛ А.СУВОРОВА, 45</ns8:orgPostAddress>
+                <ns8:orgFactAddress>Российская Федерация, 236039, Калининградская обл, Калининград г, УЛ А.СУВОРОВА, 45</ns8:orgFactAddress>
+                <ns8:contactPersonInfo>
+                    <ns3:lastName>Санжиева</ns3:lastName>
+                    <ns3:firstName>Галина</ns3:firstName>
+                    <ns3:middleName>Пирангалаевна</ns3:middleName>
+                </ns8:contactPersonInfo>
+                <ns8:contactEMail>sanzhieva_galina@mail.ru</ns8:contactEMail>
+                <ns8:contactPhone>7-4012-673396</ns8:contactPhone>
+            </ns8:responsibleInfo>
+        </ns8:purchaseResponsibleInfo>
+        <ns8:printFormInfo>
+            <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200009720000001</ns3:url>
+        </ns8:printFormInfo>
+        <ns8:attachmentsInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B44F32EAC72A5818E0530F548D0A9407</ns3:publishedContentId>
+                <ns3:fileName>Техническое задание_модернизация.docx</ns3:fileName>
+                <ns3:fileSize>25064</ns3:fileSize>
+                <ns3:docDescription>Техническое задание_модернизация</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B44F32EAC72A5818E0530F548D0A9407</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B44FC2A6602D9968E0530F548D0AD613</ns3:publishedContentId>
+                <ns3:fileName>Проект контракта.docx</ns3:fileName>
+                <ns3:fileSize>102939</ns3:fileSize>
+                <ns3:docDescription>Проект контракта</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B44FC2A6602D9968E0530F548D0AD613</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B44D186FF2B87C8BE0530F548D0AC45E</ns3:publishedContentId>
+                <ns3:fileName>Обоснование НМЦК.docx</ns3:fileName>
+                <ns3:fileSize>21420</ns3:fileSize>
+                <ns3:docDescription>Обоснование НМЦК</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B44D186FF2B87C8BE0530F548D0AC45E</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+        </ns8:attachmentsInfo>
+        <ns8:notificationInfo>
+            <ns8:procedureInfo>
+                <ns8:collectingInfo>
+                    <ns8:startDT>2020-11-18T09:35:25+02:00</ns8:startDT>
+                    <ns8:endDT>2020-11-26T14:00:00+02:00</ns8:endDT>
+                    <ns8:place>РТС-тендер</ns8:place>
+                    <ns8:order>Подача заявок на участие в запросе котировок в электронной форме осуществляется только лицами, зарегистрированными в единой информационной системе и аккредитованными на электронной площадке.</ns8:order>
+                </ns8:collectingInfo>
+                <ns8:contractTermAdd>контракт может быть заключен не ранее чем через семь календарных дней с даты размещения в единой информационной системе указанного в части 8 статьи 82.4 Федерального закона от 05.04.2013 г. № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд» (далее-Закон № 44-ФЗ) протокола, в соответствии со статьей 83.2 Закона № 44-ФЗ. Победитель запроса котировок в электронной форме или иной участник такого запроса, с которым заключается контракт при уклонении победителя запроса котировок в электронной форме от заключения контракта, должен подписать контракт в течение пяти календарных дней с даты размещения заказчиком в единой информационной системе и на электронной площадке проекта контракта.</ns8:contractTermAdd>
+                <ns8:contractConditionsAdd>Победитель считается уклонившимся от заключения контракта в случае неисполнения требований в соответствии со статьей 83.2 Закона №44-ФЗ.</ns8:contractConditionsAdd>
+            </ns8:procedureInfo>
+            <ns8:contractConditionsInfo>
+                <ns8:maxPriceInfo>
+                    <ns8:maxPrice>368000</ns8:maxPrice>
+                    <ns8:currency>
+                        <ns4:code>RUB</ns4:code>
+                        <ns4:name>Российский рубль</ns4:name>
+                    </ns8:currency>
+                </ns8:maxPriceInfo>
+                <ns8:maxPriceJustification>В соответствии с Обоснованием начальной (максимальной) цены контракта</ns8:maxPriceJustification>
+            </ns8:contractConditionsInfo>
+            <ns8:customerRequirementsInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>03352000097</ns4:regNum>
+                        <ns4:consRegistryNum>272X6911</ns4:consRegistryNum>
+                        <ns4:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "РЕГИОНАЛЬНЫЙ ЦЕНТР ОБРАЗОВАНИЯ"</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>368000</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:purchaseCode>202390404639639060100100190016203244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>62.03</ns4:OKPDCode>
+                                    <ns4:OKPDName>Услуги по управлению компьютерным оборудованием</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>23904046396390601001</ns8:customerCode>
+                            <ns8:purchaseNumber>0019</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202003352000097001</ns3:plan2020Number>
+                            <ns3:position2020Number>202003352000097001000022</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:financingSource>бюджет Калининградской области</ns8:financingSource>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>368000</ns8:total>
+                                    <ns8:currentYear>368000</ns8:currentYear>
+                                    <ns8:firstYear>0</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:KVRsInfo>
+                                <ns3:currentYear>2020</ns3:currentYear>
+                                <ns3:KVRInfo>
+                                    <ns3:KVR>
+                                        <ns4:code>244</ns4:code>
+                                        <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                    </ns3:KVR>
+                                    <ns3:KVRYearsInfo>
+                                        <ns3:total>368000</ns3:total>
+                                        <ns3:currentYear>368000</ns3:currentYear>
+                                        <ns3:firstYear>0</ns3:firstYear>
+                                        <ns3:secondYear>0</ns3:secondYear>
+                                        <ns3:subsecYears>0</ns3:subsecYears>
+                                    </ns3:KVRYearsInfo>
+                                </ns3:KVRInfo>
+                                <ns3:totalSum>368000</ns3:totalSum>
+                            </ns8:KVRsInfo>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:deliveryPlace>в соответствии с проектом контракта</ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>в соответствии с проектом контракта</ns8:deliveryTerm>
+                        <ns8:oneSideRejection>Предусмотрена возможность одностороннего отказа от исполнения контракта в соответствии с положениями ч. 8 - 25 ст. 95 Федерального закона от 05.04.2013 №44-ФЗ</ns8:oneSideRejection>
+                    </ns8:contractConditionsInfo>
+                </ns8:customerRequirementInfo>
+            </ns8:customerRequirementsInfo>
+            <ns8:purchaseObjectsInfo>
+                <ns8:notDrugPurchaseObjectsInfo>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>62.03.12.130</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги по сопровождению компьютерных систем</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>оказание услуг по модернизации АИАС «Аверс: Сводная отчетность»</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>876</ns4:code>
+                            <ns4:nationalCode>УСЛ ЕД</ns4:nationalCode>
+                            <ns4:name>Условная единица</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>368000</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>368000</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:totalSum>368000</ns3:totalSum>
+                    <ns8:quantityUndefined>false</ns8:quantityUndefined>
+                </ns8:notDrugPurchaseObjectsInfo>
+            </ns8:purchaseObjectsInfo>
+            <ns8:preferensesInfo>
+                <ns8:preferenseInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MP44</ns4:shortName>
+                        <ns4:name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:preferenseInfo>
+            </ns8:preferensesInfo>
+            <ns8:requirementsInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44</ns4:shortName>
+                        <ns4:name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>TR442</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+            </ns8:requirementsInfo>
+            <ns8:restrictionsInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MB44330</ns4:shortName>
+                        <ns4:name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:restrictionInfo>
+            </ns8:restrictionsInfo>
+            <ns8:contractServiceInfo>Контрактный управляющий: Санжиева Галина Пирангалаевна, +7(4012)673396, sanzhieva_galina@mail.ru</ns8:contractServiceInfo>
+        </ns8:notificationInfo>
+    </ns2:epNotificationEZK>
+</ns2:export>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25038014</id>
+        <purchaseNumber>0335400002520000134</purchaseNumber>
+        <docPublishDate>2020-11-12T17:48:04.267+02:00</docPublishDate>
+        <docNumber>№0335400002520000134</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335400002520000134</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335400002520000134</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка промвооружения для нужд Атлантического филиала ФГБНУ «ВНИРО» («АтлантНИРО»)</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03354000025</regNum>
+                <consRegistryNum>001В6402</consRegistryNum>
+                <fullName>АТЛАНТИЧЕСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РЫБНОГО ХОЗЯЙСТВА И ОКЕАНОГРАФИИ"</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</factAddress>
+                <INN>7708245723</INN>
+                <KPP>390643001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</orgFactAddress>
+                <contactPerson>
+                    <lastName>Корчуков</lastName>
+                    <firstName>Никита</firstName>
+                    <middleName>Андреевич</middleName>
+                </contactPerson>
+                <contactEMail>zakupki@atlantniro.ru</contactEMail>
+                <contactPhone>7-4012-925559</contactPhone>
+                <contactFax>7-4012-925519</contactFax>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-12T17:48:04+02:00</startDate>
+                <place>заявка на участие в аукционе в электронной форме направляется участником аукциона в электронной форме оператору электронной площадки, указанной в настоящем извещении о проведении аукциона в электронной форме</place>
+                <order>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» документации об аукционе в электронной форме</order>
+                <endDate>2020-11-20T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-20T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-23T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>2582472.5</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03354000025</regNum>
+                        <consRegistryNum>001В6402</consRegistryNum>
+                        <fullName>АТЛАНТИЧЕСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РЫБНОГО ХОЗЯЙСТВА И ОКЕАНОГРАФИИ"</fullName>
+                    </customer>
+                    <maxPrice>2582472.5</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>Борт СТМ "Атлантида", по месту нахождения СТМ «Атлантида» в порту г. Калининграда</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>не позднее 25 декабря 2020 года</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>25824.73</amount>
+                        <part>1.0</part>
+                        <procedureInfo>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» документации об аукционе в электронной форме.</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356В64020</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» и разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356В64020</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201770824572339064300100641503230244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>32.30</ns4:OKPDCode>
+                                <ns4:OKPDName>Товары спортивные</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>17708245723390643001</customerCode>
+                        <purchaseNumber>0064</purchaseNumber>
+                        <purchaseOrderNumber>150</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003354000025001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003354000025001000072</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>2582472.5</total>
+                                <currentYear>2582472.5</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>2582472.5</ns3:total>
+                                    <ns3:currentYear>2582472.5</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>2582472.5</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Трал РТ/ТМ 70/300 канатная часть</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>427200</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>427200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Сетная часть РТ/ТМ 70/300</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>375600</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>375600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Мотеная часть РТ/ТМ 70/300</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>398450</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>398450</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Мешок траловый пр. 2811, а=45 мм</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>587300</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>587300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Трос д. 22 мм ГОСТ 2688</name>
+                    <OKEI>
+                        <code>006</code>
+                        <nationalCode>М</nationalCode>
+                        <fullName>Метр</fullName>
+                    </OKEI>
+                    <price>493.5</price>
+                    <quantity>
+                        <value>400</value>
+                    </quantity>
+                    <sum>197400</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Трос д. 20 мм ГОСТ 2688</name>
+                    <OKEI>
+                        <code>006</code>
+                        <nationalCode>М</nationalCode>
+                        <fullName>Метр</fullName>
+                    </OKEI>
+                    <price>368.1</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>110430</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Трос д. 18 мм ГОСТ 2688</name>
+                    <OKEI>
+                        <code>006</code>
+                        <nationalCode>М</nationalCode>
+                        <fullName>Метр</fullName>
+                    </OKEI>
+                    <price>324.8</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>97440</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Трос д. 15 мм ГОСТ 2688</name>
+                    <OKEI>
+                        <code>006</code>
+                        <nationalCode>М</nationalCode>
+                        <fullName>Метр</fullName>
+                    </OKEI>
+                    <price>254.4</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>76320</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Трос д. 12,5 мм ГОСТ 2688</name>
+                    <OKEI>
+                        <code>006</code>
+                        <nationalCode>М</nationalCode>
+                        <fullName>Метр</fullName>
+                    </OKEI>
+                    <price>201.5</price>
+                    <quantity>
+                        <value>100</value>
+                    </quantity>
+                    <sum>20150</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Шнур капроновый д. 4 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>558</price>
+                    <quantity>
+                        <value>40</value>
+                    </quantity>
+                    <sum>22320</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Шнур капроновый д. 6 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>558</price>
+                    <quantity>
+                        <value>40</value>
+                    </quantity>
+                    <sum>22320</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Шнур ПП д. 4 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>610</price>
+                    <quantity>
+                        <value>20</value>
+                    </quantity>
+                    <sum>12200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Шнур ПП д. 3 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>610</price>
+                    <quantity>
+                        <value>30</value>
+                    </quantity>
+                    <sum>18300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Нитки капрон 187х12</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>559</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>2795</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Нитки капрон 187х3</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>616</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>3080</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Нитки капрон 187х24</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>559</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>5590</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат ПП д. 8 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>502.5</price>
+                    <quantity>
+                        <value>25</value>
+                    </quantity>
+                    <sum>12562.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат ПП д. 6 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>502.5</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>5025</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат ПП д. 10 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>502.5</price>
+                    <quantity>
+                        <value>20</value>
+                    </quantity>
+                    <sum>10050</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат ПП д. 12 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>502.5</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>25125</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат капрон д. 8 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>520</price>
+                    <quantity>
+                        <value>25</value>
+                    </quantity>
+                    <sum>13000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат капрон д. 10 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>520</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>26000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат капрон д. 12 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>520</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>26000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Канат капрон д. 16 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>520</price>
+                    <quantity>
+                        <value>60</value>
+                    </quantity>
+                    <sum>31200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Фал капрон д. 4 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>536</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>26800</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Фал капрон д. 5 мм</name>
+                    <OKEI>
+                        <code>166</code>
+                        <nationalCode>КГ</nationalCode>
+                        <fullName>Килограмм</fullName>
+                    </OKEI>
+                    <price>536</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>26800</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.30.16.150</code>
+                        <name>Принадлежности рыболовные вспомогательные, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Скоба ПА - 1,0</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>301.5</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>3015</sum>
+                </purchaseObject>
+                <totalSum>2582472.5</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>указаны в разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме </content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>участниками закупки в настоящем аукционе в электронной форме могут быть только субъекты малого предпринимательства, социально ориентированные некоммерческие организации</content>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B6D4BAB34F2941FC90B7FA9E580DBE3F</publishedContentId>
+                <fileName>Извещение о проведении аукциона в электронной форме.doc</fileName>
+                <fileSize>46.5 Кб</fileSize>
+                <docDescription>Извещение о проведении аукциона в электронной форме.doc</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B6D4BAB34F2941FC90B7FA9E580DBE3F</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>FE1FC37F4EFB4677B050A79F3744ED87</publishedContentId>
+                <fileName>Документация об аукционе в электронной форме.doc</fileName>
+                <fileSize>3.94 Мб</fileSize>
+                <docDescription>Документация об аукционе в электронной форме.doc</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=FE1FC37F4EFB4677B050A79F3744ED87</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-12T00:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-18T23:59:59+02:00</endDate>
+                <deliveryProcedure>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» и разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25038014&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

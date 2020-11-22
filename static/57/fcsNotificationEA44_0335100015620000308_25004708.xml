@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25004708</id>
+        <purchaseNumber>0335100015620000308</purchaseNumber>
+        <docPublishDate>2020-11-17T10:52:32.365+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100015620000308</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100015620000308</url>
+        </printForm>
+        <purchaseObjectInfo>поставка лекарственных препаратов</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000156</regNum>
+                <consRegistryNum>001У9266</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ФЕДЕРАЛЬНЫЙ ЦЕНТР ВЫСОКИХ МЕДИЦИНСКИХ ТЕХНОЛОГИЙ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ (Г. КАЛИНИНГРАД)</fullName>
+                <postAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</postAddress>
+                <factAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</factAddress>
+                <INN>3917513457</INN>
+                <KPP>391701001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</orgFactAddress>
+                <contactPerson>
+                    <lastName>Тростянецкий</lastName>
+                    <firstName>Алексей</firstName>
+                    <middleName>Михайлович</middleName>
+                </contactPerson>
+                <contactEMail>d.sp@kldcardio.ru</contactEMail>
+                <contactPhone>7-4012-592111</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-17T10:52:32+02:00</startDate>
+                <place>Электронная площадка ООО «РТС-тендер» </place>
+                <order>В соответствии со статьей 66 федерального закона №44-ФЗ &#13;
+</order>
+                <endDate>2020-11-25T07:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-25T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-26T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>2011200</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000156</regNum>
+                        <consRegistryNum>001У9266</consRegistryNum>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ФЕДЕРАЛЬНЫЙ ЦЕНТР ВЫСОКИХ МЕДИЦИНСКИХ ТЕХНОЛОГИЙ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ (Г. КАЛИНИНГРАД)</fullName>
+                    </customer>
+                    <maxPrice>2011200</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>R</kladrType>
+                                <kladrCode>39000000000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл</fullName>
+                            </kladr>
+                            <deliveryPlace>Гурьевский р-н, пос. Родники, ш. Калининградское, д. 4, склад </deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Поставка товара осуществляется партиями по заявкам Заказчика, оформленным в письменной форме, в течение 14 дней после заявки </deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>20112.00</amount>
+                        <part>1.0</part>
+                        <procedureInfo>В соответствии со статьей 44 Федерального закона №44-ФЗ </procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356У92660</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <amount>201120.00</amount>
+                        <part>10.0</part>
+                        <procedureInfo>В соответствии со статьей 96 Федерального закона №44-ФЗ </procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356У92660</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201391751345739170100100111012120000</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>21.20</ns4:OKPDCode>
+                                <ns4:OKPDName>Препараты лекарственные и материалы, применяемые в медицинских целях</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:undefined>000</ns3:undefined>
+                        </KVRInfo>
+                        <customerCode>13917513457391701001</customerCode>
+                        <purchaseNumber>0011</purchaseNumber>
+                        <purchaseOrderNumber>101</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000156001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000156001000018</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетного учреждения </financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>2011200</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>2011200</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>2011200</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>2011200</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>2011200</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <drugPurchaseObjectsInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>f12f2478-1874-11eb-bde9-bfb334b383c3</MNNExternalCode>
+                                    <MNNName>АЛЬФА-КЕТОГЛУТАРОВАЯ КИСЛОТА+ГИСТИДИН+ГИСТИДИНА ГИДРОХЛОРИД+КАЛИЯ ХЛОРИД+КАЛЬЦИЯ ХЛОРИД+МАГНИЯ ХЛОРИД+МАННИТОЛ+НАТРИЯ ХЛОРИД+ТРИПТОФАН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>РАСТВОР ДЛЯ ИНФУЗИЙ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.176 мг+27.9289 мг+3.7733 мг+0.671 мг+0.0022 мг+0.8132 мг+5.4651 мг+0.8766 мг+0.4085 мг/мл</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>111</code>
+                                        <nationalCode>см[3*];^мл</nationalCode>
+                                        <name>Кубический сантиметр;^миллилитр</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>мл</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>120000</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03351000156</regNum>
+                                <consRegistryNum>001У9266</consRegistryNum>
+                                <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ФЕДЕРАЛЬНЫЙ ЦЕНТР ВЫСОКИХ МЕДИЦИНСКИХ ТЕХНОЛОГИЙ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ (Г. КАЛИНИНГРАД)</fullName>
+                            </customer>
+                            <quantity>120000</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>120000</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>16.76</pricePerUnit>
+                    <positionPrice>2011200.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <total>2011200.00</total>
+            </drugPurchaseObjectsInfo>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Указаны в Разделе 1 «ИНФОРМАЦИОННАЯ КАРТА ЭЛЕКТРОННОГО АУКЦИОНА" настоящей документацией об электронном аукционе</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Требование об отсутствии в предусмотренном Федеральным законом № 44-ФЗ реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа участника закупки - юридического лица </content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+            <addInfo>Устанавливаются требования о наличии действующей лицензии на осуществление фармацевтической деятельности (Федеральный закон от 12.04.2010 № 61-ФЗ «Об обращении лекарственных средств», приказ Министерства здравоохранения и социального развития Российской Федерации от 28.12.2010 № 1222н «Об утверждении правил оптовой торговли лекарственными средствами для медицинского применения») или/и производство лекарственных средств, в случае если участник закупки предлагает к реализации продукцию, производимую им, в соответствии с пунктами 16, 47 части 1 статьи 12 Федерального закона от 04 мая 2011 года № 99-ФЗ «О лицензировании отдельных видов деятельности». </addInfo>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B448783DFD20C99CE0530F548D0AFB37</publishedContentId>
+                <fileName>АДо лек. пр-ты (Гистидин+Гистидина гидрохлорида моногидрат+) повторно.docx</fileName>
+                <fileSize>151.14 Кб</fileSize>
+                <docDescription>АДо лек. пр-ты (Гистидин+Гистидина гидрохлорида моногидрат+) повторно</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B448783DFD20C99CE0530F548D0AFB37</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>true</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-17T10:52:32+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-23T23:59:00+02:00</endDate>
+                <deliveryProcedure>В соответствии со статьей 65 Федерального закона №44-ФЗ </deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25004708&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25023093</id>
+        <purchaseNumber>0335100015620000314</purchaseNumber>
+        <docPublishDate>2020-11-18T11:40:40.372+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100015620000314</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100015620000314</url>
+        </printForm>
+        <purchaseObjectInfo>поставка расходных материалов для службы эксплуатации и обслуживания зданий и сооружений</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000156</regNum>
+                <consRegistryNum>001У9266</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ФЕДЕРАЛЬНЫЙ ЦЕНТР ВЫСОКИХ МЕДИЦИНСКИХ ТЕХНОЛОГИЙ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ (Г. КАЛИНИНГРАД)</fullName>
+                <postAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</postAddress>
+                <factAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</factAddress>
+                <INN>3917513457</INN>
+                <KPP>391701001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 238312, Калининградская обл, Гурьевский р-н, Родники п, ул КАЛИНИНГРАДСКОЕ ШОССЕ, 4</orgFactAddress>
+                <contactPerson>
+                    <lastName>Тростянецкий</lastName>
+                    <firstName>Алексей</firstName>
+                    <middleName>Михайлович</middleName>
+                </contactPerson>
+                <contactEMail>d.sp@kldcardio.ru</contactEMail>
+                <contactPhone>7-4012-592111</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-18T11:40:40+02:00</startDate>
+                <place>Электронная площадка ООО «РТС-тендер»</place>
+                <order>В соответствии со статьей 66 Федерального закона от 05.04.2013 N 44-ФЗ</order>
+                <endDate>2020-11-26T07:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-27T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-30T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>382480</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000156</regNum>
+                        <consRegistryNum>001У9266</consRegistryNum>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "ФЕДЕРАЛЬНЫЙ ЦЕНТР ВЫСОКИХ МЕДИЦИНСКИХ ТЕХНОЛОГИЙ" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ (Г. КАЛИНИНГРАД)</fullName>
+                    </customer>
+                    <maxPrice>382480</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>R</kladrType>
+                                <kladrCode>39000000000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл</fullName>
+                            </kladr>
+                            <deliveryPlace>Гурьевский р-н, пос. Родники, ш. Калининградское, д. 4, склад.</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Поставка товара осуществляется партиями по заявкам Заказчика, оформленным в письменной форме, в течение 14 дней после заявки, но не позднее 25.12.2020г</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>38248.00</amount>
+                        <part>10.0</part>
+                        <procedureInfo>В соответствии со статьей 96 Федерального закона от 05.04.2013 N 44-ФЗ и Раздела 3 «Проект гражданско-правового договора» настоящей документации об электронном аукционе&#13;
+</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356У92660</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201391751345739170100100030110000000</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:undefined>000</ns3:undefined>
+                        </KVRInfo>
+                        <customerCode>13917513457391701001</customerCode>
+                        <purchaseNumber>0003</purchaseNumber>
+                        <purchaseOrderNumber>011</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000156001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000156001000026</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетного учреждения</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>382480</total>
+                                <currentYear>382480</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>382480</ns3:total>
+                                    <ns3:currentYear>382480</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>382480</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.190</code>
+                        <name>Комплектующие и запасные части для вычислительных машин прочие, не включенные в другие группировки</name>
+                        <addCharacteristics>Напряжение - вход (мин.) 200В	&#13;
+Напряжение - вход (макс.) 400В	&#13;
+Напряжение - выход  24В	&#13;
+Ток - выход (макс.)	3.2A	&#13;
+Мощность 75 Вт 	&#13;
+Рабочая температура -20 ° C ~ 85 ° C&#13;
+Размер: 86,0 мм × 41,0 мм × 12,7 мм</addCharacteristics>
+                    </OKPD2>
+                    <name>Микросхема PH75s280-24 для блока питания щита автоматики вентиляционной установки</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>10140</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>20280</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.51.43.119</code>
+                        <name>Приборы цифровые электроизмерительные прочие</name>
+                        <addCharacteristics>Физические входы: 16 (2 группы по 8)&#13;
+Тип входов беспотенциальные или потенциальные (макс. 24 В пост. тока)&#13;
+Физические выходы 8&#13;
+Типы выходов Релейные контакты перем. тока 230 В / 1500 ВA&#13;
+Функции - Принятие сообщений реле на стандартную полевую шину (CAN)&#13;
+Индикация светодиодная: Индикация статуса входов/выходов/работы/шины&#13;
+Интерфейс связи/протокол CAN (2.0)&#13;
+Напряжение питания 24 В пост. ток &#13;
+Потребляемая мощность ок. 5 Вт&#13;
+Размеры (Ш х В х Г в мм) 90 x 105 x 73</addCharacteristics>
+                    </OKPD2>
+                    <name>Цифровое устройство ввода/вывода MPM 16-8</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>148200</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>148200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.51.70.120</code>
+                        <name>Стабилизаторы давления</name>
+                        <addCharacteristics>Для пароувлажнителя «СAREL», типа К 13064. Модель парового цилиндра – 6564, марка «D&amp;T INDUSTRIES LTD», материал цилиндра - пластмасс; электроды - встроенные; сенсор уровня воды - встроенный.</addCharacteristics>
+                    </OKPD2>
+                    <name>Паровой цилиндр для пароувлажнителя воздуха вентиляци-онных установок</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>48000</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>96000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>27.12.40.000</code>
+                        <name>Части электрической распределительной или регулирующей аппаратуры</name>
+                        <addCharacteristics>Контролирует состояние дискретных выходов датчиков аварийных параметров технологического оборудования.  При аварийной сработке любого из датчиков обеспечивается световая сигнализация, обобщённая диспетчерская сигнализация об аварии. Обеспечивает фиксацию аварийного состояния по каждому из аварийных параметров, сброс аварийного состояния - только вручную.</addCharacteristics>
+                    </OKPD2>
+                    <name>Щит сигнализации ЩА-000001</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>19800</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>19800</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>27.32.13.191</code>
+                        <name>Кабели монтажные</name>
+                        <addCharacteristics>Кабель безгалогенный с уменьшинным выделением дыма J-Y(ST)Y 2 x 2 x 0.80 мм² Grey (серый)&#13;
+Кабель монтажный экранированный с 4 медными жилами скрученными попарно, диаметром 0,8 миллиметров, в изоляции и оболочке из ПВХ пластиката, с экраном из алюмополимерной ленты.</addCharacteristics>
+                    </OKPD2>
+                    <name>Кабель безгалогенный с уменьшинным выделением дыма </name>
+                    <OKEI>
+                        <code>018</code>
+                        <nationalCode>ПОГ М</nationalCode>
+                        <fullName>Погонный метр</fullName>
+                    </OKEI>
+                    <price>168</price>
+                    <quantity>
+                        <value>400</value>
+                    </quantity>
+                    <sum>67200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>27.40.15.119</code>
+                        <name>Лампы газоразрядные прочие</name>
+                        <addCharacteristics>Лампа неоновая BA9S EKF PROxima или эквивалент&#13;
+Мощность лампы:	0,5 Вт&#13;
+Цоколь: 	BA9S&#13;
+Напряжение лампы:	230 В&#13;
+Ширина, мм: 9&#13;
+Высота, мм: 9&#13;
+Глубина, мм: 27</addCharacteristics>
+                    </OKPD2>
+                    <name>Лампа неоновая</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>310</price>
+                    <quantity>
+                        <value>100</value>
+                    </quantity>
+                    <sum>31000</sum>
+                </purchaseObject>
+                <totalSum>382480</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Указаны в Разделе 1 «ИНФОРМАЦИОННАЯ КАРТА ЭЛЕКТРОННОГО АУКЦИОНА" настоящей документацией об электронном аукционе &#13;
+</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Требование об отсутствии в предусмотренном Федеральным законом № 44-ФЗ реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа участника закупки - юридического лица &#13;
+</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>RA</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>15</ns4:code>
+                                <ns4:name>Постановление Правительства РФ N 878 от 10.07.2019
+ "О мерах стимулирования производства радиоэлектронной продукции на территории Российской Федерации при осуществлении закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд, о внесении изменений в постановление Правительства Российской Федерации от 16 сентября 2016 г. N 925 и признании утратившими силу некоторых актов Правительства Российской Федерации"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ N 878 от 10.07.2019
+</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:exception>
+                                <ns3:imposibilityBan>true</ns3:imposibilityBan>
+                                <ns3:imposibilityBanReason>Соблюдение ограничения на допуск радиоэлектронной продукции, происходящей из иностранных государств в соответствии с частью 3 статьи 14 Федерального закона от 05.04.2013 № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд» в соответствии с подпунктом «б» пункта 2 Порядка подготовки обоснования невозможности соблюдения ограничения на допуск радиоэлектронной продукции, происходящей из иностранных государств, для целей осуществления закупок для обеспечения государственных и муниципальных нужд, утверждённого Постановлением Правительства РФ от 10.07.2019 № 878 «О мерах стимулирования производства радиоэлектронной продукции на территории Российской Федерации при осуществлении закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд, о внесении изменений в постановление Правительства Российской Федерации от 16 сентября 2016 г. № 925 и признании утратившими силу некоторых актов Правительства Российской Федерации» невозможно по причине отсутствия по состоянию на дату публикации извещения о проведении электронного аукциона (ИКЗ: 201391751345739170100100030110000000) в реестре радиоэлектронной продукции, соответствующей тому же классу (функциональному назначению) радиоэлектронной продукции, планируемой к закупке.</ns3:imposibilityBanReason>
+                            </ns3:exception>
+                            <ns3:note>Обоснования невозможности соблюдения ограничения на допуск радиоэлектронной продукции, происходящей из иностранных государств, для целей осуществления закупок для обеспечения государственных и муниципальных нужд подготовлен и приложен к аукционной документации в виде отдельного файла</ns3:note>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B45EE29F250B071FE0530F548D0A30EC</publishedContentId>
+                <fileName>АДо р.м. для службы эксплуатации 126н + 878 2020 остатки.docx</fileName>
+                <fileSize>1.23 Мб</fileSize>
+                <docDescription>АДо р.м. для службы эксплуатации 126н + 878 2020 остатки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B45EE29F250B071FE0530F548D0A30EC</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-18T11:40:40+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-24T23:59:00+02:00</endDate>
+                <deliveryProcedure>В соответствии со статьей 65 Федерального закона от 05.04.2013 N 44-ФЗ </deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25023093&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

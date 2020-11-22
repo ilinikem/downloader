@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25063226</id>
+        <purchaseNumber>0135100003120000027</purchaseNumber>
+        <docPublishDate>2020-11-19T15:12:09.361+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0135100003120000027</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0135100003120000027</url>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по круглосуточной физической и пультовой охране зданий, помещений и прилегающих территорий</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>01351000031</regNum>
+                <consRegistryNum>00178766</consRegistryNum>
+                <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ПО НАДЗОРУ В СФЕРЕ ЗАЩИТЫ ПРАВ ПОТРЕБИТЕЛЕЙ И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                <postAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</postAddress>
+                <factAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</factAddress>
+                <INN>3906134200</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</orgFactAddress>
+                <contactPerson>
+                    <lastName>Абрамова</lastName>
+                    <firstName>Галина</firstName>
+                    <middleName>Анатольевна</middleName>
+                </contactPerson>
+                <contactEMail>finotdel@39.rospotrebnadzor.ru</contactEMail>
+                <contactPhone>7-4012-572401</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-19T15:12:09+02:00</startDate>
+                <place>Заявка на участие направляется участником закупки оператору площадки в электронном виде</place>
+                <order>Заявка направляется оператору электронной площадки в форме двух электронных документов, содержащих первую и вторую части заявки, в соответствии со ст. 66 Федерального закона от 05.04.2013 № 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд</order>
+                <endDate>2020-11-27T09:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-30T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-12-01T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>3292268.4</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>01351000031</regNum>
+                        <consRegistryNum>00178766</consRegistryNum>
+                        <fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ПО НАДЗОРУ В СФЕРЕ ЗАЩИТЫ ПРАВ ПОТРЕБИТЕЛЕЙ И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                    </customer>
+                    <maxPrice>3292268.4</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace>ул. подполковника Иванникова, д. 5&#13;
+г. Зеленоградск, ул. Московская, д.46а;&#13;
+г. Неман, ул. Победы, д.12;&#13;
+г. Багратионовск, ул. Багратиона, д.10а;&#13;
+г. Светлогорск, Калининградский проспект, 21;&#13;
+г. Гвардейск, ул. Тельмана, д. 18 а;&#13;
+г. Черняховск, ул. Пионерская, д. 19;&#13;
+г. Гусев, ул. Ломоносова, д. 15</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Услуги по круглосуточной физической и пультовой охране оказываются с 00:00 ч. 01.01.2021 г. и по 23:59 ч. 31.12.2021 г.</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>32922.68</amount>
+                        <part>1.0</part>
+                        <procedureInfo>Денежные средства, предназначенные для обеспечения заявок, вносятся участниками закупок на специальные счета, открытые ими в банках, перечень которых устанавливается Правительством Российской Федерации (далее - специальный счет). Требования к указанным банкам устанавливаются Правительством Российской Федерации. Такие требования должны быть не ниже требований, установленных в соответствии с Бюджетным кодексом Российской Федерации к кредитным организациям, в которых могут размещаться средства федерального бюджета на банковские депозиты</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351787660</personalAccount>
+                        <bik>042780001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <amount>164613.42</amount>
+                        <part>5.0</part>
+                        <procedureInfo>Контракт заключается только после предоставления победителем, с которым заключается контракт, обеспечения исполнения контракта в форме: предоставления банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона 44 - ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд», или внесением денежных средств на указанный Заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику. &#13;
+Способ обеспечения исполнения контракта определяется участником закупки, с которым заключается контракт, самостоятельно.&#13;
+УФК по Калининградской области&#13;
+(Управление Роспотребнадзора по Калининградской области,&#13;
+л/счет 05351787660),&#13;
+р/с 40302810340301004001&#13;
+Отделение Калининград г. Калининград, БИК 042748001,&#13;
+ИНН 3906134200 КПП 390601001</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351787660</personalAccount>
+                        <bik>042780001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390613420039060100100250018424244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>84.24</ns4:OKPDCode>
+                                <ns4:OKPDName>Услуги по обеспечению общественного порядка и безопасности</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13906134200390601001</customerCode>
+                        <purchaseNumber>0025</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202001351000031001</ns3:plan2020Number>
+                        <ns3:position2020Number>202001351000031001000055</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>3292268.4</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>3292268.4</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>14109090191290019244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>3292268.4</total>
+                                    <currentYear>0</currentYear>
+                                    <firstYear>3292268.4</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>3292268.4</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>0017876620000000089</BONumber>
+                        <BODate>2020-11-16T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>84.24.19.000</code>
+                        <name>Услуги, связанные с обеспечением общественного порядка и безопасности, прочие</name>
+                    </OKPD2>
+                    <name>Услуги, связанные с обеспечением общественного порядка и безопасности, прочие</name>
+                    <OKEI>
+                        <code>362</code>
+                        <nationalCode>МЕС</nationalCode>
+                        <fullName>Месяц</fullName>
+                    </OKEI>
+                    <price>274355.7</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>3292268.4</sum>
+                </purchaseObject>
+                <totalSum>3292268.4</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                </requirement>
+            </requirements>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B4744064B18D1318E0530F548D0A852A</publishedContentId>
+                <fileName>Документация  2021.docx</fileName>
+                <fileSize>156.56 Кб</fileSize>
+                <docDescription>Документация  2021</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4744064B18D1318E0530F548D0A852A</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-19T15:12:09+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-24T09:00:00+02:00</endDate>
+                <deliveryProcedure>Любой участник аукциона в электронной форме, получивший аккредитацию на электронной площадке, указанной в извещении о проведении аукциона, вправе направить на адрес электронной площадки, запрос о даче разъяснений положений документации о таком аукционе. При этом участник такого аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25063226&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

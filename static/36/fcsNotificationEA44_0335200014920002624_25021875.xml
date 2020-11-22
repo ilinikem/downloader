@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25021875</id>
+        <externalId>6351E182-D753-45C8-8F89-B0668DCA395701</externalId>
+        <purchaseNumber>0335200014920002624</purchaseNumber>
+        <docPublishDate>2020-11-11T17:01:59.515+02:00</docPublishDate>
+        <docNumber>№0335200014920002624</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335200014920002624</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200014920002624</url>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по проведению лечебно-диагностических лабораторных исследований</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03352000149</regNum>
+                <consRegistryNum>272J3311</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТР ОБЕСПЕЧЕНИЯ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ ТОРГОВ"</fullName>
+                <postAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</factAddress>
+                <INN>3904612235</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>AI</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</orgFactAddress>
+                <contactPerson>
+                    <lastName>Сочивко</lastName>
+                    <firstName>Вера</firstName>
+                    <middleName>Николаевна</middleName>
+                </contactPerson>
+                <contactEMail>v.sochivko@gov39.ru</contactEMail>
+                <contactPhone>7-4012-570431</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_SBAST</code>
+            <name>АО «Сбербанк-АСТ»</name>
+            <url>http://www.sberbank-ast.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-11T17:01:59+02:00</startDate>
+                <place>АО 'Сбербанк-АСТ'</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-11-19T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-20T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-23T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>4000000</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>true</quantityUndefined>
+            <isContractPriceFormula>true</isContractPriceFormula>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03353000451</regNum>
+                        <consRegistryNum>272Ч5112</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                    </customer>
+                    <maxPrice>4000000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>по усмотрению Исполнителя, согласно адресу, указанному в лицензии на осуществление медицинской деятельности.</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>01 января 2021 года по 31 декабря 2021 года включительно.</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>20000.00</amount>
+                        <part>0.5</part>
+                        <procedureInfo>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч51120</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <amount>200000.00</amount>
+                        <part>5.0</part>
+                        <procedureInfo>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356Ч51120</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390603735839060100101850018690244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>86.90</ns4:OKPDCode>
+                                <ns4:OKPDName>Услуги в области медицины прочие</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906037358390601001</customerCode>
+                        <purchaseNumber>0185</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003353000451001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003353000451001000191</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>4000000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>4000000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>4000000</ns3:total>
+                                    <ns3:currentYear>0</ns3:currentYear>
+                                    <ns3:firstYear>4000000</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>4000000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                    <contractPriceFormula>4000000</contractPriceFormula>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследования на антиген ротовируса, норовируса, астровируса (качественный результат)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>598</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>598</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Цитомегаловирус, определение ДНК (качественный результат)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>416</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>416</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Цитомегаловирус, определение ДНК (количественный результат)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>483</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>483</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Вирус простого герпеса 1 и 2 типа, определение ДНК (качественный результат)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>454</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>454</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Вирус герпеса 6 типа, определение ДНК (качественный результат)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>454</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>454</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление РНК вируса гепатита С (HCV) (качественный результат</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>559</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>559</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Количественное определение РНК вируса гепатита С (HCV)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1307</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1307</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Количественное определение РНК вируса гепатита С (HCV), ультрачувсвительный</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1222</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1222</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Генотипирование вируса гепатита С (HCV)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1372</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1372</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител к антигенам бледной трепонемы, возбудителя сифилиса (качественный результат)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>314</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>314</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig M  к вирусу гепатита А </name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>182</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>182</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig G к вирусу гепатита А </name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>182</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>182</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антигена Hbs Ag вируса гепатита В</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>157.2</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>157.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Подтверждающий тест присутствия антигена Hbs Ag вируса гепатита В </name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>203</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>203</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление  антител  к антигену Hbs Ag вируса гепатита В</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>205</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>205</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител   к вирусу гепатита С  (HCV)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>168</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>168</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig M к антигену вируса гепатита С</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>166</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>166</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Подтверждающий тест присутствия антител вируса гепатита С HCV</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>203</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>203</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса класса Ig М  к  цитомегаловирусной инфекции</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>182</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>182</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса класса Ig G  к  цитомегаловирусной инфекции</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>182</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>182</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение индекса авидности антител класса Ig G к цитомегаловирусной инфекции</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>178</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>178</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig М к вирусу токсоплазмоза</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>215</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>215</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig G  к вирусу токсоплазмоза</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>178</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>178</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение индекса авидности антител класса Ig G к вирусу токсоплазмоза</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>205</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>205</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител  класса Ig G   к  вирусу герпеса 1 и 2 типа</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>182</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>182</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител  класса  Ig М к  вирусу герпеса 1 и 2 типа</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>182</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>182</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение индекса авидности антител класса Ig G к вирусу герпеса 1 и 2 типа</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>209</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>209</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител  класса Ig G к  вирусу герпеса 2 типа</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>196</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>196</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение индекса авидности антител класса Ig G к вирусу герпеса 2 типа</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>213</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>213</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig A или класса Ig G  к инфекции хламидиоз трахоматис</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>204</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>204</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig М или класса Ig G к инфекции хламидофиле пневмония</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>204</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>204</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig A или класса Ig G  к инфекции микоплазма хоминис</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>204</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>204</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig M или класса Ig G  к микоплазма пневмония</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Опредеоение антител класса Ig G к антигенам (EA) вируса Эпштей-Барра</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>204</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>204</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение  антител класса Ig G к ядерному антигену (NA) вируса Эпштей-Барра</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>204</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>204</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение  антител класса Ig M к капсидному антигену (VCA) вируса Эпштей-Барра</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>192</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>192</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение индекса авидности антител класса Ig G к капсидному антигену (VCA) вируса Эпштей-Барра</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>226</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>226</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение  антител класса Ig G к вирусу краснухи</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>219</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>219</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение  антител класса Ig М к вирусу краснухи</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>219</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>219</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Определение индекса авидности антител класса Ig G к вирусу краснухи</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>215</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>215</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление суммарных антител к антигенам лямблий</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>950</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>950</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на  описторхоз</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>2300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на токсокароз</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>880</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>880</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на трихинеллез</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1170</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1170</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на эхинококкоз</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>880</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>880</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на аскаридоз</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>880</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>880</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на  коклюш </name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>879</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>879</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на  дифтерию  РПГА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>658</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>658</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на менингококковую инфекцию  РПГА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>658</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>658</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление специфических антител к кишечным иерсиниям серовариантов О3 РНГА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>490.4</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>490.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление специфических антител к кишечным иерсиниям серовариантов О9 РНГА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>490.4</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>490.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление специфических антител к псевдотуберкулезу РНГА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>468</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>468</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig А, класса Ig G или класса Ig М   к возбудителям иерсиниоза методом ИФА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>340</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>340</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявления антител класса Ig G или класса Ig М к бореллиям (Болезнь Лайма) методом ИФА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>340</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>340</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Подтверждающий тест на  болезнь Лайма</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1280</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1280</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на антиген ротавируса  (обнаружение возбудителя в кале)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>247</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>247</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на антиген аденовирус (обнаружение возбудителя в кале)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>249</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>249</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование напряженности иммунитета антител к кори</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>213</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>213</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на сальмонеллез</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>648</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>648</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследования на антитела к клещевому энцефалиту класса  М или класса G</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>266</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>266</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование клинического материала на вирус герпеса человека 6</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>573.5</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>573.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Выявление антител класса Ig G к столбнячному антигену</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>889</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>889</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Коклюш Ig A</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>664</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>664</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Коклюш Ig G</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>664</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>664</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование на брюшной тиф РПГА</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>667</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>667</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование мочи на микрофлору</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>676.42</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>676.42</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на флору из ротоглотки</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>784.55</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>784.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на флору из уха</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>784.55</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>784.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на флору из кожи</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>784.55</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>784.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на флору из носа</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>784.55</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>784.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на флору из глаза</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>784.55</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>784.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на грибы</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>343</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>343</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на листерии</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1356</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1356</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на  дисбактериоз кишечный</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1009.55</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1009.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на кишечную группу</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1095</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1095</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на эшерихии</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>354.12</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>354.12</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на кампилобактериоз</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>451.4</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>451.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на иерсиниоз </name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>741</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>741</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на псевдотуберкулез</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>741</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>741</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование кала на условно - патогенные энтеробактерии с количественной оценкой</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>880.57</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>880.57</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование кал на стафилококк с количественной оценкой</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>394.4</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>394.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на дифтерию</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>309.6</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>309.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на коклюш</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>309.6</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>309.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на паракоклюш</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>309.6</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>309.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на стафилококк (мазок)</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>328.4</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>328.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала на гемолитический стрептококк</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>283.02</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>283.02</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала (моча) на сальмонеллы</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>473.1</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>473.1</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>86.90.15.000</code>
+                        <name>Услуги медицинских лабораторий</name>
+                    </OKPD2>
+                    <name>Исследование биоматериала (кровь) на сальмонеллы</name>
+                    <OKEI>
+                        <code>876</code>
+                        <nationalCode>УСЛ ЕД</nationalCode>
+                        <fullName>Условная единица</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>03353000451</regNum>
+                                <consRegistryNum>272Ч5112</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ГОРОДСКАЯ ДЕТСКАЯ ПОЛИКЛИНИКА № 6"</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>472.1</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>472.1</sum>
+                </purchaseObject>
+                <totalSum>45253.13</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>наличие действующей лицензии на осуществление медицинской деятельности (за исключением указанной деятельности, осуществляемой медицинскими организациями и другими организациями, входящими в частную систему здравоохранения, на территории инновационного центра «Сколково») в соответствии с постановлением Правительства РФ от 16.04.2012 № 291 № «О лицензировании медицинской деятельности (за исключением указанной деятельности, осуществляемой медицинскими организациями и другими организациями, входящими в частную систему здравоохранения, на территории инновационного центра «Сколково»)». Виды работ (услуг), составляющие лицензируемый вид деятельности: бактериология, лабораторная диагностика;</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлено</content>
+                </requirement>
+            </requirements>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>B3D558140CD4C194E0530F548D0A70A8</publishedContentId>
+                <fileName>Извещение об аукционе.docx</fileName>
+                <fileSize>23.25 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D558140CD4C194E0530F548D0A70A8</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>B3D558140CCCC194E0530F548D0A70A8</publishedContentId>
+                <fileName>Понятия и определения_ используемые заказчиком в техническом задании.docx</fileName>
+                <fileSize>12.52 Кб</fileSize>
+                <docDescription>Понятия и определения, используемые заказчиком в техническом задании</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D558140CCCC194E0530F548D0A70A8</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3D558140CD0C194E0530F548D0A70A8</publishedContentId>
+                <fileName>Проект контракта.docx</fileName>
+                <fileSize>78.55 Кб</fileSize>
+                <docDescription>Проект контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D558140CD0C194E0530F548D0A70A8</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3D5582BEB4FC192E0530F548D0ACEC3</publishedContentId>
+                <fileName>документация об аукционе.docx</fileName>
+                <fileSize>118.93 Кб</fileSize>
+                <docDescription>Документация</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D5582BEB4FC192E0530F548D0ACEC3</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3D558140CD2C194E0530F548D0A70A8</publishedContentId>
+                <fileName>Техническое задание.docx</fileName>
+                <fileSize>28.18 Кб</fileSize>
+                <docDescription>Описание объекта закупки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D558140CD2C194E0530F548D0A70A8</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B3D558140CCAC194E0530F548D0A70A8</publishedContentId>
+                <fileName>Обоснование начальной (максимальной) цены контракта.xlsx</fileName>
+                <fileSize>24.27 Кб</fileSize>
+                <docDescription>Обоснование начальной (максимальной) цены контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D558140CCAC194E0530F548D0A70A8</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-11T19:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-17T19:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25021875&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

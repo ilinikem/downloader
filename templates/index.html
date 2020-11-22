@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %} Запрос на загрузку {% endblock %}
+
+{% block content %}
+<div class="container">
+           <h1 style="text-align: center"> Последние обновления</h1>
+    <h5 style="text-align: center">(выводятся по 10 записей на страницу)</h5>
+            <br><hr>
+            <h3 style="text-align: center"> Колличество данных в базе равно => {{count_list}}</h3>
+            <br><hr>
+
+            <!-- Вывод ленты записей -->
+                <div style="display: flex; justify-content: center;">
+                <button style="align-content: center"><h2><a href="{% url 'download' %}" class='btn btn-lg'>Сделать запрос данных (время ожидания около 1 мин.)</a></h2></button>
+                </div>
+    <br>
+    {% if page.has_other_pages %}
+            {% include "paginator.html" with items=page paginator=paginator %}
+        {% endif %}
+                {% for post in page %}
+                  <!-- Вот он, новый include! -->
+                    <p>
+                    <p><h3>Номер записи: {{post.id}}</h3></p>
+                    <h2 style="color: red">Содержимое</h2> {{post.jsonData|linebreaksbr}}
+                    <p><h3>Дата и время создания: {{post.created_at|date:"d.m.Y - H:i:s"}}</h3></p>
+                    </p>
+                    <hr>
+                {% endfor %}
+
+</div>
+
+        <!-- Вывод паджинатора -->
+        {% if page.has_other_pages %}
+            {% include "paginator.html" with items=page paginator=paginator %}
+        {% endif %}
+{% endblock %}

@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25098752</id>
+        <externalId>5225AA6A-6693-40AB-A2D4-BCCE2FCD15E201</externalId>
+        <purchaseNumber>0335200014920002784</purchaseNumber>
+        <docPublishDate>2020-11-18T15:39:47.500+02:00</docPublishDate>
+        <docNumber>№0335200014920002784</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335200014920002784</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335200014920002784</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка лекарственных препаратов для медицинского применения</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03352000149</regNum>
+                <consRegistryNum>272J3311</consRegistryNum>
+                <fullName>ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ КАЛИНИНГРАДСКОЙ ОБЛАСТИ "ЦЕНТР ОБЕСПЕЧЕНИЯ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ ТОРГОВ"</fullName>
+                <postAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</factAddress>
+                <INN>3904612235</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>AI</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>236022, Калининградская обл, г Калининград, пр-кт Советский, дом 13</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, Советский, 13</orgFactAddress>
+                <contactPerson>
+                    <lastName>Лобанова</lastName>
+                    <firstName>Елена</firstName>
+                    <middleName>Николаевна</middleName>
+                </contactPerson>
+                <contactEMail>e.lobanova@gov39.ru</contactEMail>
+                <contactPhone>7-4012-570431</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-18T15:39:47+02:00</startDate>
+                <place>ООО 'РТС - тендер'</place>
+                <order>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</order>
+                <endDate>2020-11-27T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-30T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-12-01T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>938145.9</maxPrice>
+            <standardContractNumber>1400700000418001</standardContractNumber>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03352000079</regNum>
+                        <consRegistryNum>272У6012</consRegistryNum>
+                        <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                    </customer>
+                    <maxPrice>938145.9</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>236006, г. Калининград, ул. Барнаульская, 6</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Поставка по заявкам Заказчика, с  момента заключения Контракта и по 30 ноября 2021 г.</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>46907.30</amount>
+                        <part>5.0</part>
+                        <procedureInfo>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40601810740301004001</settlementAccount>
+                        <personalAccount>20356У60120</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202390605520539060100101130020000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>23906055205390601001</customerCode>
+                        <purchaseNumber>0113</purchaseNumber>
+                        <purchaseOrderNumber>002</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003352000079001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003352000079001000119</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>938145.90</total>
+                                <currentYear>276110.15</currentYear>
+                                <firstYear>662035.75</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>938145.90</ns3:total>
+                                    <ns3:currentYear>276110.15</ns3:currentYear>
+                                    <ns3:firstYear>662035.75</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>938145.90</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <drugPurchaseObjectsInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingTextForm>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNName>Аммиак</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>раствор для наружного применения и ингаляций</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>10%</dosageGRLSValue>
+                                </dosageInfo>
+                                <manualUserOKEI>
+                                    <ns4:code>111</ns4:code>
+                                    <ns4:name>Кубический сантиметр;^миллилитр</ns4:name>
+                                </manualUserOKEI>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>720</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingTextForm>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>720</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>720</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.54</pricePerUnit>
+                    <positionPrice>388.80</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingTextForm>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNName>СЕРА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>~</dosageGRLSValue>
+                                </dosageInfo>
+                                <manualUserOKEI>
+                                    <ns4:code>163</ns4:code>
+                                    <ns4:name>Грамм</ns4:name>
+                                </manualUserOKEI>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>9000</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingTextForm>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>9000</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>9000</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.98</pricePerUnit>
+                    <positionPrice>8820.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingTextForm>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNName>ПИРИТИОН ЦИНК</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>АЭРОЗОЛЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>2 мг/мл</dosageGRLSValue>
+                                </dosageInfo>
+                                <manualUserOKEI>
+                                    <ns4:code>163</ns4:code>
+                                    <ns4:name>Грамм</ns4:name>
+                                </manualUserOKEI>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>525</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingTextForm>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>525</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>525</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>59.07</pricePerUnit>
+                    <positionPrice>31011.75</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edfc46e-bf5b-11e9-bd5d-03d5a609159b</MNNExternalCode>
+                                    <MNNName>АЗЕЛАИНОВАЯ КИСЛОТА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ГЕЛЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>150 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1050</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1050</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1050</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>32.23</pricePerUnit>
+                    <positionPrice>33841.50</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>e24be662-d888-11e9-be09-77564158cd9a</MNNExternalCode>
+                                    <MNNName>АСКОРБИНОВАЯ КИСЛОТА+РУТОЗИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>~</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>600</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>600</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>600</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.56</pricePerUnit>
+                    <positionPrice>336.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee22736-bf5b-11e9-bd5d-878e3bef7b4e</MNNExternalCode>
+                                    <MNNName>БАЦИТРАЦИН+НЕОМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ПОРОШОК ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>250 ЕД+5000 ЕД/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>360</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>360</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>360</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>45.11</pricePerUnit>
+                    <positionPrice>16239.60</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ede7d8e-bf5b-11e9-bd5d-4f6ded7e0fe0</MNNExternalCode>
+                                    <MNNName>БЕНЗОИЛА ПЕРОКСИД+КЛИНДАМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ГЕЛЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>50 мг+10 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>375</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>375</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>375</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>29.73</pricePerUnit>
+                    <positionPrice>11148.75</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>9cf1b38a-7b12-11ea-85b7-f716dfb361e2</MNNExternalCode>
+                                    <MNNName>БЕТАМЕТАЗОН+САЛИЦИЛОВАЯ КИСЛОТА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>РАСТВОР ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.5 мг+20 мг/мл</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>111</code>
+                                        <nationalCode>см[3*];^мл</nationalCode>
+                                        <name>Кубический сантиметр;^миллилитр</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>мл</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>11500</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>11500</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>11500</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>10.11</pricePerUnit>
+                    <positionPrice>116265.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>9cf103ae-7b12-11ea-85b7-038abcf8e70c</MNNExternalCode>
+                                    <MNNName>БЕТАМЕТАЗОН+САЛИЦИЛОВАЯ КИСЛОТА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.5 мг+30 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>9300</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>9300</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>9300</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>17.93</pricePerUnit>
+                    <positionPrice>166749.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee21fa2-bf5b-11e9-bd5d-8378d7eefbe5</MNNExternalCode>
+                                    <MNNName>БЕТАМЕТАЗОН+ГЕНТАМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.5 мг+1 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>3720</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>3720</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>3720</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>15.95</pricePerUnit>
+                    <positionPrice>59334.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edd814a-bf5b-11e9-bd5d-bb8a760d9a7a</MNNExternalCode>
+                                    <MNNName>БЕТАМЕТАЗОН+ГЕНТАМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.5 мг+1 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1800</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1800</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1800</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>15.96</pricePerUnit>
+                    <positionPrice>28728.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>80b5d028-7ff1-11ea-8071-c30416396893</MNNExternalCode>
+                                    <MNNName>ГИАЛУРОНИДАЗА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ЛИОФИЛИЗАТ ДЛЯ ПРИГОТОВЛЕНИЯ РАСТВОРА ДЛЯ ИНЪЕКЦИЙ И МЕСТНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>64 ЕД</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>9920</code>
+                                        <nationalCode>ЕД</nationalCode>
+                                        <name>Единица действия биологической активности</name>
+                                    </dosageUserOKEI>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>30720</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>30720</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>30720</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>1.23</pricePerUnit>
+                    <positionPrice>37785.60</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edefd22-bf5b-11e9-bd5d-fb33337c5eee</MNNExternalCode>
+                                    <MNNName>ГИДРОКОРТИЗОН+НАТАМИЦИН+НЕОМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>~</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1425</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1425</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1425</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>41.12</pricePerUnit>
+                    <positionPrice>58596.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ed9d072-bf5b-11e9-bd5d-e37093329f9e</MNNExternalCode>
+                                    <MNNName>ДИМЕТИЛСУЛЬФОКСИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КОНЦЕНТРАТ ДЛЯ ПРИГОТОВЛЕНИЯ РАСТВОРА ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>~</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>111</code>
+                                        <nationalCode>см[3*];^мл</nationalCode>
+                                        <name>Кубический сантиметр;^миллилитр</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>мл</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1500</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1500</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1500</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.45</pricePerUnit>
+                    <positionPrice>675.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee5c080-bf5b-11e9-bd5d-3fd96b7ad7b8</MNNExternalCode>
+                                    <MNNName>ДИОКСОМЕТИЛТЕТРАГИДРОПИРИМИДИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>100 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1425</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1425</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1425</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>2.57</pricePerUnit>
+                    <positionPrice>3662.25</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1eda6d3e-bf5b-11e9-bd5d-37905c525422</MNNExternalCode>
+                                    <MNNName>ИХТАММОЛ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>100 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2550</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2550</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2550</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>2.40</pricePerUnit>
+                    <positionPrice>6120.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ede6bdc-bf5b-11e9-bd5d-ab3d11769a87</MNNExternalCode>
+                                    <MNNName>ЙОД+[КАЛИЯ ЙОДИД+ЭТАНОЛ]</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>РАСТВОР ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>50 мг/мл</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>111</code>
+                                        <nationalCode>см[3*];^мл</nationalCode>
+                                        <name>Кубический сантиметр;^миллилитр</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>мл</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>500</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>500</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>500</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>1.28</pricePerUnit>
+                    <positionPrice>640.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee3f02a-bf5b-11e9-bd5d-130effe29ad0</MNNExternalCode>
+                                    <MNNName>КАЛЬЦИПОТРИОЛ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.05 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>450</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>450</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>450</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>37.80</pricePerUnit>
+                    <positionPrice>17010.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee3a58e-bf5b-11e9-bd5d-47a6c9f12d01</MNNExternalCode>
+                                    <MNNName>КЛИНДАМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ГЕЛЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>10 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>900</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>900</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>900</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>14.31</pricePerUnit>
+                    <positionPrice>12879.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ede3a7c-bf5b-11e9-bd5d-c7c3bf5fe063</MNNExternalCode>
+                                    <MNNName>КЛОБЕТАЗОЛ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.5 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2100</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2100</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2100</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>14.09</pricePerUnit>
+                    <positionPrice>29589.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee1386c-bf5b-11e9-bd5d-c71a24492dec</MNNExternalCode>
+                                    <MNNName>КЛОБЕТАЗОЛ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>0.5 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>4000</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>4000</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>4000</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>11.65</pricePerUnit>
+                    <positionPrice>46600.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ed994cc-bf5b-11e9-bd5d-834b0e49ef4d</MNNExternalCode>
+                                    <MNNName>КЛОТРИМАЗОЛ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>10 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>6880</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>6880</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>6880</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>5.32</pricePerUnit>
+                    <positionPrice>36601.60</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee36e8e-bf5b-11e9-bd5d-17f6a044a2f8</MNNExternalCode>
+                                    <MNNName>МЕТИЛПРЕДНИЗОЛОНА АЦЕПОНАТ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>1 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2700</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2700</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2700</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>25.67</pricePerUnit>
+                    <positionPrice>69309.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edc56f8-bf5b-11e9-bd5d-b75954099ec1</MNNExternalCode>
+                                    <MNNName>МЕТИЛПРЕДНИЗОЛОНА АЦЕПОНАТ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>1 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2250</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2250</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2250</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>20.20</pricePerUnit>
+                    <positionPrice>45450.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee0e664-bf5b-11e9-bd5d-afe7c6ec7e33</MNNExternalCode>
+                                    <MNNName>МЕТИОНИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ, ПОКРЫТЫЕ ОБОЛОЧКОЙ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>250 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1750</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1750</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1750</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>1.52</pricePerUnit>
+                    <positionPrice>2660.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edb2c92-bf5b-11e9-bd5d-6ffec9fed58e</MNNExternalCode>
+                                    <MNNName>МЕТРОНИДАЗОЛ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ГЕЛЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>10 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>960</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>960</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>960</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>6.56</pricePerUnit>
+                    <positionPrice>6297.60</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>7a83bc66-75b4-11ea-b3fe-2bb65e83fe5e</MNNExternalCode>
+                                    <MNNName>МОМЕТАЗОН+САЛИЦИЛОВАЯ КИСЛОТА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>1 мг+50 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>150</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>150</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>150</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>37.45</pricePerUnit>
+                    <positionPrice>5617.50</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee385c2-bf5b-11e9-bd5d-dfae40f1600b</MNNExternalCode>
+                                    <MNNName>НИКОТИНОВАЯ КИСЛОТА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>50 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2600</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2600</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2600</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.47</pricePerUnit>
+                    <positionPrice>1222.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ee22b00-bf5b-11e9-bd5d-a38e2d6967d7</MNNExternalCode>
+                                    <MNNName>НИМЕСУЛИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>100 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2000</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2000</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2000</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>3.33</pricePerUnit>
+                    <positionPrice>6660.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edef5e8-bf5b-11e9-bd5d-9b9e0c08a23e</MNNExternalCode>
+                                    <MNNName>ПЕНТОКСИФИЛЛИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ, ПОКРЫТЫЕ ОБОЛОЧКОЙ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>100 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>2460</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>2460</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>2460</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>2.53</pricePerUnit>
+                    <positionPrice>6223.80</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>9cf11448-7b12-11ea-85b7-7372cbc87ea0</MNNExternalCode>
+                                    <MNNName>ПЕНТОКСИФИЛЛИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ С ПРОЛОНГИРОВАННЫМ ВЫСВОБОЖДЕНИЕМ, ПОКРЫТЫЕ ОБОЛОЧКОЙ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>400 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>420</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>420</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>420</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>13.62</pricePerUnit>
+                    <positionPrice>5720.40</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edaebd8-bf5b-11e9-bd5d-4fffc6bc3cee</MNNExternalCode>
+                                    <MNNName>СУЛЬФАЦЕТАМИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КАПЛИ ГЛАЗНЫЕ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>200 мг/мл</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>111</code>
+                                        <nationalCode>см[3*];^мл</nationalCode>
+                                        <name>Кубический сантиметр;^миллилитр</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>мл</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>60</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>60</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>60</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>4.52</pricePerUnit>
+                    <positionPrice>271.20</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edffac4-bf5b-11e9-bd5d-f7832be364ea</MNNExternalCode>
+                                    <MNNName>ТЕРБИНАФИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>10 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>300</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>300</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>300</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>7.52</pricePerUnit>
+                    <positionPrice>2256.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edfeea8-bf5b-11e9-bd5d-dfd2655e4fed</MNNExternalCode>
+                                    <MNNName>АКТИВИРОВАННЫЙ УГОЛЬ</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>250 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>980</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>980</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>980</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.48</pricePerUnit>
+                    <positionPrice>470.40</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1edcb9c2-bf5b-11e9-bd5d-cfb1b7909839</MNNExternalCode>
+                                    <MNNName>ФЕКСОФЕНАДИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ТАБЛЕТКИ, ПОКРЫТЫЕ ОБОЛОЧКОЙ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>180 мг</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>796</code>
+                                        <nationalCode>шт</nationalCode>
+                                        <name>Штука</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>таблетка</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>200</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>200</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>200</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>44.28</pricePerUnit>
+                    <positionPrice>8856.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ede8d9c-bf5b-11e9-bd5d-cfb690ac3d68</MNNExternalCode>
+                                    <MNNName>ФУЗИДОВАЯ КИСЛОТА</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>КРЕМ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>20 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>270</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>270</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>270</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>32.24</pricePerUnit>
+                    <positionPrice>8704.80</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>3b51c170-a181-11ea-aa8b-dbd71bd303af</MNNExternalCode>
+                                    <MNNName>ЦИНКА ОКСИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>СУСПЕНЗИЯ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>125 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>28125</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>28125</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>28125</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.35</pricePerUnit>
+                    <positionPrice>9843.75</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1eddfdfa-bf5b-11e9-bd5d-cf56957c3203</MNNExternalCode>
+                                    <MNNName>ЦИНКА ОКСИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>~</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>22500</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>22500</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>22500</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>0.86</pricePerUnit>
+                    <positionPrice>19350.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1eda31e8-bf5b-11e9-bd5d-874e58ccd2b5</MNNExternalCode>
+                                    <MNNName>ЦИНКА ОКСИД</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>ПАСТА ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>250 мг/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>3750</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>3750</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>3750</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>1.94</pricePerUnit>
+                    <positionPrice>7275.00</positionPrice>
+                </drugPurchaseObjectInfo>
+                <drugPurchaseObjectInfo>
+                    <objectInfoUsingReferenceInfo>
+                        <drugsInfo>
+                            <drugInfo>
+                                <MNNInfo>
+                                    <MNNExternalCode>1ed9c096-bf5b-11e9-bd5d-f7b77f74ae38</MNNExternalCode>
+                                    <MNNName>ЭРИТРОМИЦИН</MNNName>
+                                </MNNInfo>
+                                <medicamentalFormInfo>
+                                    <medicamentalFormName>МАЗЬ ДЛЯ НАРУЖНОГО ПРИМЕНЕНИЯ</medicamentalFormName>
+                                </medicamentalFormInfo>
+                                <dosageInfo>
+                                    <dosageGRLSValue>10000 ЕД/г</dosageGRLSValue>
+                                    <dosageUserOKEI>
+                                        <code>163</code>
+                                        <nationalCode>г</nationalCode>
+                                        <name>Грамм</name>
+                                    </dosageUserOKEI>
+                                    <dosageUserName>г лекарственной формы</dosageUserName>
+                                </dosageInfo>
+                                <basicUnit>true</basicUnit>
+                                <drugQuantity>1680</drugQuantity>
+                            </drugInfo>
+                        </drugsInfo>
+                    </objectInfoUsingReferenceInfo>
+                    <isZNVLP>false</isZNVLP>
+                    <drugQuantityCustomersInfo>
+                        <drugQuantityCustomerInfo>
+                            <customer>
+                                <regNum>03352000079</regNum>
+                                <consRegistryNum>272У6012</consRegistryNum>
+                                <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "ЦЕНТР СПЕЦИАЛИЗИРОВАННЫХ ВИДОВ МЕДИЦИНСКОЙ ПОМОЩИ КАЛИНИНГРАДСКОЙ ОБЛАСТИ"</fullName>
+                            </customer>
+                            <quantity>1680</quantity>
+                        </drugQuantityCustomerInfo>
+                        <total>1680</total>
+                    </drugQuantityCustomersInfo>
+                    <pricePerUnit>5.32</pricePerUnit>
+                    <positionPrice>8937.60</positionPrice>
+                </drugPurchaseObjectInfo>
+                <total>938145.90</total>
+            </drugPurchaseObjectsInfo>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Требование о наличии у участника закупки специального разрешения (лицензии), членства в саморегулируемой организации или выданного саморегулируемой организацией свидетельства о допуске к определенному виду работ  законодательством Российской Федерации не установлено</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:note>Установлено в соответствии с приказом Министерства финансов Российской Федерации от 04.06.2018 № 126н.</ns3:note>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B46165B72C5A775EE0530F548D0A5BEC</publishedContentId>
+                <fileName>Документация.docx</fileName>
+                <fileSize>124.42 Кб</fileSize>
+                <docDescription>Документация</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B46165B72C5A775EE0530F548D0A5BEC</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B46165B72C56775EE0530F548D0A5BEC</publishedContentId>
+                <fileName>Описание объекта закупки 1.docx</fileName>
+                <fileSize>28.08 Кб</fileSize>
+                <docDescription>Описание объекта закупки</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B46165B72C56775EE0530F548D0A5BEC</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B46165B72C58775EE0530F548D0A5BEC</publishedContentId>
+                <fileName>Извещение.docx</fileName>
+                <fileSize>16.46 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B46165B72C58775EE0530F548D0A5BEC</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B4616E3D85C476B2E0530F548D0AF6C7</publishedContentId>
+                <fileName>Обоснование НМЦК М.xlsx</fileName>
+                <fileSize>38.4 Кб</fileSize>
+                <docDescription>Обоснование начальной (максимальной) цены контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4616E3D85C476B2E0530F548D0AF6C7</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B4616E3D85C876B2E0530F548D0AF6C7</publishedContentId>
+                <fileName>Проект контракта на поставку лекарственных препаратов .docx</fileName>
+                <fileSize>64.61 Кб</fileSize>
+                <docDescription>Проект контракта</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B4616E3D85C876B2E0530F548D0AF6C7</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIU2QYJKoZIhvcNAQcCoIIUyjCCFMYCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEEowggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIIqjCCCFegAwIBAgIUShuvqZ3C8ElJond4L9HBHYTqy70wCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwMzIwMDcyMDE5WhcNMjEwNjIwMDcyMDE5WjCCAh4xGjAYBggqhQMDgQMBARIMMzkwNzA2OTIxNDI1MRYwFAYFKoUDZAMSCzE1NDYyODc0Mjg1MSIwIAYJKoZIhvcNAQkBFhNlLmxvYmFub3ZhQGdvdjM5LnJ1MQswCQYDVQQGEwJSVTE2MDQGA1UECAwt0JrQsNC70LjQvdC40L3Qs9GA0LDQtNGB0LrQsNGPINC+0LHQu9Cw0YHRgtGMMR8wHQYDVQQHDBbQmtCw0LvQuNC90LjQvdCz0YDQsNC0MYHdMIHaBgNVBAoMgdLQk9Ce0KHQo9CU0JDQoNCh0KLQktCV0J3QndCe0JUg0JrQkNCX0JXQndCd0J7QlSDQo9Cn0KDQldCW0JTQldCd0JjQlSDQmtCQ0JvQmNCd0JjQndCT0KDQkNCU0KHQmtCe0Jkg0J7QkdCb0JDQodCi0JggItCm0JXQndCi0KAg0J7QkdCV0KHQn9CV0KfQldCd0JjQryDQntCg0JPQkNCd0JjQl9CQ0KbQmNCYINCYINCf0KDQntCS0JXQlNCV0J3QmNCvINCi0J7QoNCT0J7QkiIxKDAmBgNVBCoMH9CV0LvQtdC90LAg0J3QuNC60L7Qu9Cw0LXQstC90LAxGTAXBgNVBAQMENCb0L7QsdCw0L3QvtCy0LAxOTA3BgNVBAMMMNCb0L7QsdCw0L3QvtCy0LAg0JXQu9C10L3QsCDQndC40LrQvtC70LDQtdCy0L3QsDBoMCEGCCqFAwcBAQEBMBUGCSqFAwcBAgEBAQYIKoUDBwEBAgIDQwAEQLnNRh8cvCfR9RE+7wfCjhzaqDmUMhqxB9ytEhunXlvfdtXCdVR043V1HvLlOqJayRq+wyCRpbdvWAmnKRR/E5WjggQPMIIECzAMBgNVHRMBAf8EAjAAMBMGA1UdIAQMMAowCAYGKoUDZHEBMDYGBSqFA2RvBC0MKyLQmtGA0LjQv9GC0L7Qn9GA0L4gQ1NQIiAo0LLQtdGA0YHQuNGPIDQuMCkwggFkBgUqhQNkcASCAVkwggFVDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKQxo0J/RgNC+0LPRgNCw0LzQvNC90L4t0LDQv9C/0LDRgNCw0YLQvdGL0Lkg0LrQvtC80L/Qu9C10LrRgSDCq9Cu0L3QuNGB0LXRgNGCLdCT0J7QodCiwrsuINCS0LXRgNGB0LjRjyAzLjAMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjQtMzM4MCDQvtGCIDExLjA1LjIwMTgMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjgtMzU4MSDQvtGCIDIwLjEyLjIwMTgwDgYDVR0PAQH/BAQDAgP4MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDArBgNVHRAEJDAigA8yMDIwMDMyMDA3MTkxMVqBDzIwMjEwNjIwMDcxOTExWjCCAV8GA1UdIwSCAVYwggFSgBTQZJZtckDrWH0kf7sgW8/Djmx61KGCASykggEoMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LiCCmKreZUAAAAAA7YwaAYDVR0fBGEwXzAuoCygKoYoaHR0cDovL2NybC5yb3NrYXpuYS5ydS9jcmwvdWNma18yMDIwLmNybDAtoCugKYYnaHR0cDovL2NybC5mc2ZrLmxvY2FsL2NybC91Y2ZrXzIwMjAuY3JsMB0GA1UdDgQWBBTbPVYbnWQy6FSQyyTaGD3uGLAZGTAKBggqhQMHAQEDAgNBAMqTrUJ7PCK/L3qLIbPqROzcro7FiUOb4W7a4chynyMsBD1sugqDgJgbe7iY8ShHEo66F8EZMDy5QiO9G7RwldkxggRUMIIEUAIBATCCAYcwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFEobr6mdwvBJSaJ3eC/RwR2E6su9MAwGCCqFAwcBAQICBQCgggJLMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIwMTExODEzMzk0NVowLwYJKoZIhvcNAQkEMSIEIPLw6S4ZoVAmlD/+JvmFK227kT/T6sW1HL/UGemL/PwLMIIB3gYLKoZIhvcNAQkQAi8xggHNMIIByTCCAcUwggHBMAoGCCqFAwcBAQICBCBBQvT6pAjjnaRtXE+chb1sK8emV/wOOOucs9ZiPrglIjCCAY8wggF1pIIBcTCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvgIUShuvqZ3C8ElJond4L9HBHYTqy70wIQYIKoUDBwEBAQEwFQYJKoUDBwECAQEBBggqhQMHAQECAgRAPoPtDhn+W4ikHGrt61V5c7mV4gcVZMDu7ltUV2n1dHU6bXcqc/NR54Tn4Vl9NWyP3lfakTnd1iWQie/Rd1vk8A==</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>true</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-18T19:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-25T19:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 "Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)" документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25098752&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

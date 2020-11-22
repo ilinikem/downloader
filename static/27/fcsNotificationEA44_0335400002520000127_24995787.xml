@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24995787</id>
+        <purchaseNumber>0335400002520000127</purchaseNumber>
+        <docPublishDate>2020-11-09T16:36:23.939+02:00</docPublishDate>
+        <docNumber>№0335400002520000127</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335400002520000127</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335400002520000127</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка хозяйственных материалов для нужд Атлантического филиала ФГБНУ "ВНИРО" ("АтлантНИРО")</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03354000025</regNum>
+                <consRegistryNum>001В6402</consRegistryNum>
+                <fullName>АТЛАНТИЧЕСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РЫБНОГО ХОЗЯЙСТВА И ОКЕАНОГРАФИИ"</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</factAddress>
+                <INN>7708245723</INN>
+                <KPP>390643001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</orgFactAddress>
+                <contactPerson>
+                    <lastName>Корчуков</lastName>
+                    <firstName>Никита</firstName>
+                    <middleName>Андреевич</middleName>
+                </contactPerson>
+                <contactEMail>zakupki@atlantniro.ru</contactEMail>
+                <contactPhone>7-4012-925559</contactPhone>
+                <contactFax>7-4012-925519</contactFax>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-09T16:36:23+02:00</startDate>
+                <place>заявка на участие в аукционе в электронной форме направляется участником аукциона в электронной форме оператору электронной площадки, указанной в настоящем извещении о проведении аукциона в электронной форме</place>
+                <order>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» документации об аукционе в электронной форме</order>
+                <endDate>2020-11-17T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-18T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-19T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>66764.07</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03354000025</regNum>
+                        <consRegistryNum>001В6402</consRegistryNum>
+                        <fullName>АТЛАНТИЧЕСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РЫБНОГО ХОЗЯЙСТВА И ОКЕАНОГРАФИИ"</fullName>
+                    </customer>
+                    <maxPrice>66764.07</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>236022, г. Калининград, ул. Дмитрия Донского, д. 5</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>в течение 10 (десяти) календарных дней с даты заключения контракта</deliveryTerm>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» и разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356В64020</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201770824572339064300100231450000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>17708245723390643001</customerCode>
+                        <purchaseNumber>0023</purchaseNumber>
+                        <purchaseOrderNumber>145</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003354000025001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003354000025001000024</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>66764.07</total>
+                                <currentYear>66764.07</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>66764.07</ns3:total>
+                                    <ns3:currentYear>66764.07</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>66764.07</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>17.22.11.110-00000002</code>
+                        <name>Бумага туалетная &#13;
+</name>
+                        <versionId>104171</versionId>
+                        <versionNumber>3</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>5d947b13-3</code>
+                                <name>Форма выпуска</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Рулон	</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>222fe016-4</code>
+                                <name>Бумага туалетная биоразлагаемая</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Да</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>3d28a5a7-2</code>
+                                <name>Тип бумаги туалетной</name>
+                                <type>1</type>
+                                <kind>2</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Однослойная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Бумага туалетная &#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>14.4</price>
+                    <quantity>
+                        <value>1548</value>
+                    </quantity>
+                    <sum>22291.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.91.11.000</code>
+                        <name>Метлы и щетки для домашней уборки</name>
+                    </OKPD2>
+                    <name>Губка для мытья посуды (макси)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>5.12</price>
+                    <quantity>
+                        <value>143</value>
+                    </quantity>
+                    <sum>732.16</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.91.11.000</code>
+                        <name>Метлы и щетки для домашней уборки</name>
+                    </OKPD2>
+                    <name>Губка для мытья посуды</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <price>25.6</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>307.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакет - вкладыш</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>8.53</price>
+                    <quantity>
+                        <value>255</value>
+                    </quantity>
+                    <sum>2175.15</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакеты для мусора 60 л</name>
+                    <OKEI>
+                        <code>736</code>
+                        <nationalCode>РУЛ</nationalCode>
+                        <fullName>Рулон</fullName>
+                    </OKEI>
+                    <price>61.87</price>
+                    <quantity>
+                        <value>63</value>
+                    </quantity>
+                    <sum>3897.81</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакеты для мусора 120 л</name>
+                    <OKEI>
+                        <code>736</code>
+                        <nationalCode>РУЛ</nationalCode>
+                        <fullName>Рулон</fullName>
+                    </OKEI>
+                    <price>61.87</price>
+                    <quantity>
+                        <value>89</value>
+                    </quantity>
+                    <sum>5506.43</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакеты для мусора 35 л</name>
+                    <OKEI>
+                        <code>736</code>
+                        <nationalCode>РУЛ</nationalCode>
+                        <fullName>Рулон</fullName>
+                    </OKEI>
+                    <price>37.33</price>
+                    <quantity>
+                        <value>96</value>
+                    </quantity>
+                    <sum>3583.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакет 1270 * 780 мм</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>74.67</price>
+                    <quantity>
+                        <value>45</value>
+                    </quantity>
+                    <sum>3360.15</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакет 1050 * 630 мм</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>53.33</price>
+                    <quantity>
+                        <value>40</value>
+                    </quantity>
+                    <sum>2133.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакет фасованный 22 *26 мм</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <price>132.27</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>132.27</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакет фасованный 22 * 35 мм</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <price>192</price>
+                    <quantity>
+                        <value>7</value>
+                    </quantity>
+                    <sum>1344</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Пакет 500 * 350 мм</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6.9</price>
+                    <quantity>
+                        <value>620</value>
+                    </quantity>
+                    <sum>4278</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.22.11.140</code>
+                        <name>Скатерти и салфетки для стола из бумажной массы, бумаги, целлюлозной ваты и по лотна из целлюлозных волокон</name>
+                    </OKPD2>
+                    <name>Салфетки бумажные</name>
+                    <OKEI>
+                        <code>778</code>
+                        <nationalCode>УПАК</nationalCode>
+                        <fullName>Упаковка</fullName>
+                    </OKEI>
+                    <price>22.4</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>112</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.22.11.130</code>
+                        <name>Салфетки и полотенца гигиенические или косметические из бумажной массы, бумаги, целлюлозной ваты и полотна из целлюлозных волокон</name>
+                    </OKPD2>
+                    <name>Полотенца бумажные</name>
+                    <OKEI>
+                        <code>736</code>
+                        <nationalCode>РУЛ</nationalCode>
+                        <fullName>Рулон</fullName>
+                    </OKEI>
+                    <price>153.6</price>
+                    <quantity>
+                        <value>68</value>
+                    </quantity>
+                    <sum>10444.8</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Тряпкодержатель</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>409.6</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>2048</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Ведро пластмассовое 10 л</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>115.2</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>115.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Ведро пластмассовое 20 л</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>194.13</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>388.26</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Лопата пластиковая</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>558.93</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>558.93</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.91.11.000</code>
+                        <name>Метлы и щетки для домашней уборки</name>
+                    </OKPD2>
+                    <name>Щетка для подметания дорог</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>460.8</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>460.8</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>32.91.11.000</code>
+                        <name>Метлы и щетки для домашней уборки</name>
+                    </OKPD2>
+                    <name>Щетка для уборки пола</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>240</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>240</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Миска пластмассовая</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>121.6</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>243.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Ерш туалетный с подставкой</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>88.53</price>
+                    <quantity>
+                        <value>11</value>
+                    </quantity>
+                    <sum>973.83</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Совок пластмассовый</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>51.2</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>409.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Мешок для строительного мусора</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>18.13</price>
+                    <quantity>
+                        <value>20</value>
+                    </quantity>
+                    <sum>362.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>22.29.29.190</code>
+                        <name>Изделия пластмассовые прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Лента сигнальная</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>166.4</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>665.6</sum>
+                </purchaseObject>
+                <totalSum>66764.07</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>IN44</shortName>
+                    <name>Организациям инвалидов (в соответствии со статьей 29 Федерального закона № 44-ФЗ)</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>указаны в разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме </content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>Участниками закупки могут быть исключительно СМП и СОНО</content>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>DBFA6AFA013D472A9ACD967CEAD04763</publishedContentId>
+                <fileName>Извещение о проведении аукциона в электронной форме.doc</fileName>
+                <fileSize>47 Кб</fileSize>
+                <docDescription>Извещение о проведении аукциона в электронной форме.doc</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=DBFA6AFA013D472A9ACD967CEAD04763</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>5399203947CB4C50B194681DB75D87CB</publishedContentId>
+                <fileName>Документация об аукционе в электронной форме.doc</fileName>
+                <fileSize>708 Кб</fileSize>
+                <docDescription>Документация об аукционе в электронной форме.doc</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=5399203947CB4C50B194681DB75D87CB</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-09T00:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-15T23:59:00+02:00</endDate>
+                <deliveryProcedure>указан в разделе 
+1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» и разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме
+</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24995787&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

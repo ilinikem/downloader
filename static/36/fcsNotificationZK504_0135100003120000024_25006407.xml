@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:epNotificationEZK schemeVersion="10.2.310">
+        <ns8:id>25006407</ns8:id>
+        <ns8:versionNumber>1</ns8:versionNumber>
+        <ns8:commonInfo>
+            <ns8:purchaseNumber>0135100003120000024</ns8:purchaseNumber>
+            <ns8:docNumber>№0135100003120000024</ns8:docNumber>
+            <ns8:plannedPublishDate>2020-11-11+02:00</ns8:plannedPublishDate>
+            <ns8:publishDTInEIS>2020-11-11T13:42:41.795+02:00</ns8:publishDTInEIS>
+            <ns8:href>https://zakupki.gov.ru/epz/order/notice/zk504/view/common-info.html?regNumber=0135100003120000024</ns8:href>
+            <ns8:isGOZ>false</ns8:isGOZ>
+            <ns8:purchaseObjectInfo>Оказание услуг по комплексному техническому обслуживанию и ремонту автотранспортных средств</ns8:purchaseObjectInfo>
+            <ns8:placingWay>
+                <ns4:code>ZKP504</ns4:code>
+                <ns4:name>Запрос котировок в электронной форме</ns4:name>
+            </ns8:placingWay>
+            <ns8:ETP>
+                <ns4:code>ETP_EETP</ns4:code>
+                <ns4:name>АО «ЕЭТП»</ns4:name>
+                <ns4:url>http://roseltorg.ru</ns4:url>
+            </ns8:ETP>
+            <ns8:contractConclusionOnSt83Ch2>true</ns8:contractConclusionOnSt83Ch2>
+        </ns8:commonInfo>
+        <ns8:purchaseResponsibleInfo>
+            <ns8:responsibleOrgInfo>
+                <ns8:regNum>01351000031</ns8:regNum>
+                <ns8:consRegistryNum>00178766</ns8:consRegistryNum>
+                <ns8:fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ПО НАДЗОРУ В СФЕРЕ ЗАЩИТЫ ПРАВ ПОТРЕБИТЕЛЕЙ И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</ns8:fullName>
+                <ns8:postAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</ns8:postAddress>
+                <ns8:factAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</ns8:factAddress>
+                <ns8:INN>3906134200</ns8:INN>
+                <ns8:KPP>390601001</ns8:KPP>
+            </ns8:responsibleOrgInfo>
+            <ns8:responsibleRole>CU</ns8:responsibleRole>
+            <ns8:responsibleInfo>
+                <ns8:orgPostAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</ns8:orgPostAddress>
+                <ns8:orgFactAddress>Российская Федерация, 236040, Калининградская обл, Калининград г, УЛ ПОДПОЛКОВНИКА ИВАННИКОВА, 5</ns8:orgFactAddress>
+                <ns8:contactPersonInfo>
+                    <ns3:lastName>Абрамова</ns3:lastName>
+                    <ns3:firstName>Галина</ns3:firstName>
+                    <ns3:middleName>Анатольевна</ns3:middleName>
+                </ns8:contactPersonInfo>
+                <ns8:contactEMail>finotdel@39.rospotrebnadzor.ru</ns8:contactEMail>
+                <ns8:contactPhone>7-4012-572401</ns8:contactPhone>
+            </ns8:responsibleInfo>
+        </ns8:purchaseResponsibleInfo>
+        <ns8:printFormInfo>
+            <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0135100003120000024</ns3:url>
+        </ns8:printFormInfo>
+        <ns8:attachmentsInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B3D2CCA81CB68BDEE0530F548D0AF2CF</ns3:publishedContentId>
+                <ns3:fileName>Проект контракта 2020.1.docx</ns3:fileName>
+                <ns3:fileSize>133351</ns3:fileSize>
+                <ns3:docDescription>Проект контракта 2020</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3D2CCA81CB68BDEE0530F548D0AF2CF</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+        </ns8:attachmentsInfo>
+        <ns8:notificationInfo>
+            <ns8:procedureInfo>
+                <ns8:collectingInfo>
+                    <ns8:startDT>2020-11-11T13:42:41+02:00</ns8:startDT>
+                    <ns8:endDT>2020-11-20T09:00:00+02:00</ns8:endDT>
+                    <ns8:place>АО «ЕЭТП»</ns8:place>
+                    <ns8:order>Заявки на участие в запросе котировок в электронной форме подают только лица, которые зарегистрированы в единой информационной системе и аккредитованы на электронной площадке. Заявка на участие в запросе котировок в электронной форме состоит из предложений участника запроса котировок в электронной форме о предлагаемых товаре, работе, услуге, а также о цене контракта. Такая заявка направляется участником запроса котировок в электронной форме оператору электронной площадки, в соответствии со ст. 82.3 Федерального закона от 05.04.2013 № 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд"</ns8:order>
+                </ns8:collectingInfo>
+                <ns8:contractTermAdd>В течение пяти дней с даты размещения заказчиком в единой информационной системе проекта контракта победитель электронной процедуры подписывает усиленной электронной подписью указанный проект контракта, размещает на электронной площадке подписанный проект контракта и документ, подтверждающий предоставление обеспечения исполнения контракта, если данное требование установлено в извещении и (или) документации о закупке, либо размещает протокол разногласий. Контракт может быть заключен не ранее чем через семь дней с даты размещения в единой информационной системе протоколов рассмотрения и оценки заявок на участие в запросе котировок в электронной форме</ns8:contractTermAdd>
+                <ns8:contractConditionsAdd>Победитель электронной процедуры (за исключением победителя, предусмотренного частью 14 статьи 83.2 Федерального закона 44-ФЗ) признается заказчиком уклонившимся от заключения контракта в случае, если в сроки, предусмотренные частью 3 статьей 83.2 Федерального закона 44-ФЗ, он не направил заказчику проект контракта, подписанный лицом, имеющим право действовать от имени такого победителя, или не направил протокол разногласий, предусмотренный частью 4 статьи 83.2 Федерального закона 44-ФЗ</ns8:contractConditionsAdd>
+            </ns8:procedureInfo>
+            <ns8:contractConditionsInfo>
+                <ns8:maxPriceInfo>
+                    <ns8:maxPrice>120682</ns8:maxPrice>
+                    <ns8:currency>
+                        <ns4:code>RUB</ns4:code>
+                        <ns4:name>Российский рубль</ns4:name>
+                    </ns8:currency>
+                </ns8:maxPriceInfo>
+                <ns8:standardContractNumber>1400700000520009</ns8:standardContractNumber>
+                <ns8:maxPriceJustification>Обоснование начальной (максимальной) цены контракта прикреплено в виде файла на странице "Сопроводительная документация"</ns8:maxPriceJustification>
+            </ns8:contractConditionsInfo>
+            <ns8:customerRequirementsInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>01351000031</ns4:regNum>
+                        <ns4:consRegistryNum>00178766</ns4:consRegistryNum>
+                        <ns4:fullName>УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ПО НАДЗОРУ В СФЕРЕ ЗАЩИТЫ ПРАВ ПОТРЕБИТЕЛЕЙ И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>120682</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:purchaseCode>201390613420039060100100170094520244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>45.20</ns4:OKPDCode>
+                                    <ns4:OKPDName>Услуги по техническому обслуживанию и ремонту автотранспортных средств</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>13906134200390601001</ns8:customerCode>
+                            <ns8:purchaseNumber>0017</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>009</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202001351000031001</ns3:plan2020Number>
+                            <ns3:position2020Number>202001351000031001000043</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:financingSource>Федеральный бюджет</ns8:financingSource>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>120682</ns8:total>
+                                    <ns8:currentYear>120682</ns8:currentYear>
+                                    <ns8:firstYear>0</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:budgetFinancings>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:budgetFinancing>
+                                    <ns8:KBKCode>14109090191290019244</ns8:KBKCode>
+                                    <ns8:KBKYearsInfo>
+                                        <ns8:total>120682</ns8:total>
+                                        <ns8:currentYear>120682</ns8:currentYear>
+                                        <ns8:firstYear>0</ns8:firstYear>
+                                        <ns8:secondYear>0</ns8:secondYear>
+                                        <ns8:subsecYears>0</ns8:subsecYears>
+                                    </ns8:KBKYearsInfo>
+                                </ns8:budgetFinancing>
+                                <ns8:totalSum>120682</ns8:totalSum>
+                            </ns8:budgetFinancings>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:BOInfo>
+                            <ns8:BONumber>0017876620000000085</ns8:BONumber>
+                            <ns8:BODate>2020-11-11T00:00:00+03:00</ns8:BODate>
+                            <ns8:inputBOFlag>auto</ns8:inputBOFlag>
+                            <ns8:BORegistered>false</ns8:BORegistered>
+                        </ns8:BOInfo>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39000001000</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл, Калининград г</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>ул. Подполковника Иванникова, д. 5 </ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>С момента заключения контракта по 25.12.2020 г.</ns8:deliveryTerm>
+                        <ns8:oneSideRejection>Заказчик вправе принять решение об одностороннем отказе от исполнения Контракта, в соответствии с гражданским законодательством, при условии нарушения Поставщиком (Подрядчиком, Исполнителем) существенных условий исполнения Контракта, в соответствии с положениями частей 8 - 25 статьи 95 Федерального закона от 05.04.2013 № 44-ФЗ</ns8:oneSideRejection>
+                    </ns8:contractConditionsInfo>
+                </ns8:customerRequirementInfo>
+            </ns8:customerRequirementsInfo>
+            <ns8:purchaseObjectsInfo>
+                <ns8:notDrugPurchaseObjectsInfo>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>45.20.11.000</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов, ремонт автомобиля RENAULT LOGAN Н061ОР</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>39665.33</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>39665.33</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>45.20.11.000</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов, ремонт автомобиля RENAULT LOGAN С709АН</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>10926.67</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>10926.67</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>45.20.11.000</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов ремонт автомобиля RENAULT LOGAN Н090ОМ</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>46563.33</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>46563.33</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>45.20.11.000</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов, ремонт автомобиля CHEVROLET NIVA Н035ВТ </ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>796</ns4:code>
+                            <ns4:nationalCode>ШТ</ns4:nationalCode>
+                            <ns4:name>Штука</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>23526.67</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>23526.67</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:totalSum>120682.00</ns3:totalSum>
+                    <ns8:quantityUndefined>false</ns8:quantityUndefined>
+                </ns8:notDrugPurchaseObjectsInfo>
+            </ns8:purchaseObjectsInfo>
+            <ns8:requirementsInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44</ns4:shortName>
+                        <ns4:name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>TR442</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+            </ns8:requirementsInfo>
+            <ns8:restrictionsInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MB44330</ns4:shortName>
+                        <ns4:name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:restrictionInfo>
+            </ns8:restrictionsInfo>
+            <ns8:contractServiceInfo>Фролов Андрей Олегович</ns8:contractServiceInfo>
+        </ns8:notificationInfo>
+    </ns2:epNotificationEZK>
+</ns2:export>

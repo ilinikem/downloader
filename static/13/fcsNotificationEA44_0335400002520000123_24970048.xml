@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24970048</id>
+        <purchaseNumber>0335400002520000123</purchaseNumber>
+        <docPublishDate>2020-11-05T17:26:31.553+02:00</docPublishDate>
+        <docNumber>№0335400002520000123</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335400002520000123</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335400002520000123</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка спецодежды для подразделений Атлантического филиала ФГБНУ "ВНИРО" ("АтлантНИРО")</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03354000025</regNum>
+                <consRegistryNum>001В6402</consRegistryNum>
+                <fullName>АТЛАНТИЧЕСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РЫБНОГО ХОЗЯЙСТВА И ОКЕАНОГРАФИИ"</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</factAddress>
+                <INN>7708245723</INN>
+                <KPP>390643001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА Д.ДОНСКОГО, ДОМ 5</orgFactAddress>
+                <contactPerson>
+                    <lastName>Корчуков</lastName>
+                    <firstName>Никита</firstName>
+                    <middleName>Андреевич</middleName>
+                </contactPerson>
+                <contactEMail>zakupki@atlantniro.ru</contactEMail>
+                <contactPhone>7-4012-925559</contactPhone>
+                <contactFax>7-4012-925519</contactFax>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-05T17:26:31+02:00</startDate>
+                <place>заявка на участие в аукционе в электронной форме направляется участником аукциона в электронной форме оператору электронной площадки, указанной в настоящем извещении о проведении аукциона в электронной форме</place>
+                <order>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» документации об аукционе в электронной форме</order>
+                <endDate>2020-11-13T11:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-16T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-17T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>135163</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03354000025</regNum>
+                        <consRegistryNum>001В6402</consRegistryNum>
+                        <fullName>АТЛАНТИЧЕСКИЙ ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ "ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РЫБНОГО ХОЗЯЙСТВА И ОКЕАНОГРАФИИ"</fullName>
+                    </customer>
+                    <maxPrice>135163</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>236022,  г. Калининград, ул. Дмитрия Донского, д. 5</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В течение 10 (десяти) календарных дней с даты заключения контракта</deliveryTerm>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» и разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме</procedureInfo>
+                        <settlementAccount>40501810140302004001</settlementAccount>
+                        <personalAccount>20356В64020</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201770824572339064300100481420000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>17708245723390643001</customerCode>
+                        <purchaseNumber>0048</purchaseNumber>
+                        <purchaseOrderNumber>142</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003354000025001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003354000025001000055</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>135163</total>
+                                <currentYear>135163</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>135163</ns3:total>
+                                    <ns3:currentYear>135163</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>135163</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>14.12.30.150-00000003</code>
+                        <name>Перчатки трикотажные для защиты от внешних воздействий</name>
+                        <versionId>103054</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>95952372-7</code>
+                                <name>Вид защиты</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>От механических воздействий</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Перчатки трикотажные для защиты от внешних воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>13</price>
+                    <quantity>
+                        <value>434</value>
+                    </quantity>
+                    <sum>5642</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.132</code>
+                        <name>Юбки, халаты, блузки, фартуки, жилеты, платья и сорочки женские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Халат женский белый</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>627</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>627</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.132</code>
+                        <name>Юбки, халаты, блузки, фартуки, жилеты, платья и сорочки женские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Халат женский</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1057</price>
+                    <quantity>
+                        <value>24</value>
+                    </quantity>
+                    <sum>25368</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.131</code>
+                        <name>Халаты, фартуки, жилеты и сорочки мужские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Халат мужской белый</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>852</price>
+                    <quantity>
+                        <value>7</value>
+                    </quantity>
+                    <sum>5964</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.131</code>
+                        <name>Халаты, фартуки, жилеты и сорочки мужские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Халат рабочий мужской</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>518</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1036</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>15.20.11.113-00000014</code>
+                        <name>Сапоги резиновые формовые</name>
+                        <versionId>102416</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>3c13047c-d</code>
+                                <name>Половой признак</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Мужские</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>feea398a-d</code>
+                                <name>Назначение сапог</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Общего назначения</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Сапоги резиновые формовые</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>697</price>
+                    <quantity>
+                        <value>16</value>
+                    </quantity>
+                    <sum>11152</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.12.110</code>
+                        <name>Брюки мужские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Брюки мужские утепленные</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1010</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2020</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>15.20.32.122-00000011</code>
+                        <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                        <versionId>102659</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f6d797e6-4</code>
+                                <name>Вид обуви по сезонности</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Неутепленная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>7466f5af-d</code>
+                                <name>Половой признак</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Мужская</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>86b580ff-6</code>
+                                <name>Вид обуви по высоте заготовки верха</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Сапоги</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>1900</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3800</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.19.31.119</code>
+                        <name>Перчатки защитные, рукавицы, варежки, митенки из натуральной или композиционной кожи, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Краги спилковые</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>250</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>3000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>15.20.32.122-00000001</code>
+                        <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                        <versionId>102642</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f6d797e6-4</code>
+                                <name>Вид обуви по сезонности</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Неутепленная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>7466f5af-d</code>
+                                <name>Половой признак</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Женская </qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>86b580ff-6</code>
+                                <name>Вид обуви по высоте заготовки верха</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Сапоги</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>2394</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>2394</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>15.20.32.122-00000011</code>
+                        <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                        <versionId>102659</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f6d797e6-4</code>
+                                <name>Вид обуви по сезонности</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Неутепленная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>7466f5af-d</code>
+                                <name>Половой признак</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Мужская</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>86b580ff-6</code>
+                                <name>Вид обуви по высоте заготовки верха</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Сапоги</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>1900</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>5700</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>14.12.30.150-00000008</code>
+                        <name>Перчатки швейные для защиты от внешних воздействий</name>
+                        <versionId>103077</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>66d25658-e</code>
+                                <name>Вид защиты</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>От механических воздействий</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Перчатки швейные для защиты от внешних воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>195</price>
+                    <quantity>
+                        <value>12</value>
+                    </quantity>
+                    <sum>2340</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.19.42.161</code>
+                        <name>Уборы головные мужские или для мальчиков трикотажные или вязаные</name>
+                    </OKPD2>
+                    <name>Шапка-ушанка</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>363</price>
+                    <quantity>
+                        <value>17</value>
+                    </quantity>
+                    <sum>6171</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>15.20.32.122-00000020</code>
+                        <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                        <versionId>102668</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f6d797e6-4</code>
+                                <name>Вид обуви по сезонности</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Утепленная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>7466f5af-d</code>
+                                <name>Половой признак</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Мужская</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>86b580ff-6</code>
+                                <name>Вид обуви по высоте заготовки верха</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Ботинки</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>1531</price>
+                    <quantity>
+                        <value>9</value>
+                    </quantity>
+                    <sum>13779</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>15.20.32.122-00000019</code>
+                        <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                        <versionId>102667</versionId>
+                        <versionNumber>2</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>f6d797e6-4</code>
+                                <name>Вид обуви по сезонности</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Неутепленная</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>7466f5af-d</code>
+                                <name>Половой признак</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Мужская</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                            <characteristicsUsingReferenceInfo>
+                                <code>86b580ff-6</code>
+                                <name>Вид обуви по высоте заготовки верха</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Ботинки</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Обувь специальная кожаная для защиты от механических воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>1470</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>14700</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.131</code>
+                        <name>Халаты, фартуки, жилеты и сорочки мужские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Фартук поварской</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>472</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>2360</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.190</code>
+                        <name>Одежда производственная и профессиональная прочая, не включенная в другие группировки</name>
+                    </OKPD2>
+                    <name>Колпак поварской</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>67</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>402</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>15.20.13.130</code>
+                        <name>Обувь летняя с верхом из кожи</name>
+                    </OKPD2>
+                    <name>Сабо кожаные мужские</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>1076</price>
+                    <quantity>
+                        <value>7</value>
+                    </quantity>
+                    <sum>7532</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>15.20.13.130</code>
+                        <name>Обувь летняя с верхом из кожи</name>
+                    </OKPD2>
+                    <name>Туфли кожаные мужские</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>1280</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1280</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>15.20.13.130</code>
+                        <name>Обувь летняя с верхом из кожи</name>
+                    </OKPD2>
+                    <name>Сабо кожаные женские</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>872</price>
+                    <quantity>
+                        <value>9</value>
+                    </quantity>
+                    <sum>7848</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>14.12.30.150-00000002</code>
+                        <name>Перчатки трикотажные для защиты от внешних воздействий</name>
+                        <versionId>103055</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>95952372-7</code>
+                                <name>Вид защиты</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>От повышенных температур</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Перчатки трикотажные для защиты от внешних воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>47</price>
+                    <quantity>
+                        <value>38</value>
+                    </quantity>
+                    <sum>1786</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>14.12.30.150-00000008</code>
+                        <name>Перчатки швейные для защиты от внешних воздействий</name>
+                        <versionId>103077</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingReferenceInfo>
+                                <code>66d25658-e</code>
+                                <name>Вид защиты</name>
+                                <type>1</type>
+                                <kind>1</kind>
+                                <values>
+                                    <value>
+                                        <qualityDescription>От механических воздействий</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingReferenceInfo>
+                        </characteristics>
+                    </KTRU>
+                    <name>Перчатки швейные для защиты от внешних воздействий</name>
+                    <OKEI>
+                        <code>715</code>
+                        <nationalCode>ПАР</nationalCode>
+                        <fullName>Пара (2 шт.)</fullName>
+                    </OKEI>
+                    <price>34</price>
+                    <quantity>
+                        <value>54</value>
+                    </quantity>
+                    <sum>1836</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.111</code>
+                        <name>Пальто, полупальто и плащи мужские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Плащ водозащитный</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>735</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1470</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.14.12.110</code>
+                        <name>Кальсоны мужские или для мальчиков трикотажные или вязаные</name>
+                    </OKPD2>
+                    <name>Белье нательное</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <price>781</price>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                    <sum>4686</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.12.30.132</code>
+                        <name>Юбки, халаты, блузки, фартуки, жилеты, платья и сорочки женские производственные и профессиональные</name>
+                    </OKPD2>
+                    <name>Халат женский серый</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>640</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>640</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>14.19.42.161</code>
+                        <name>Уборы головные мужские или для мальчиков трикотажные или вязаные</name>
+                    </OKPD2>
+                    <name>Шапка</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>163</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>1630</sum>
+                </purchaseObject>
+                <totalSum>135163</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>указаны в разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме </content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>установлено</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>участниками закупки в настоящем аукционе в электронной форме могут быть только субъекты малого предпринимательства, социально ориентированные некоммерческие организации</content>
+                </restriction>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>BAN</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>19</ns4:code>
+                                <ns4:name>Постановление Правительства РФ от 30.04.2020 № 616 "Об установлении запрета на допуск промышленных товаров, происходящих из иностранных государств, для целей осуществления закупок для государственных и муниципальных нужд, а также промышленных товаров, происходящих из иностранных государств, работ (услуг), выполняемых (оказываемых) иностранными лицами, для целей осуществления закупок для нужд обороны страны и безопасности государства"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ от 30.04.2020 № 616</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>118F193618F2414E828BB8D21CFFF011</publishedContentId>
+                <fileName>Извещение о проведении аукциона в электронной форме.doc</fileName>
+                <fileSize>47 Кб</fileSize>
+                <docDescription>Извещение о проведении аукциона в электронной форме.doc</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=118F193618F2414E828BB8D21CFFF011</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>5453317502DC4C84BA7A6DF3B8B35C9B</publishedContentId>
+                <fileName>Документация об аукционе в электронной форме.doc</fileName>
+                <fileSize>1.6 Мб</fileSize>
+                <docDescription>Документация об аукционе в электронной форме.doc</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=5453317502DC4C84BA7A6DF3B8B35C9B</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-05T00:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-11-11T23:59:00+02:00</endDate>
+                <deliveryProcedure>указан в разделе 1 «Аукцион в электронной форме (общие условия проведения аукциона в электронной форме)» и разделе 2 «Информационная карта аукциона в электронной форме» документации об аукционе в электронной форме</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24970048&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

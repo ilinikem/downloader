@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24890639</id>
+        <purchaseNumber>0835400000220000068</purchaseNumber>
+        <docPublishDate>2020-11-05T11:18:57.361+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0835400000220000068</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0835400000220000068</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка расходных материалов для принтеров и многофункциональных устройств</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>08354000002</regNum>
+                <consRegistryNum>001D1015</consRegistryNum>
+                <fullName>ФИЛИАЛ ФЕДЕРАЛЬНОГО КАЗЕННОГО УЧРЕЖДЕНИЯ "ЦЕНТР ПО ОБЕСПЕЧЕНИЮ ДЕЯТЕЛЬНОСТИ КАЗНАЧЕЙСТВА РОССИИ" ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА ЗООЛОГИЧЕСКАЯ, ДОМ 27А</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА ЗООЛОГИЧЕСКАЯ, ДОМ 27А</factAddress>
+                <INN>7709895509</INN>
+                <KPP>390643001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА ЗООЛОГИЧЕСКАЯ, ДОМ 27А</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, УЛИЦА ЗООЛОГИЧЕСКАЯ, ДОМ 27А</orgFactAddress>
+                <contactPerson>
+                    <lastName>Лепченко </lastName>
+                    <firstName>Алексей</firstName>
+                    <middleName>Викторович</middleName>
+                </contactPerson>
+                <contactEMail>cokr-kld@yandex.ru</contactEMail>
+                <contactPhone>7-4012-670278</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_SBAST</code>
+            <name>АО «Сбербанк-АСТ»</name>
+            <url>http://www.sberbank-ast.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-05T11:18:57+02:00</startDate>
+                <place> Заявка подается оператору электронной площадки АО «Сбербанк - Автоматизированная система торгов» (АО «Сбербанк-АСТ») в порядке, определенном статьёй 66 Федерального закона № 44-ФЗ. Адрес электронной площадки в информационно-телекоммуникационной сети «Интернет»: https://www.sberbank-ast.ru. </place>
+                <order> Участник электронного аукциона вправе подать заявку на участие в аукционе, в любое время с момента размещения извещения о его проведении до даты и времени окончания срока подачи на участие в таком аукционе заявок. Место и порядок подачи: заявка подается оператору электронной площадки АО «Сбербанк - Автоматизированная система торгов» (АО «Сбербанк-АСТ») в порядке, определенном статьёй 66 Федерального закона № 44-ФЗ. Адрес электронной площадки в информационно-телекоммуникационной сети «Интернет»: https://www.sberbank-ast.ru.  </order>
+                <endDate>2020-11-13T09:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-16T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-17T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>66831</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>08354000002</regNum>
+                        <consRegistryNum>001D1015</consRegistryNum>
+                        <fullName>ФИЛИАЛ ФЕДЕРАЛЬНОГО КАЗЕННОГО УЧРЕЖДЕНИЯ "ЦЕНТР ПО ОБЕСПЕЧЕНИЮ ДЕЯТЕЛЬНОСТИ КАЗНАЧЕЙСТВА РОССИИ" ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                    </customer>
+                    <maxPrice>66831</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>R</kladrType>
+                                <kladrCode>39000000000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл</fullName>
+                            </kladr>
+                            <deliveryPlace>236022, Калининградская область, г. Калининград, ул. Зоологическая, д. 27А.</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>с даты заключения государственного контракта по 15.12.2020.</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>6683.10</amount>
+                        <part>10.0</part>
+                        <procedureInfo>Контракт заключается после предоставления участником закупки, с которым заключается контракт, обеспечения исполнения контракта в соответствии с Федеральным законом № 44-ФЗ. Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона № 44-ФЗ, или внесением денежных средств по следующим платежным реквизитам заказчика: Получатель: Управление Федерального казначейства по Калининградской области (Филиал ФКУ «ЦОКР» по Калининградской области л/с 05351D10150). ИНН 7709895509 КПП 390643001 Банк Получателя: р/с 40302810340301004001 в Отделение по Калининградской области Северо-Западного главного управления Центрального банка Российской Федерации (Отделение Калининград) БИК 042748001. Назначение платежа: денежные средства, вносимые в качестве обеспечения исполнения контракта ____________________________________(указывается предмет настоящего электронного аукциона). Способ обеспечения исполнения контракта, срок действия банковской гарантии определяются в соответствии с требованиями Федерального закона № 44-ФЗ участником закупки... Полная версия размещена в разделе 15 Документации об электронном аукционе № ЭА-77.2020</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351D10150</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201770989550939064300100010130000242</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>242</ns4:code>
+                                <ns4:name>Закупка товаров, работ, услуг в сфере информационно-коммуникационных технологий</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>17709895509390643001</customerCode>
+                        <purchaseNumber>0001</purchaseNumber>
+                        <purchaseOrderNumber>013</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202008354000002001</ns3:plan2020Number>
+                        <ns3:position2020Number>202008354000002001000005</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>66831</total>
+                                <currentYear>66831</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>10001063920590059242</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>66831</total>
+                                    <currentYear>66831</currentYear>
+                                    <firstYear>0</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>66831</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>001D101520000000169</BONumber>
+                        <BODate>2020-10-29T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Black&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 6900 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для принтера HP LaserJet Pro 400 M401DNE</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>822</price>
+                    <quantity>
+                        <value>13</value>
+                    </quantity>
+                    <sum>10686</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Magenta&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 1000 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для МФУ HP LaserJet 100 color MFP M175A (пурпурный)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>463</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>463</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Yellow&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 1000 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для МФУ HP LaserJet 100 color MFP M175A (желтый)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>463</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>463</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Cyan&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 1000 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для МФУ HP LaserJet 100 color MFP M175A (голубой)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>463</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>463</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Black&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 1200 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для МФУ HP LaserJet 100 color MFP M175A (черный)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>463</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>463</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Ресурс формирователя изображения при 5%-ном заполнении листа формата А4 составляет не менее 14000 страниц при черно-белой печати</addCharacteristics>
+                    </OKPD2>
+                    <name>Блок фотобарабана для МФУ HP LaserJet 100 color MFP M175A</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>695</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Black&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 6400 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для принтера Ricoh SP 377SFNwX</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1201</price>
+                    <quantity>
+                        <value>7</value>
+                    </quantity>
+                    <sum>8407</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Black&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 27500 страниц&#13;
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для МФУ Sharp MX-M266N</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3060</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>6120</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Ресурс формирователя изображения при 5%-ном заполнении листа формата А4 составляет не менее 43000 страниц</addCharacteristics>
+                    </OKPD2>
+                    <name>Блок фотобарабана для МФУ Canon IR C2020i</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>11197</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>33591</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.20.40.120</code>
+                        <name>Элементы замены типовые устройств ввода и вывода</name>
+                        <addCharacteristics>Цвет: Black&#13;
+Ресурс картриджа при заполнении страницы на 5 % составляет не менее 23000 страниц</addCharacteristics>
+                    </OKPD2>
+                    <name>Картридж для МФУ Canon IR C2020i</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2740</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5480</sum>
+                </purchaseObject>
+                <totalSum>66831</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Единые требования к участникам закупки размещена в разделе 17 Документации об электронном аукционе №ЭА-77.2020</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>В настоящем аукционе установлено требование об отсутствии в предусмотренном Федеральным законом № 44-ФЗ реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа участника закупки - юридического лица. </content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>B3550566DBA8410EE0530F548D0AAE40</publishedContentId>
+                <fileName>Извещение ЭА-77 2020 Поставка РМ для МФУ.docx</fileName>
+                <fileSize>62.2 Кб</fileSize>
+                <docDescription>Извещение ЭА-77 2020 Поставка РМ для МФУ</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3550566DBA8410EE0530F548D0AAE40</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>B33174AAD51687A7E0530F548D0AB560</publishedContentId>
+                <fileName>ОБОСНОВАНИЕ невозможности 878_ЭА-77 2020.docx</fileName>
+                <fileSize>25.52 Кб</fileSize>
+                <docDescription>ОБОСНОВАНИЕ невозможности 878_ЭА-77 2020</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B33174AAD51687A7E0530F548D0AB560</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIV3gYJKoZIhvcNAQcCoIIVzzCCFcsCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEVEwggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIJsTCCCV6gAwIBAgIUVuP+JmXJ1HZYUjDFi7dG2CrraccwCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwNzIwMTU1NDM1WhcNMjExMDIwMTU1NDM1WjCCAvUxGjAYBggqhQMDgQMBARIMMzkwNTEzNjIyOTAxMRYwFAYFKoUDZAMSCzE3MDA0MzczMjI1MSUwIwYJKoZIhvcNAQkBFhZ1ZmszNV9jb2tyQHJvc2them5hLnJ1MQswCQYDVQQGEwJSVTE2MDQGA1UECAwt0JrQsNC70LjQvdC40L3Qs9GA0LDQtNGB0LrQsNGPINC+0LHQu9Cw0YHRgtGMMSMwIQYDVQQHDBrQsy4g0JrQsNC70LjQvdC40L3Qs9GA0LDQtDGBrzCBrAYDVQQKDIGk0KTQldCU0JXQoNCQ0JvQrNCd0J7QlSDQmtCQ0JfQldCd0J3QntCVINCj0KfQoNCV0JbQlNCV0J3QmNCVICLQptCV0J3QotCgINCf0J4g0J7QkdCV0KHQn9CV0KfQldCd0JjQriDQlNCV0K/QotCV0JvQrNCd0J7QodCi0Jgg0JrQkNCX0J3QkNCn0JXQmdCh0KLQktCQINCg0J7QodCh0JjQmCIxgfMwgfAGA1UECwyB6NCk0JjQm9CY0JDQmyDQpNCV0JTQldCg0JDQm9Cs0J3QntCT0J4g0JrQkNCX0JXQndCd0J7Qk9CeINCj0KfQoNCV0JbQlNCV0J3QmNCvICLQptCV0J3QotCgINCf0J4g0J7QkdCV0KHQn9CV0KfQldCd0JjQriDQlNCV0K/QotCV0JvQrNCd0J7QodCi0Jgg0JrQkNCX0J3QkNCn0JXQmdCh0KLQktCQINCg0J7QodCh0JjQmCIg0J/QniDQmtCQ0JvQmNCd0JjQndCT0KDQkNCU0KHQmtCe0Jkg0J7QkdCb0JDQodCi0JgxLDAqBgNVBCoMI9CQ0LvQtdC60YHQtdC5INCS0LjQutGC0L7RgNC+0LLQuNGHMRkwFwYDVQQEDBDQm9C10L/Rh9C10L3QutC+MT0wOwYDVQQDDDTQm9C10L/Rh9C10L3QutC+INCQ0LvQtdC60YHQtdC5INCS0LjQutGC0L7RgNC+0LLQuNGHMGYwHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIDQwAEQFI84s+fr2IKE5fU3ww6KzBGAmBvO24ftEZfAgBtPEg0QENI7alVWxwlXp+yTgV0ySXQzjtgUWe0ef23QUYNPSejggRBMIIEPTAMBgNVHRMBAf8EAjAAMBMGA1UdIAQMMAowCAYGKoUDZHEBMCMGA1UdEQQcMBqgGAYHKoUDAeA5AaANEwsxNzAwNDM3MzIyNTA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBZAYFKoUDZHAEggFZMIIBVQxHItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiINCy0LXRgNGB0LjRjyA0LjAgKNC40YHQv9C+0LvQvdC10L3QuNC1IDItQmFzZSkMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gMy4wDE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI0LTMzODAg0L7RgiAxMS4wNS4yMDE4DE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI4LTM1ODEg0L7RgiAyMC4xMi4yMDE4MA4GA1UdDwEB/wQEAwID+DAqBgNVHSUEIzAhBggrBgEFBQcDAgYMKoUDAz2e1zYBBgMDBgcqhQMDgXsCMCsGA1UdEAQkMCKADzIwMjAwNzIwMTU1MDU5WoEPMjAyMTEwMjAxNTUwNTlaMIIBXwYDVR0jBIIBVjCCAVKAFNBklm1yQOtYfSR/uyBbz8OObHrUoYIBLKSCASgwggEkMR4wHAYJKoZIhvcNAQkBFg9kaXRAbWluc3Z5YXoucnUxCzAJBgNVBAYTAlJVMRgwFgYDVQQIDA83NyDQnNC+0YHQutCy0LAxGTAXBgNVBAcMENCzLiDQnNC+0YHQutCy0LAxLjAsBgNVBAkMJdGD0LvQuNGG0LAg0KLQstC10YDRgdC60LDRjywg0LTQvtC8IDcxLDAqBgNVBAoMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MRgwFgYFKoUDZAESDTEwNDc3MDIwMjY3MDExGjAYBggqhQMDgQMBARIMMDA3NzEwNDc0Mzc1MSwwKgYDVQQDDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuIIKYqt5lQAAAAADtjBoBgNVHR8EYTBfMC6gLKAqhihodHRwOi8vY3JsLnJvc2them5hLnJ1L2NybC91Y2ZrXzIwMjAuY3JsMC2gK6AphidodHRwOi8vY3JsLmZzZmsubG9jYWwvY3JsL3VjZmtfMjAyMC5jcmwwHQYDVR0OBBYEFJpQu5hLgqcFP145BQUIJ1rlbf91MAoGCCqFAwcBAQMCA0EAnFBYaHrWvBjMbwdqgyLqwq880Em2ZxUBNKh1naqVKphLKlZ8kMLwiq+Tuvh8ASEwNQx3UWnu0woiklL9DK2B3DGCBFIwggROAgEBMIIBhzCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvgIUVuP+JmXJ1HZYUjDFi7dG2CrraccwDAYIKoUDBwEBAgIFAKCCAkswGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjAxMTA1MDkxNzM1WjAvBgkqhkiG9w0BCQQxIgQgAtJ9B0d+GiSXuK5tfCrkOWDM1WeCOMeYVBWIniPfCJcwggHeBgsqhkiG9w0BCRACLzGCAc0wggHJMIIBxTCCAcEwCgYIKoUDBwEBAgIEILH4YY/CC7xJDZwafkGTXOlOkUC1cezmyF3PbxJN/T1/MIIBjzCCAXWkggFxMIIBbTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGTAXBgNVBAgMENCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+AhRW4/4mZcnUdlhSMMWLt0bYKutpxzAfBggqhQMHAQEBATATBgcqhQMCAiQABggqhQMHAQECAgRAn+NguZBoxMfqz5p5zUj3l0KMuk74VoDKNFVbeYhpu/Q2O7GvFRLzfebKykUNRlkpY3N8WmjPY6rkV7L22DtneQ==</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>B358EA9C217BDC20E0530F548D0A7BFF</publishedContentId>
+                <fileName>Документация ЭА-77 2020  Поставка РМ для принтеров и МФУ.docx</fileName>
+                <fileSize>195.44 Кб</fileSize>
+                <docDescription>Документация ЭА-77 2020  Поставка РМ для принтеров и МФУ</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B358EA9C217BDC20E0530F548D0A7BFF</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-05T11:18:57+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-11T23:59:00+02:00</endDate>
+                <deliveryProcedure>Любой участник электронного аукциона, зарегистрированный в единой информационной системе и аккредитованный на электронной площадке, вправе направить с использованием программно-аппаратных средств электронной площадки на адрес электронной площадки, на которой планируется проведение такого аукциона, запрос о даче разъяснений положений документации о таком аукционе. При этом участник такого аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации в отношении одного такого аукциона. В течение одного часа с момента поступления указанного запроса он направляется оператором электронной площадки заказчику. В течение двух дней с даты поступления от оператора электронной площадки указанного запроса заказчик размещает в единой информационной системе разъяснения положений документации об электронном аукционе с указанием предмета запроса, но без указания участника такого аукциона, от которого поступил указанный запрос, при условии, что указанный запрос поступил заказчику не позднее чем за три дня до даты окончания срока подачи заявок на участие в таком аукционе... Полная версия размещена в разделе 22 Документации об электронном аукционе № ЭА-77.2020</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24890639&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

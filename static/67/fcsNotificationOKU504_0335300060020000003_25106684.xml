@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:epNotificationEOKOU schemeVersion="10.2.310">
+        <ns8:id>25106684</ns8:id>
+        <ns8:versionNumber>1</ns8:versionNumber>
+        <ns8:commonInfo>
+            <ns8:purchaseNumber>0335300060020000003</ns8:purchaseNumber>
+            <ns8:docNumber>№0335300060020000003</ns8:docNumber>
+            <ns8:plannedPublishDate>2020-11-18+02:00</ns8:plannedPublishDate>
+            <ns8:publishDTInEIS>2020-11-19T15:46:13.433+02:00</ns8:publishDTInEIS>
+            <ns8:href>https://zakupki.gov.ru/epz/order/notice/oku504/view/common-info.html?regNumber=0335300060020000003</ns8:href>
+            <ns8:isGOZ>false</ns8:isGOZ>
+            <ns8:purchaseObjectInfo>Оказание услуг по организации горячего питания льготной категории учащихся.</ns8:purchaseObjectInfo>
+            <ns8:placingWay>
+                <ns4:code>OKUP504</ns4:code>
+                <ns4:name>Конкурс с ограниченным участием в электронной форме</ns4:name>
+            </ns8:placingWay>
+            <ns8:ETP>
+                <ns4:code>ETP_RTS</ns4:code>
+                <ns4:name>РТС-тендер</ns4:name>
+                <ns4:url>http://www.rts-tender.ru</ns4:url>
+            </ns8:ETP>
+            <ns8:contractConclusionOnSt83Ch2>true</ns8:contractConclusionOnSt83Ch2>
+        </ns8:commonInfo>
+        <ns8:purchaseResponsibleInfo>
+            <ns8:responsibleOrgInfo>
+                <ns8:regNum>03353000600</ns8:regNum>
+                <ns8:consRegistryNum>273Э4966</ns8:consRegistryNum>
+                <ns8:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №4 П. ДОБРОВОЛЬСК</ns8:fullName>
+                <ns8:postAddress>Российская Федерация, 238743, Калининградская обл, Краснознаменский р-н, Добровольск п, УЛИЦА ЮНОСТИ, 9</ns8:postAddress>
+                <ns8:factAddress>Российская Федерация, 238743, Калининградская обл, Краснознаменский р-н, Добровольск п, УЛИЦА ЮНОСТИ, 9</ns8:factAddress>
+                <ns8:INN>3919003540</ns8:INN>
+                <ns8:KPP>391901001</ns8:KPP>
+            </ns8:responsibleOrgInfo>
+            <ns8:responsibleRole>OCU</ns8:responsibleRole>
+            <ns8:responsibleInfo>
+                <ns8:orgPostAddress>Российская Федерация, 238743, Калининградская обл, Краснознаменский р-н, Добровольск п, УЛИЦА ЮНОСТИ, 9</ns8:orgPostAddress>
+                <ns8:orgFactAddress>Российская Федерация, 238743, Калининградская обл, Краснознаменский р-н, Добровольск п, УЛИЦА ЮНОСТИ, 9</ns8:orgFactAddress>
+                <ns8:contactPersonInfo>
+                    <ns3:lastName>Белевичене </ns3:lastName>
+                    <ns3:firstName>Анжелика</ns3:firstName>
+                    <ns3:middleName>Андреевна</ns3:middleName>
+                </ns8:contactPersonInfo>
+                <ns8:contactEMail>metodich@mail.ru</ns8:contactEMail>
+                <ns8:contactPhone>8-40164-22507</ns8:contactPhone>
+            </ns8:responsibleInfo>
+        </ns8:purchaseResponsibleInfo>
+        <ns8:printFormInfo>
+            <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335300060020000003</ns3:url>
+        </ns8:printFormInfo>
+        <ns8:notificationInfo>
+            <ns8:procedureInfo>
+                <ns8:collectingInfo>
+                    <ns8:startDT>2020-11-19T15:46:13+02:00</ns8:startDT>
+                    <ns8:endDT>2020-12-11T10:00:00+02:00</ns8:endDT>
+                    <ns8:place>РТС-тендер</ns8:place>
+                    <ns8:order>Указан в разделе 1 "Конкурсной документации на право заключения контракта на оказание услуг по организации горячего питания  льготной категории  учащихся."</ns8:order>
+                </ns8:collectingInfo>
+                <ns8:scoringInfo>
+                    <ns8:firstPartsDT>2020-12-11T12:00:00+02:00</ns8:firstPartsDT>
+                    <ns8:finalOfferDate>2020-12-15+02:00</ns8:finalOfferDate>
+                    <ns8:secondPartsDT>2020-12-15T12:00:00+02:00</ns8:secondPartsDT>
+                </ns8:scoringInfo>
+            </ns8:procedureInfo>
+            <ns8:contractConditionsInfo>
+                <ns8:maxPriceInfo>
+                    <ns8:maxPrice>2752094.53</ns8:maxPrice>
+                    <ns8:currency>
+                        <ns4:code>RUB</ns4:code>
+                        <ns4:name>Российский рубль</ns4:name>
+                    </ns8:currency>
+                    <ns8:interbudgetaryTransfer>false</ns8:interbudgetaryTransfer>
+                </ns8:maxPriceInfo>
+            </ns8:contractConditionsInfo>
+            <ns8:customerRequirementsInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>03353000600</ns4:regNum>
+                        <ns4:consRegistryNum>273Э4966</ns4:consRegistryNum>
+                        <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №4 П. ДОБРОВОЛЬСК</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:applicationGuarantee>
+                        <ns8:amount>17326.02</ns8:amount>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40701810240301000094</ns3:settlementAccount>
+                            <ns3:personalAccount>20356Э49660</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>В соответствии с п.19 раздела 2 "Конкурсной документации на право заключения контракта на оказании услуг по организации горячего питания льготной категории учащихся." </ns8:procedureInfo>
+                        <ns8:part>1.0</ns8:part>
+                    </ns8:applicationGuarantee>
+                    <ns8:contractGuarantee>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40701810240301000094</ns3:settlementAccount>
+                            <ns3:personalAccount>20356Э49660</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>В соответствии с п.20 раздела 2 "Конкурсной документации на право заключения контракта на оказании услуг по организации горячего питания льготной категории учащихся."</ns8:procedureInfo>
+                        <ns8:part>5.0</ns8:part>
+                    </ns8:contractGuarantee>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>1732601.78</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:mustPublicDiscussion>false</ns8:mustPublicDiscussion>
+                        <ns8:purchaseCode>203391900354039190100100070015629244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>56.29</ns4:OKPDCode>
+                                    <ns4:OKPDName>Услуги по обеспечению питанием прочие</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>33919003540391901001</ns8:customerCode>
+                            <ns8:purchaseNumber>0007</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202003353000600001</ns3:plan2020Number>
+                            <ns3:position2020Number>202003353000600002000007</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>1732601.78</ns8:total>
+                                    <ns8:currentYear>0</ns8:currentYear>
+                                    <ns8:firstYear>1732601.78</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:KVRsInfo>
+                                <ns3:currentYear>2020</ns3:currentYear>
+                                <ns3:KVRInfo>
+                                    <ns3:KVR>
+                                        <ns4:code>244</ns4:code>
+                                        <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                    </ns3:KVR>
+                                    <ns3:KVRYearsInfo>
+                                        <ns3:total>1732601.78</ns3:total>
+                                        <ns3:currentYear>0</ns3:currentYear>
+                                        <ns3:firstYear>1732601.78</ns3:firstYear>
+                                        <ns3:secondYear>0</ns3:secondYear>
+                                        <ns3:subsecYears>0</ns3:subsecYears>
+                                    </ns3:KVRYearsInfo>
+                                </ns3:KVRInfo>
+                                <ns3:totalSum>1732601.78</ns3:totalSum>
+                            </ns8:KVRsInfo>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39007000018</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл, Краснознаменский р-н, Добровольск п</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>ул.Юности д.9</ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>с 11 января 2021 г. по 31 мая 2021г.</ns8:deliveryTerm>
+                    </ns8:contractConditionsInfo>
+                    <ns8:purchaseObjectDescription>Оказание услуг по организации горячего питания льготной категории учащихся.</ns8:purchaseObjectDescription>
+                </ns8:customerRequirementInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>03353000594</ns4:regNum>
+                        <ns4:consRegistryNum>273Э4984</ns4:consRegistryNum>
+                        <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №3 П. ВЕСНОВО"</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractGuarantee>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40701810240301000094</ns3:settlementAccount>
+                            <ns3:personalAccount>ЛС20356Э49840</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>В соответствии с п.20 раздела 2 "Конкурсной документации на право заключения контракта на оказании услуг по организации горячего питания льготной категории учащихся."</ns8:procedureInfo>
+                        <ns8:part>5.0</ns8:part>
+                    </ns8:contractGuarantee>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>686107.65</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:mustPublicDiscussion>false</ns8:mustPublicDiscussion>
+                        <ns8:purchaseCode>203391900341239190100100060015629244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>56.29</ns4:OKPDCode>
+                                    <ns4:OKPDName>Услуги по обеспечению питанием прочие</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>33919003412391901001</ns8:customerCode>
+                            <ns8:purchaseNumber>0006</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202003353000594001</ns3:plan2020Number>
+                            <ns3:position2020Number>202003353000594002000006</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>686107.65</ns8:total>
+                                    <ns8:currentYear>0</ns8:currentYear>
+                                    <ns8:firstYear>686107.65</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:KVRsInfo>
+                                <ns3:currentYear>2020</ns3:currentYear>
+                                <ns3:KVRInfo>
+                                    <ns3:KVR>
+                                        <ns4:code>244</ns4:code>
+                                        <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                    </ns3:KVR>
+                                    <ns3:KVRYearsInfo>
+                                        <ns3:total>686107.65</ns3:total>
+                                        <ns3:currentYear>0</ns3:currentYear>
+                                        <ns3:firstYear>686107.65</ns3:firstYear>
+                                        <ns3:secondYear>0</ns3:secondYear>
+                                        <ns3:subsecYears>0</ns3:subsecYears>
+                                    </ns3:KVRYearsInfo>
+                                </ns3:KVRInfo>
+                                <ns3:totalSum>686107.65</ns3:totalSum>
+                            </ns8:KVRsInfo>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39007000016</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл, Краснознаменский р-н, Весново п</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>ул. Гусева д.24</ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>С 11 января 2021г. по 31 мая 2021г.</ns8:deliveryTerm>
+                    </ns8:contractConditionsInfo>
+                    <ns8:purchaseObjectDescription>Оказание услуг по организации горячего питания льготной категории учащихся</ns8:purchaseObjectDescription>
+                </ns8:customerRequirementInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>03353000595</ns4:regNum>
+                        <ns4:consRegistryNum>273Э5006</ns4:consRegistryNum>
+                        <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ОСНОВНАЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №2 ПОСЁЛКА АЛЕКСЕЕВКА</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractGuarantee>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40701810240301000094</ns3:settlementAccount>
+                            <ns3:personalAccount>20356Э50060</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>В соответствии с п.20 раздела 2 "Конкурсной документации на право заключения контракта на оказании услуг по организации горячего питания льготной категории учащихся." </ns8:procedureInfo>
+                        <ns8:part>5.0</ns8:part>
+                    </ns8:contractGuarantee>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>333385.1</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:mustPublicDiscussion>false</ns8:mustPublicDiscussion>
+                        <ns8:purchaseCode>203391900343739190100100060015629244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>56.29</ns4:OKPDCode>
+                                    <ns4:OKPDName>Услуги по обеспечению питанием прочие</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>33919003437391901001</ns8:customerCode>
+                            <ns8:purchaseNumber>0006</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202003353000595001</ns3:plan2020Number>
+                            <ns3:position2020Number>202003353000595002000006</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>333385.1</ns8:total>
+                                    <ns8:currentYear>0</ns8:currentYear>
+                                    <ns8:firstYear>333385.1</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:KVRsInfo>
+                                <ns3:currentYear>2020</ns3:currentYear>
+                                <ns3:KVRInfo>
+                                    <ns3:KVR>
+                                        <ns4:code>244</ns4:code>
+                                        <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                    </ns3:KVR>
+                                    <ns3:KVRYearsInfo>
+                                        <ns3:total>333385.1</ns3:total>
+                                        <ns3:currentYear>0</ns3:currentYear>
+                                        <ns3:firstYear>333385.1</ns3:firstYear>
+                                        <ns3:secondYear>0</ns3:secondYear>
+                                        <ns3:subsecYears>0</ns3:subsecYears>
+                                    </ns3:KVRYearsInfo>
+                                </ns3:KVRInfo>
+                                <ns3:totalSum>333385.1</ns3:totalSum>
+                            </ns8:KVRsInfo>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39007000049</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл, Краснознаменский р-н, Садовое п</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>ул. Молодежная д.1</ns8:deliveryPlace>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>с 11 января 2021г. по 31 мая 2021г.</ns8:deliveryTerm>
+                    </ns8:contractConditionsInfo>
+                    <ns8:purchaseObjectDescription>Оказание услуг по организации горячего питания льготной категории учащихся</ns8:purchaseObjectDescription>
+                </ns8:customerRequirementInfo>
+            </ns8:customerRequirementsInfo>
+            <ns8:purchaseObjectsInfo>
+                <ns8:notDrugPurchaseObjectsInfo>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>56.29.20.120</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги школьных столовых и кухонь</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги школьных столовых и кухонь</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>5401</ns4:code>
+                            <ns4:nationalCode>ДЕТ ДН</ns4:nationalCode>
+                            <ns4:name>Дето-день</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:customerQuantities>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000594</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4984</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №3 П. ВЕСНОВО"</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>1430</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000600</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4966</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №4 П. ДОБРОВОЛЬСК</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>2912</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000595</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э5006</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ОСНОВНАЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №2 ПОСЁЛКА АЛЕКСЕЕВКА</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>445</ns3:quantity>
+                            </ns3:customerQuantity>
+                        </ns3:customerQuantities>
+                        <ns3:price>149.66</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>4787</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>716422.42</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>56.29.20.120</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги школьных столовых и кухонь</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги школьных столовых и кухонь</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>5401</ns4:code>
+                            <ns4:nationalCode>ДЕТ ДН</ns4:nationalCode>
+                            <ns4:name>Дето-день</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:customerQuantities>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000600</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4966</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №4 П. ДОБРОВОЛЬСК</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>1001</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000594</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4984</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №3 П. ВЕСНОВО"</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>340</ns3:quantity>
+                            </ns3:customerQuantity>
+                        </ns3:customerQuantities>
+                        <ns3:price>138.9</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1341</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>186264.9</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>56.29.20.120</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги школьных столовых и кухонь</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги школьных столовых и кухонь</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>5401</ns4:code>
+                            <ns4:nationalCode>ДЕТ ДН</ns4:nationalCode>
+                            <ns4:name>Дето-день</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:customerQuantities>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000600</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4966</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №4 П. ДОБРОВОЛЬСК</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>6097</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000594</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4984</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №3 П. ВЕСНОВО"</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>1970</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000595</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э5006</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ОСНОВНАЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №2 ПОСЁЛКА АЛЕКСЕЕВКА</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>1335</ns3:quantity>
+                            </ns3:customerQuantity>
+                        </ns3:customerQuantities>
+                        <ns3:price>74.83</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>9402</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>703551.66</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>56.29.20.120</ns4:OKPDCode>
+                            <ns4:OKPDName>Услуги школьных столовых и кухонь</ns4:OKPDName>
+                            <ns3:addCharacteristics>обучаю</ns3:addCharacteristics>
+                        </ns3:OKPD2>
+                        <ns3:name>Услуги школьных столовых и кухонь</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>5401</ns4:code>
+                            <ns4:nationalCode>ДЕТ ДН</ns4:nationalCode>
+                            <ns4:name>Дето-день</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:customerQuantities>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000600</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4966</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №4 П. ДОБРОВОЛЬСК</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>10101</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000595</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э5006</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ОСНОВНАЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №2 ПОСЁЛКА АЛЕКСЕЕВКА</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>2403</ns3:quantity>
+                            </ns3:customerQuantity>
+                            <ns3:customerQuantity>
+                                <ns3:customer>
+                                    <ns4:regNum>03353000594</ns4:regNum>
+                                    <ns4:consRegistryNum>273Э4984</ns4:consRegistryNum>
+                                    <ns4:fullName>МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ "СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №3 П. ВЕСНОВО"</ns4:fullName>
+                                </ns3:customer>
+                                <ns3:quantity>3995</ns3:quantity>
+                            </ns3:customerQuantity>
+                        </ns3:customerQuantities>
+                        <ns3:price>69.45</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>16499</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>1145855.55</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:totalSum>2752094.53</ns3:totalSum>
+                    <ns8:quantityUndefined>false</ns8:quantityUndefined>
+                </ns8:notDrugPurchaseObjectsInfo>
+            </ns8:purchaseObjectsInfo>
+            <ns8:preferensesInfo>
+                <ns8:preferenseInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MP44</ns4:shortName>
+                        <ns4:name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:preferenseInfo>
+            </ns8:preferensesInfo>
+            <ns8:requirementsInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44</ns4:shortName>
+                        <ns4:name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>TR442</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44312</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 2.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:addRequirements>
+                        <ns3:addRequirement>
+                            <ns3:shortName>ET6299</ns3:shortName>
+                            <ns3:name>Требования в соответствии с п. 6 приложения № 2 ПП РФ № 99</ns3:name>
+                            <ns3:content>Наличие опыта исполнения (с учетом правопреемства) контракта (договора) на оказание услуг общественного питания и (или) поставки пищевых продуктов, заключенного в соответствии с Федеральным законом "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд" или Федеральным законом "О закупках товаров, работ, услуг отдельными видами юридических лиц", за последние три года до даты подачи заявки на участие в соответствующем конкурсе. При этом стоимость ранее исполненного контракта (договора) составляет не менее 20 процентов начальной (максимальной) цены контракта, договора (цены лота), на право заключить который проводится конкурс.</ns3:content>
+                        </ns3:addRequirement>
+                    </ns3:addRequirements>
+                </ns8:requirementInfo>
+            </ns8:requirementsInfo>
+            <ns8:restrictionsInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MB44330</ns4:shortName>
+                        <ns4:name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:restrictionInfo>
+            </ns8:restrictionsInfo>
+        </ns8:notificationInfo>
+        <ns8:documentation>
+            <ns8:documentRequirementsInfo>
+                <ns8:documentRequirementInfo>
+                    <ns8:sId>7386669</ns8:sId>
+                    <ns8:number>1</ns8:number>
+                    <ns8:name>Первая часть заявки на участие конкурсе с ограниченным участием в электронной форме должна содержать:1) согласие участника конкурса с ограниченным участием в электронной форме на оказание услуги Вторая часть заявки на участие в конкурсе с ограниченным участием в электронной форме должна содержать:1) наименование, фирменное наименование (при наличии), место нахождения (для юридического лица), фамилию, имя, отчество (при наличии), паспортные данные, место жительства (для физического лица), почтовый адрес участника конкурса с ограниченным участием в электронной форме, номер контактного телефона, идентификационный номер налогоплательщика участника такого конкурса или в соответствии с законодательством соответствующего иностранного государства аналог идентификационного номера налогоплательщика участника такого конкурса (для иностранного лица), идентификационный номер налогоплательщика (при наличии) учредителей, членов коллегиального исполнительного органа, лица, исполняющего функции единоличного исполнительного органа участника такого конкурса; 2) декларацию о соответствии участника конкурса с ограниченным участием в электронной форме требованиям, установленным в соответствии с пунктами 3 - 9, 11 части 1 статьи 31 Закона № 44-ФЗ 3) документы, подтверждающие соответствие участников закупки предъявляемым к ним дополнительным требованиям в соответствии с частью 2 статьи 31 Закона № 44-ФЗ- копия ранее исполненного контракта (договора) на оказание услуг общественного питания.4) документы, подтверждающие квалификацию участника конкурса с ограниченным участием в электронной форме 5) декларацию о принадлежности участника конкурса с ограниченным участием в электронной форме к субъектам малого предпринимательства или социально ориентированным некоммерческим организациям в случае установления заказчиком ограничения, предусмотренного частью 3 статьи 30 Закона № 44-ФЗ.Предложение о цене контракта</ns8:name>
+                    <ns8:mandatory>false</ns8:mandatory>
+                </ns8:documentRequirementInfo>
+            </ns8:documentRequirementsInfo>
+            <ns8:contractMultiInfo>
+                <ns8:notProvided>true</ns8:notProvided>
+            </ns8:contractMultiInfo>
+            <ns8:purchaseObjectsCh9St37>false</ns8:purchaseObjectsCh9St37>
+            <ns8:modifiable>true</ns8:modifiable>
+            <ns8:research>false</ns8:research>
+            <ns8:criteriaInfo>
+                <ns8:criterionInfo>
+                    <ns8:qualitativeCriterionInfo>
+                        <ns8:code>QO</ns8:code>
+                        <ns8:valueInfo>
+                            <ns8:value>40</ns8:value>
+                        </ns8:valueInfo>
+                        <ns8:addInfo>Для подтверждения деловой репутации участника конкурса участник конкурса в составе заявки на участие в конкурсе предоставляет следующие документы:&#13;
+- копии положительных отзывов (благодарственных писем и/или грамот), содержащих информацию об оказании участником конкурса услуг по  организации питания в  государственных и/или муниципальных образовательных учреждениях (бюджетных и/или автономных), полученных за последние три года до даты окончания срока подачи заявок на участие в настоящем конкурсе&#13;
+</ns8:addInfo>
+                        <ns8:criterionInfo>
+                            <ns8:measurementOrder>F</ns8:measurementOrder>
+                        </ns8:criterionInfo>
+                    </ns8:qualitativeCriterionInfo>
+                </ns8:criterionInfo>
+                <ns8:criterionInfo>
+                    <ns8:costCriterionInfo>
+                        <ns8:code>CP</ns8:code>
+                        <ns8:valueInfo>
+                            <ns8:value>60</ns8:value>
+                        </ns8:valueInfo>
+                    </ns8:costCriterionInfo>
+                </ns8:criterionInfo>
+            </ns8:criteriaInfo>
+            <ns8:printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335300060020000003</ns3:url>
+            </ns8:printFormInfo>
+            <ns8:attachmentsInfo>
+                <ns3:attachmentInfo>
+                    <ns3:publishedContentId>B47382C6F429045DE0530F548D0A5F67</ns3:publishedContentId>
+                    <ns3:fileName>КД в электронной форме 44 ФЗ 1-ое полугодие 2021.docx</ns3:fileName>
+                    <ns3:fileSize>154379</ns3:fileSize>
+                    <ns3:docDescription>КД в электронной форме 44 ФЗ 1-ое полугодие 2021</ns3:docDescription>
+                    <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B47382C6F429045DE0530F548D0A5F67</ns3:url>
+                    <ns3:cryptoSigns>
+                        <ns3:signature type="CAdES-BES">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</ns3:signature>
+                    </ns3:cryptoSigns>
+                </ns3:attachmentInfo>
+                <ns3:attachmentInfo>
+                    <ns3:publishedContentId>B46E24D79257A780E0530F548D0AF291</ns3:publishedContentId>
+                    <ns3:fileName>Примерное двухнедельное меню.docx</ns3:fileName>
+                    <ns3:fileSize>113867</ns3:fileSize>
+                    <ns3:docDescription>Примерное двухнедельное меню</ns3:docDescription>
+                    <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B46E24D79257A780E0530F548D0AF291</ns3:url>
+                    <ns3:cryptoSigns>
+                        <ns3:signature type="CAdES-BES">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</ns3:signature>
+                    </ns3:cryptoSigns>
+                </ns3:attachmentInfo>
+            </ns8:attachmentsInfo>
+        </ns8:documentation>
+    </ns2:epNotificationEOKOU>
+</ns2:export>

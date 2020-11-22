@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>24923816</id>
+        <purchaseNumber>0335100009320000054</purchaseNumber>
+        <docPublishDate>2020-11-02T15:11:27.410+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100009320000054</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335100009320000054</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка медицинских изделий (Аппарат для терапии синусоидальными модулированными токами с набором электродов; Тренажеры и механоаппараты для мышц и суставов нижних конечностей; Тренажеры и механоаппараты для мышц и суставов туловища (спины, брюшного пресса)), ввод в эксплуатацию медицинского изделия, обучение правилам эксплуатации специалистов, эксплуатирующих медицинское изделие</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000093</regNum>
+                <consRegistryNum>001X6124</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ДЕТСКИЙ ОРТОПЕДИЧЕСКИЙ САНАТОРИЙ "ПИОНЕРСК" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                <postAddress>Российская Федерация, 238590, Калининградская обл, Пионерский г, ул КОМСОМОЛЬСКАЯ, 44 А</postAddress>
+                <factAddress>Российская Федерация, 238590, Калининградская обл, Пионерский г, УЛИЦА КОМСОМОЛЬСКАЯ, 44 А</factAddress>
+                <INN>3910002710</INN>
+                <KPP>391001001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 238590, Калининградская обл, Пионерский г, ул КОМСОМОЛЬСКАЯ, 44 А</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 238590, Калининградская обл, Пионерский г, УЛИЦА КОМСОМОЛЬСКАЯ, 44 А</orgFactAddress>
+                <contactPerson>
+                    <lastName>Сапрыкин</lastName>
+                    <firstName>Сергей</firstName>
+                    <middleName>Юрьевич</middleName>
+                </contactPerson>
+                <contactEMail>ortosan1@maiil.ru</contactEMail>
+                <contactPhone>7-40155-22575</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_RTS</code>
+            <name>РТС-тендер</name>
+            <url>http://www.rts-tender.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-02T15:11:27+02:00</startDate>
+                <place>Заявка на участие в электронном аукционе направляется участником аукциона оператору электронной площадки указанной в документации об электронном аукционе </place>
+                <order>Установлен в статье 66 Закона № 44-ФЗ о контрактной системе. В соответствии с ч. 7 ст. 66 Федерального закона № 44-ФЗ участник вправе подать заявку в любое время с момента размещения извещения о проведении ЭА до предусмотренных документацией о таком аукционе даты и времени окончания срока подачи на участие в таком аукционе заявок. </order>
+                <endDate>2020-11-10T10:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-10T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-11T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>982000</maxPrice>
+            <standardContractNumber>1573000000116002</standardContractNumber>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000093</regNum>
+                        <consRegistryNum>001X6124</consRegistryNum>
+                        <fullName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ДЕТСКИЙ ОРТОПЕДИЧЕСКИЙ САНАТОРИЙ "ПИОНЕРСК" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                    </customer>
+                    <maxPrice>982000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace> В соответствии с Частью IV «ТЕХНИЧЕСКАЯ ЧАСТЬ ДОКУМЕНТАЦИИ ОБ АУКЦИОНЕ В ЭЛЕКТРОННОЙ ФОРМЕ» и Частью V. ПРОЕКТ КОНТРАКТА </deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с Частью IV «ТЕХНИЧЕСКАЯ ЧАСТЬ ДОКУМЕНТАЦИИ ОБ АУКЦИОНЕ В ЭЛЕКТРОННОЙ ФОРМЕ» и Частью V. ПРОЕКТ КОНТРАКТА</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>9820.00</amount>
+                        <part>1.0</part>
+                        <procedureInfo>Участник электронного аукциона вносит денежные средства на специальные счета, открытые им в банках, перечень которых устанавливается Правительством Российской Федерации (далее –специальный счет). Требования к указанным банкам устанавливаются Правительством Российской Федерации. Такие требования должны быть не ниже требований, установленных в соответствии с Бюджетным кодексом Российской Федерации к кредитным организациям, в которых могут размещаться средства федерального бюджета на банковские депозиты. Оператор электронной площадки обязан вернуть заявку подавшему ее участнику в течение одного часа с даты и времени окончания срока подачи заявок на участие в электронном аукционе, если на специальном счете участника закупки отсутствуют незаблокированные денежные средства в размере обеспечения заявки, предусмотренном пунктом 30 части III «ИНФОРМАЦИОННАЯ КАРТА АУКЦИОНА В ЭЛЕКТРОННОЙ ФОРМЕ», либо блокирование денежных средств на специальном счете не может быть осуществлено в связи с приостановлением операций по такому счету в соответствии с законодательством Российской Федерации</procedureInfo>
+                        <settlementAccount>40501810100002000002</settlementAccount>
+                        <personalAccount>20356X61240</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>Обеспечение исполнения контракта, обеспечение гарантийных обязательств предоставляется участником электронного аукциона, с которым заключается контракт, путем внесения денежных средств на расчетный счет Заказчика, указанный в документации об электронном аукционе или безотзывной банковской гарантией, выданной банком, включенным в перечень, указанный в пункте 6.3.5 части II «ИНСТРУКЦИЯ УЧАСТНИКАМ АУКЦИОНА В ЭЛЕКТРОННОЙФОРМЕ». Способ обеспечения исполнения контракта, гарантийных обязательств, срок действия банковской гарантии определяются участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона № 44-ФЗ. Участник электронного аукциона, с которым заключается контракт, размещает в ЕИС документ, подтверждающий предоставление обеспечения исполнения контракта подписанный усиленной электронной подписью лица, имеющего право действовать от имени участника электронного аукциона с которым заключается контракт вместе с проектом контракта, подписанным указанным лицом. Предоставление обеспечения исполнения контракта, обеспечения гарантийных обязательств не требуется в случае: 1) заключения контракта с участником закупки, который является казенным учреждением; </procedureInfo>
+                        <settlementAccount>40501810100002000002</settlementAccount>
+                        <personalAccount>20356X61240</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <provisionWarranty>
+                        <ns3:amount>49100</ns3:amount>
+                        <ns3:part>5.0</ns3:part>
+                        <ns3:procedureInfo>Обеспечение исполнения контракта, обеспечение гарантийных обязательств предоставляется участником электронного аукциона, с которым заключается контракт, путем внесения денежных средств на расчетный счет Заказчика, указанный в документации об электронном аукционе или безотзывной банковской гарантией, выданной банком, включенным в перечень, указанный в пункте 6.3.5 части II «ИНСТРУКЦИЯ УЧАСТНИКАМ АУКЦИОНА В ЭЛЕКТРОННОЙФОРМЕ». Способ обеспечения исполнения контракта, гарантийных обязательств, срок действия банковской гарантии определяются участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона № 44-ФЗ. Участник электронного аукциона, с которым заключается контракт, размещает в ЕИС документ, подтверждающий предоставление обеспечения исполнения контракта подписанный усиленной электронной подписью лица, имеющего право действовать от имени участника электронного аукциона с которым заключается контракт вместе с проектом контракта, подписанным указанным лицом. Предоставление обеспечения исполнения контракта, обеспечения гарантийных обязательств не требуется в случае: 1) заключения контракта с участником закупки, который является казенным учреждением</ns3:procedureInfo>
+                        <ns3:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40501810100002000002</ns3:settlementAccount>
+                            <ns3:personalAccount>20356X61240</ns3:personalAccount>
+                        </ns3:account>
+                    </provisionWarranty>
+                    <purchaseCode>201391000271039100100100760012660244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>26.60</ns4:OKPDCode>
+                                <ns4:OKPDName>Оборудование для облучения, электрическое диагностическое и терапевтическое, применяемые в медицинских целях</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13910002710391001001</customerCode>
+                        <purchaseNumber>0076</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000093001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000093001000114</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства федерального бюджета (Субсидии в целях приобретения объектов особо ценного движимого имущества в части оборудования)</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>982000</total>
+                                <currentYear>982000</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>982000</ns3:total>
+                                    <ns3:currentYear>982000</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>982000</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.60.13.190</code>
+                        <name>Оборудование для электротерапии прочее, не включенное в другие группировки</name>
+                    </OKPD2>
+                    <name>Механоаппарат для мышц и суставов нижних конечностей</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>162000</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>162000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.60.13.190</code>
+                        <name>Оборудование для электротерапии прочее, не включенное в другие группировки</name>
+                    </OKPD2>
+                    <name>Аппарат для терапии синусоидальными модулированными токами с набором электродов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>70000</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>140000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>26.60.13.190</code>
+                        <name>Оборудование для электротерапии прочее, не включенное в другие группировки</name>
+                    </OKPD2>
+                    <name>Тренажер для мышц и суставов туловища (спины, брюшного пресса)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>680000</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>680000</sum>
+                </purchaseObject>
+                <totalSum>982000</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>RBK126</shortName>
+                    <name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</name>
+                    <prefValue>15.0</prefValue>
+                </preferense>
+                <preferense>
+                    <shortName>MP44</shortName>
+                    <name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</name>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>1</ns4:code>
+                                <ns4:name>Участникам, заявки или окончательные предложения которых содержат предложения о поставке товаров в соответствии с приказом Минфина России № 126н от 04.06.2018</ns4:name>
+                                <ns4:shortName>Приказ Минфина 126н от 04.06.2018</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>RA</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>15</ns4:code>
+                                <ns4:name>Постановление Правительства РФ N 878 от 10.07.2019
+ "О мерах стимулирования производства радиоэлектронной продукции на территории Российской Федерации при осуществлении закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд, о внесении изменений в постановление Правительства Российской Федерации от 16 сентября 2016 г. N 925 и признании утратившими силу некоторых актов Правительства Российской Федерации"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ N 878 от 10.07.2019
+</ns4:shortName>
+                            </ns3:NPAInfo>
+                            <ns3:exception>
+                                <ns3:imposibilityBan>true</ns3:imposibilityBan>
+                                <ns3:imposibilityBanReason>Ограничение на допуск радиоэлектронной продукции происходящей из иностранных государств, не устанавливается, так как в реестре отсутствует радиоэлектронная продукция, соответствующая тому же классу (функциональному назначению) радиоэлектронной продукции, планируемой к закупке.</ns3:imposibilityBanReason>
+                            </ns3:exception>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B31C8ADDCEC68DB6E0530F548D0A253E</publishedContentId>
+                <fileName>ДЭА на поставку медицинских изделий 1.docx</fileName>
+                <fileSize>227.83 Кб</fileSize>
+                <docDescription>ДЭА на поставку медицинских изделий 1</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B31C8ADDCEC68DB6E0530F548D0A253E</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-02T15:11:27+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-09T23:00:00+02:00</endDate>
+                <deliveryProcedure>Любой участник аукциона, зарегистрированный в единой информационной системе в сфере закупок и аккредитованный на электронной площадке, с момента размещения извещения о проведении ЭА в ЕИС, вправе направить с использованием программно-аппаратных средств электронной площадки на адрес электронной площадки запрос о даче разъяснений положений документации об аукционе. При этом участник аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации в отношении одного такого аукциона. Дата окончания срока поступления запроса участника аукциона о разъяснении положений документации об аукционе: «22» октября 2020 г. Дата окончания срока предоставления участникам аукциона разъяснений положений документации об аукционе: «26» октября 2020 г.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=24923816&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

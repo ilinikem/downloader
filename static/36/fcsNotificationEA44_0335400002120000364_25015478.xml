@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2.310">
+        <id>25015478</id>
+        <purchaseNumber>0335400002120000364</purchaseNumber>
+        <docPublishDate>2020-11-11T10:24:31.301+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335400002120000364</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0335400002120000364</url>
+        </printForm>
+        <purchaseObjectInfo>Поставка флагов для рейса 51 на ПС "Академик Сергей Вавилов"</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03354000021</regNum>
+                <consRegistryNum>001К0164</consRegistryNum>
+                <fullName>АТЛАНТИЧЕСКАЯ БАЗА ФЛОТА - ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ НАУКИ ИНСТИТУТА ОКЕАНОЛОГИИ ИМ. П.П. ШИРШОВА РОССИЙСКОЙ АКАДЕМИИ НАУК</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ МИРА, ДОМ 1-3/ЛИТЕРА А</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ МИРА, ДОМ 1-3/ЛИТЕРА А</factAddress>
+                <INN>7727083115</INN>
+                <KPP>390643001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ МИРА, ДОМ 1-3/ЛИТЕРА А</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ МИРА, ДОМ 1-3/ЛИТЕРА А</orgFactAddress>
+                <contactPerson>
+                    <lastName>Бурлак </lastName>
+                    <firstName>Ольга </firstName>
+                    <middleName>Александровна</middleName>
+                </contactPerson>
+                <contactEMail>khuovinen.av@abf.ocean.ru</contactEMail>
+                <contactPhone>7-4012-560401</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-11-05T15:07:19+02:00</startDate>
+                <place>Электронная площадка АО «ЕЭТП»  http://roseltorg.ru</place>
+                <order>Участник электронного аукциона вправе подать заявку на участие в таком аукционе в любое время с момента размещения извещения о его проведении до предусмотренных документацией о таком аукционе даты и времени окончания срока подачи на участие в аукционе заявок.&#13;
+Заявка на участие в электронном аукционе направляется участником такого аукциона оператору электронной площадки в форме двух электронных документов, содержащих части заявки, предусмотренные п. 26 Информационной карты электронного аукциона. Указанные электронные документы подаются одновременно.&#13;
+В течение одного часа с момента получения заявки на участие в электронном аукционе оператор электронной площадки обязан присвоить ей идентификационный номер и подтвердить в форме электронного документа, направляемого участнику такого аукциона, подавшему указанную заявку, ее получение с указанием присвоенного ей идентификационного номера.&#13;
+Участник электронного аукциона вправе подать только одну заявку на участие в таком аукционе.&#13;
+</order>
+                <endDate>2020-11-19T09:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-11-19T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-11-20T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>21323.35</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03354000021</regNum>
+                        <consRegistryNum>001К0164</consRegistryNum>
+                        <fullName>АТЛАНТИЧЕСКАЯ БАЗА ФЛОТА - ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ НАУКИ ИНСТИТУТА ОКЕАНОЛОГИИ ИМ. П.П. ШИРШОВА РОССИЙСКОЙ АКАДЕМИИ НАУК</fullName>
+                    </customer>
+                    <maxPrice>21323.35</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace>В соответствии с разделом 3 «Техническое задание (описание объекта закупки)» документации об электронном аукционе.</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В соответствии с разделом 3 «Техническое задание (описание объекта закупки)» документации об электронном аукционе.</deliveryTerm>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>Исполнение контракта может обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Закона № 44-ФЗ, или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта, срок действия банковской гарантии определяются в соответствии с требованиями Закона № 44-ФЗ участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Закона №44-ФЗ. &#13;
+Банковская гарантия, предоставленная в качестве обеспечения исполнения контракта, должна содержать условие о праве заказчика на бесспорное списание денежных средств со счета гаранта, если гарантом в срок не более чем пять рабочих дней не исполнено требование Заказчика об уплате денежной суммы по банковской гарантии, направленное до окончания срока действия банковской гарантии.&#13;
+Контракт заключается после предоставления участником закупки, с которым заключается контракт, обеспечения исполнения контракта. В случае непредоставления участником закупки, с которым заключается контракт, обеспечения исполнения контракта в срок, установленный для заключения контракта, такой участник считается уклонившимся от заключения контракта.&#13;
+ Положения об обеспечении исполнения контракта, включая положения о предоставлении такого обеспечения с учетом положений статьи 37 Закона №44-ФЗ, не применяются в случае заключения контракта с участником закупки, который является казенным учреждением. &#13;
+</procedureInfo>
+                        <settlementAccount>40501810100002000002</settlementAccount>
+                        <personalAccount>20356К01640</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201772708311539064300104310011399244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>13.99</ns4:OKPDCode>
+                                <ns4:OKPDName>Изделия текстильные прочие, не включенные в другие группировки</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>17727083115390643001</customerCode>
+                        <purchaseNumber>0431</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003354000021001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003354000021001000461</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Средства бюджетных учреждений</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>21323.35</total>
+                                <currentYear>21323.35</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <KVRsInfo>
+                            <ns3:currentYear>2020</ns3:currentYear>
+                            <ns3:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                                <ns3:KVRYearsInfo>
+                                    <ns3:total>21323.35</ns3:total>
+                                    <ns3:currentYear>21323.35</ns3:currentYear>
+                                    <ns3:firstYear>0</ns3:firstYear>
+                                    <ns3:secondYear>0</ns3:secondYear>
+                                    <ns3:subsecYears>0</ns3:subsecYears>
+                                </ns3:KVRYearsInfo>
+                            </ns3:KVRInfo>
+                            <ns3:totalSum>21323.35</ns3:totalSum>
+                        </KVRsInfo>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>13.99.19.190</code>
+                        <name>Изделия текстильные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Флаг Намибии</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2280</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4560</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>13.99.19.190</code>
+                        <name>Изделия текстильные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Флаг "Delta" </name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1110</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2220</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>13.99.19.190</code>
+                        <name>Изделия текстильные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Флаг  "Hotel"  </name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1110</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2220</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>13.99.19.190</code>
+                        <name>Изделия текстильные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Флаг Аргентины</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2280</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>2280</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>13.99.19.190</code>
+                        <name>Изделия текстильные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Флаг ЮАР</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2280</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4560</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>13.99.19.190</code>
+                        <name>Изделия текстильные прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>Флаг Российской Федерации</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1096.67</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>5483.35</sum>
+                </purchaseObject>
+                <totalSum>21323.35</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>B3CF1C4A3534089DE0530F548D0ADF31</publishedContentId>
+                <fileName>ДЭА флаги рейс 51 АНС, СМП 2 ред..docx</fileName>
+                <fileSize>154.25 Кб</fileSize>
+                <docDescription>ДЭА флаги рейс 51 АНС, СМП 2 ред.</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3CF1C4A3534089DE0530F548D0ADF31</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIUyQYJKoZIhvcNAQcCoIIUujCCFLYCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEDwwggeGMIIHM6ADAgECAgsAtfEy0wAAAAABWjAKBggqhQMHAQEDAjCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MB4XDTE4MTExOTE1NTYwMVoXDTMzMTExOTE1NTYwMVowggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wZjAfBggqhQMHAQEBATATBgcqhQMCAiMBBggqhQMHAQECAgNDAARAEcXgEuLYAGkjZxk0EiqX+uKmnD/SqqiLhLY28kdIZsLr3i298mo6YYZQIPRvWRSUSrq54UC0XuA4gKq4+P4NyaOCA/AwggPsMBIGA1UdEwEB/wQIMAYBAf8CAQAwPwYFKoUDZG8ENgw00KHQmtCX0JggItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiICjQstC10YDRgdC40Y8gNC4wKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTA1tYKfWt+yY45vNqJ+q+ULFhajTCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQAu1PTvqACPITdpeFoJ8lRAIfzHJTLj8i3Ru1Lbgre0ollgtphqE2Ns02pwQWm0N+fojRzz3HOgqEUkM8e+PL+yMIIIrjCCCFugAwIBAgIUVe+Xxv8YxaPoxV7x3ap37d5qHNQwCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMTkxMjIzMDcyNTU0WhcNMjEwMzIzMDcyNTU0WjCCAjwxGjAYBggqhQMDgQMBARIMMzkwNTA4MzI5NzA3MRYwFAYFKoUDZAMSCzE0MTI3OTA3NDQ4MSMwIQYJKoZIhvcNAQkBFhR6YWt1cGtpQGFiZi5vY2Vhbi5ydTELMAkGA1UEBhMCUlUxNjA0BgNVBAgMLdCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDEjMCEGA1UEBwwa0LMuINCa0LDQu9C40L3QuNC90LPRgNCw0LQxgeYwgeMGA1UECgyB29Ck0JXQlNCV0KDQkNCb0KzQndCe0JUg0JPQntCh0KPQlNCQ0KDQodCi0JLQldCd0J3QntCVINCR0K7QlNCW0JXQotCd0J7QlSDQo9Cn0KDQldCW0JTQldCd0JjQlSDQndCQ0KPQmtCYINCY0J3QodCi0JjQotCj0KIg0J7QmtCV0JDQndCe0JvQntCT0JjQmCDQmNCcLiDQny7Qny4g0KjQmNCg0KjQntCS0JAg0KDQntCh0KHQmNCZ0KHQmtCe0Jkg0JDQmtCQ0JTQldCc0JjQmCDQndCQ0KPQmjEuMCwGA1UEKgwl0JzQsNGA0LjRjyDQkNC70LXQutGB0LDQvdC00YDQvtCy0L3QsDEbMBkGA1UEBAwS0JrQuNGA0YHQsNC90L7QstCwMUEwPwYDVQQDDDjQmtC40YDRgdCw0L3QvtCy0LAg0JzQsNGA0LjRjyDQkNC70LXQutGB0LDQvdC00YDQvtCy0L3QsDBmMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICA0MABEBSk4fTdLpM2WJiC4Qx8KVZsFq5vAq9gpAIhdUdWmr5RZh/HeYZIHIXJDWxAkLZmTbi7vxIdHhnJqQL6qykxMG3o4ID9zCCA/MwDAYDVR0TAQH/BAIwADATBgNVHSAEDDAKMAgGBiqFA2RxATA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBUQYFKoUDZHAEggFGMIIBQgw00KHQmtCX0JggItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiICjQstC10YDRgdC40Y8gNC4wKQxo0J/RgNC+0LPRgNCw0LzQvNC90L4t0LDQv9C/0LDRgNCw0YLQvdGL0Lkg0LrQvtC80L/Qu9C10LrRgSDCq9Cu0L3QuNGB0LXRgNGCLdCT0J7QodCiwrsuINCS0LXRgNGB0LjRjyAzLjAMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjQtMzM4MCDQvtGCIDExLjA1LjIwMTgMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjgtMzU4MSDQvtGCIDIwLjEyLjIwMTgwDgYDVR0PAQH/BAQDAgP4MBMGA1UdJQQMMAoGCCsGAQUFBwMCMCsGA1UdEAQkMCKADzIwMTkxMjIzMDcyMDI3WoEPMjAyMTAzMjMwNzIwMjdaMIIBYAYDVR0jBIIBVzCCAVOAFMDW1gp9a37Jjjm82on6r5QsWFqNoYIBLKSCASgwggEkMR4wHAYJKoZIhvcNAQkBFg9kaXRAbWluc3Z5YXoucnUxCzAJBgNVBAYTAlJVMRgwFgYDVQQIDA83NyDQnNC+0YHQutCy0LAxGTAXBgNVBAcMENCzLiDQnNC+0YHQutCy0LAxLjAsBgNVBAkMJdGD0LvQuNGG0LAg0KLQstC10YDRgdC60LDRjywg0LTQvtC8IDcxLDAqBgNVBAoMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MRgwFgYFKoUDZAESDTEwNDc3MDIwMjY3MDExGjAYBggqhQMDgQMBARIMMDA3NzEwNDc0Mzc1MSwwKgYDVQQDDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuIILALXxMtMAAAAAAVowbAYDVR0fBGUwYzAwoC6gLIYqaHR0cDovL2NybC5yb3NrYXpuYS5ydS9jcmwvdWNma19nb3N0MTIuY3JsMC+gLaArhilodHRwOi8vY3JsLmZzZmsubG9jYWwvY3JsL3VjZmtfZ29zdDEyLmNybDAdBgNVHQ4EFgQURtmugOheDpCpXbqPFXtH52Ke78cwCgYIKoUDBwEBAwIDQQA1c28BS1yrmtcFZ8HZFKJ9OSIPUzzXYbWuhVeLjbEEG/VrHmzKbsvk5ALh4zl+ifh1Qjfov1A6AqIctN2uR1++MYIEUjCCBE4CAQEwggGHMIIBbTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGTAXBgNVBAgMENCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+AhRV75fG/xjFo+jFXvHdqnft3moc1DAMBggqhQMHAQECAgUAoIICSzAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDExMTEwODI0MDRaMC8GCSqGSIb3DQEJBDEiBCDbIskmVwmrx9tY/sXCKUxmu97FCIGbYGjfZ5B0HlxrxjCCAd4GCyqGSIb3DQEJEAIvMYIBzTCCAckwggHFMIIBwTAKBggqhQMHAQECAgQguq83n7qDqXYOF5iXmejT4/Cz7m7VvGdNbD4SpzzWRFAwggGPMIIBdaSCAXEwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFFXvl8b/GMWj6MVe8d2qd+3eahzUMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICBEAORZ264PVKYcgLZ2y/D2ZQ24/hf0fZY00M9jr2+2Ayf28EvGK452U6+3l/++5CZ9i+cZQTFNE3Yp63DPYfne8e</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <modification>
+            <modificationNumber>1</modificationNumber>
+            <info>снесение изменений в документацию об электронном аукционе</info>
+            <reason>
+                <responsibleDecision>
+                    <decisionDate>2020-11-11T00:00:00+03:00</decisionDate>
+                </responsibleDecision>
+            </reason>
+        </modification>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-11-05T16:07:00+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-11-18T17:30:00+02:00</endDate>
+                <deliveryProcedure>Любой участник аукциона, зарегистрированный в единой информационной системе и аккредитованный на электронной площадке вправе направить с использованием программно-аппаратных средств электронной площадки на адрес электронной площадки, на которой планируется проведение аукциона, запрос о даче разъяснений положений документации о таком аукционе. При этом участник аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации в отношении одного такого аукциона. В течение двух дней с даты поступления от оператора электронной площадки запроса заказчик размещает в единой информационной системе разъяснения положений документации об аукционе с указанием предмета запроса, но без указания участника такого аукциона, от которого поступил указанный запрос, при условии, что указанный запрос поступил заказчику не позднее чем за три дня до даты окончания срока подачи заявок на участие в аукционе.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25015478&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

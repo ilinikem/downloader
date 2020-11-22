@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:epNotificationEZK schemeVersion="10.2.310">
+        <ns8:id>25046615</ns8:id>
+        <ns8:versionNumber>1</ns8:versionNumber>
+        <ns8:commonInfo>
+            <ns8:purchaseNumber>0135300007520000223</ns8:purchaseNumber>
+            <ns8:docNumber>№0135300007520000223</ns8:docNumber>
+            <ns8:plannedPublishDate>2020-11-12+02:00</ns8:plannedPublishDate>
+            <ns8:publishDTInEIS>2020-11-13T13:11:20.378+02:00</ns8:publishDTInEIS>
+            <ns8:href>https://zakupki.gov.ru/epz/order/notice/zk504/view/common-info.html?regNumber=0135300007520000223</ns8:href>
+            <ns8:isGOZ>false</ns8:isGOZ>
+            <ns8:purchaseObjectInfo>Устройство тротуара по ул. Садовая в городе Черняховске (участок от ул. Калинина до ул.  Госпитальная) </ns8:purchaseObjectInfo>
+            <ns8:placingWay>
+                <ns4:code>ZKP504</ns4:code>
+                <ns4:name>Запрос котировок в электронной форме</ns4:name>
+            </ns8:placingWay>
+            <ns8:ETP>
+                <ns4:code>ETP_RTS</ns4:code>
+                <ns4:name>РТС-тендер</ns4:name>
+                <ns4:url>http://www.rts-tender.ru</ns4:url>
+            </ns8:ETP>
+            <ns8:contractConclusionOnSt83Ch2>true</ns8:contractConclusionOnSt83Ch2>
+        </ns8:commonInfo>
+        <ns8:purchaseResponsibleInfo>
+            <ns8:responsibleOrgInfo>
+                <ns8:regNum>01353000075</ns8:regNum>
+                <ns8:consRegistryNum>27302671</ns8:consRegistryNum>
+                <ns8:fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ЧЕРНЯХОВСКИЙ ГОРОДСКОЙ ОКРУГ"</ns8:fullName>
+                <ns8:postAddress>Российская Федерация, 238151, Калининградская обл, Черняховский р-н, Черняховск г, УЛ КАЛИНИНА, 7</ns8:postAddress>
+                <ns8:factAddress>Российская Федерация, 238151, Калининградская обл, Черняховский р-н, Черняховск г, УЛ КАЛИНИНА, 7</ns8:factAddress>
+                <ns8:INN>3914003313</ns8:INN>
+                <ns8:KPP>391401001</ns8:KPP>
+            </ns8:responsibleOrgInfo>
+            <ns8:responsibleRole>CU</ns8:responsibleRole>
+            <ns8:responsibleInfo>
+                <ns8:orgPostAddress>Российская Федерация, 238151, Калининградская обл, Черняховский р-н, Черняховск г, УЛ КАЛИНИНА, 7</ns8:orgPostAddress>
+                <ns8:orgFactAddress>Российская Федерация, 238151, Калининградская обл, Черняховский р-н, Черняховск г, УЛ КАЛИНИНА, 7</ns8:orgFactAddress>
+                <ns8:contactPersonInfo>
+                    <ns3:lastName>Чвырова</ns3:lastName>
+                    <ns3:firstName>Елена</ns3:firstName>
+                    <ns3:middleName>Сергеевна</ns3:middleName>
+                </ns8:contactPersonInfo>
+                <ns8:contactEMail>konkurs4@inster39.ru</ns8:contactEMail>
+                <ns8:contactPhone>8-40141-33843</ns8:contactPhone>
+            </ns8:responsibleInfo>
+        </ns8:purchaseResponsibleInfo>
+        <ns8:printFormInfo>
+            <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0135300007520000223</ns3:url>
+        </ns8:printFormInfo>
+        <ns8:attachmentsInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B3FA6814B4C4ECA9E0530F548D0AB7D1</ns3:publishedContentId>
+                <ns3:fileName>Извещение запрос котировок ул. Садовая (от ул. Калинина до ул. Госпитальной).doc</ns3:fileName>
+                <ns3:fileSize>373248</ns3:fileSize>
+                <ns3:docDescription>Извещение запрос котировок ул. Садовая (от ул. Калинина до ул. Госпитальной)</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3FA6814B4C4ECA9E0530F548D0AB7D1</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+            <ns3:attachmentInfo>
+                <ns3:publishedContentId>B3F8DB0513083029E0530F548D0A2A6F</ns3:publishedContentId>
+                <ns3:fileName>Тротуар от Калинина до Госпитальной Локальная смета   ВОР.pdf</ns3:fileName>
+                <ns3:fileSize>5168493</ns3:fileSize>
+                <ns3:docDescription>Тротуар от Калинина до Госпитальной Локальная смета   ВОР</ns3:docDescription>
+                <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B3F8DB0513083029E0530F548D0A2A6F</ns3:url>
+                <ns3:cryptoSigns>
+                    <ns3:signature type="CAdES-BES">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</ns3:signature>
+                </ns3:cryptoSigns>
+            </ns3:attachmentInfo>
+        </ns8:attachmentsInfo>
+        <ns8:notificationInfo>
+            <ns8:procedureInfo>
+                <ns8:collectingInfo>
+                    <ns8:startDT>2020-11-13T13:11:20+02:00</ns8:startDT>
+                    <ns8:endDT>2020-11-23T11:00:00+02:00</ns8:endDT>
+                    <ns8:place>РТС-тендер</ns8:place>
+                    <ns8:order>Подача заявок на участие в запросе котировок в электронной форме осуществляется посредством электронной площадки только лицами, зарегистрированными в ЕИС и аккредитованными на электронной площадке. Заявка состоит из предложений участника запроса котировок в электронной форме о выполнении работ, а также о цене контракта. Участник направляет заявку оператору электронной площадки. Участник запроса котировок в электронной форме вправе подать только одну заявку на участие в таком запросе. Она подается в любое время с момента размещения извещения о проведении запроса котировок в электронной форме до предусмотренных в извещении даты и времени окончания срока подачи заявок на участие в таком запросе. </ns8:order>
+                </ns8:collectingInfo>
+                <ns8:contractTermAdd>Контракт может быть заключен не ранее чем через семь дней с даты размещения в ЕИС протокола, указанного в ч. 5 ст. 82.4 Закона N 44-ФЗ. Победитель обязан подписать проект контракта в течение пяти дней с даты его размещения заказчиком в ЕИС либо размещает в ЕИС в указанный срок протокол разногласий. Иной участник закупки, с которым заключается контракт при уклонении победителя от его заключения, вправе подписать проект контракта в этот же срок. Такое лицо вправе отказаться от заключения контракта до направления им протокола разногласий либо подписания контракта. Если победитель либо иной участник, с которым заключается контракт при уклонении победителя от его подписания, разместил на электронной площадке протокол разногласий, то он должен подписать и разместить проект контракта в течение трех рабочих дней с даты размещения заказчиком в ЕИС (на электронной площадке) доработанного проекта контракта или первоначального проекта и документа с информацией о причинах отказа учесть полностью или частично замечания по протоколу разногласий. </ns8:contractTermAdd>
+                <ns8:contractConditionsAdd>Победитель запроса котировок в электронной форме (за исключением победителя, предусмотренного ч. 14 ст. 83.2 Закона № 44-ФЗ) признается заказчиком, уклонившимся от заключения контракта, в случае если в сроки, предусмотренные настоящей статьей, он не направил заказчику проект контракта, подписанный лицом, имеющим право действовать от имени такого победителя, или не направил протокол разногласий, предусмотренный частью 4 статьи 83.2 Закона № 44-ФЗ, или не предоставил обеспечение исполнения контракта, если такое обеспечение предусмотрено настоящим извещением. В случае если победитель запроса котировок в электронной форме признан уклонившимся от заключения контракта, заказчик вправе заключить контракт с участником такого запроса котировок в электронной форме, заявке которого присвоен второй номер. Этот участник признается победителем такого запроса котировок в электронной форме, и в проект контракта, прилагаемый к извещению о закупке, заказчиком включаются условия исполнения данного контракта, предложенные этим участником. Проект контракта должен быть направлен заказчиком этому участнику в срок, не превышающий пяти дней с даты признания победителя такого запроса котировок в электронной форме уклонившимся от заключения контракта. При этом заказчик вправе обратиться в суд с требованием о возмещении убытков, причиненных уклонением от заключения контракта. Участник запроса котировок в электронной форме, признанный победителем такого запроса котировок в электронной форме в соответствии с частью 14 статьи 83.2 Закона № 44-ФЗ, вправе подписать проект контракта или разместить предусмотренный частью 4 статьи 83.2 Закона № 44-ФЗ протокол разногласий в порядке и сроки, которые предусмотрены статьей 83.2 Закона № 44-ФЗ, либо отказаться от заключения контракта. Этот победитель считается уклонившимся от заключения контракта в случае неисполнения требований части 6 статьи 83.2 Закона № 44-ФЗ. </ns8:contractConditionsAdd>
+            </ns8:procedureInfo>
+            <ns8:contractConditionsInfo>
+                <ns8:maxPriceInfo>
+                    <ns8:maxPrice>438334.33</ns8:maxPrice>
+                    <ns8:currency>
+                        <ns4:code>RUB</ns4:code>
+                        <ns4:name>Российский рубль</ns4:name>
+                    </ns8:currency>
+                    <ns8:interbudgetaryTransfer>false</ns8:interbudgetaryTransfer>
+                </ns8:maxPriceInfo>
+                <ns8:maxPriceJustification>содержится в Приложении №2 к извещению о проведении запроса котировок</ns8:maxPriceJustification>
+            </ns8:contractConditionsInfo>
+            <ns8:customerRequirementsInfo>
+                <ns8:customerRequirementInfo>
+                    <ns8:customer>
+                        <ns4:regNum>01353000075</ns4:regNum>
+                        <ns4:consRegistryNum>27302671</ns4:consRegistryNum>
+                        <ns4:fullName>АДМИНИСТРАЦИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ "ЧЕРНЯХОВСКИЙ ГОРОДСКОЙ ОКРУГ"</ns4:fullName>
+                    </ns8:customer>
+                    <ns8:contractGuarantee>
+                        <ns8:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40302810540303000010</ns3:settlementAccount>
+                            <ns3:personalAccount>05353026710</ns3:personalAccount>
+                        </ns8:account>
+                        <ns8:procedureInfo>Исполнение настоящего Контракта, гарантийные обязательства могут обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона № 44-ФЗ, или внесением денежных средств на указанный Заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику. Способ обеспечения исполнения настоящего Контракта, гарантийных обязательств, срок действия банковской гарантии определяются в соответствии с требованиями Федерального закона № 44-ФЗ участником закупки, с которым заключается настоящий Контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный настоящим Контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона № 44-ФЗ. Банковское сопровождение контракта: не осуществляется</ns8:procedureInfo>
+                        <ns8:part>5.0</ns8:part>
+                    </ns8:contractGuarantee>
+                    <ns8:contractConditionsInfo>
+                        <ns8:maxPriceInfo>
+                            <ns8:maxPrice>438334.33</ns8:maxPrice>
+                        </ns8:maxPriceInfo>
+                        <ns8:purchaseCode>203391400331339140100102510014211244</ns8:purchaseCode>
+                        <ns8:IKZInfo>
+                            <ns8:publishYear>2020</ns8:publishYear>
+                            <ns8:OKPD2Info>
+                                <ns3:OKPD2>
+                                    <ns4:OKPDCode>42.11</ns4:OKPDCode>
+                                    <ns4:OKPDName>Дороги автомобильные и автомагистрали; строительные работы по строительству автомобильных дорог и автомагистралей</ns4:OKPDName>
+                                </ns3:OKPD2>
+                            </ns8:OKPD2Info>
+                            <ns8:KVRInfo>
+                                <ns3:KVR>
+                                    <ns4:code>244</ns4:code>
+                                    <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                                </ns3:KVR>
+                            </ns8:KVRInfo>
+                            <ns8:customerCode>33914003313391401001</ns8:customerCode>
+                            <ns8:purchaseNumber>0251</ns8:purchaseNumber>
+                            <ns8:purchaseOrderNumber>001</ns8:purchaseOrderNumber>
+                        </ns8:IKZInfo>
+                        <ns8:tenderPlan2020Info>
+                            <ns3:plan2020Number>202001353000075001</ns3:plan2020Number>
+                            <ns3:position2020Number>202001353000075002000254</ns3:position2020Number>
+                        </ns8:tenderPlan2020Info>
+                        <ns8:contractExecutionPaymentPlan>
+                            <ns8:financingSourcesInfo>
+                                <ns8:financingSource>бюджет МО "Черняховский городской округ"</ns8:financingSource>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:financeInfo>
+                                    <ns8:total>438334.33</ns8:total>
+                                    <ns8:currentYear>438334.33</ns8:currentYear>
+                                    <ns8:firstYear>0</ns8:firstYear>
+                                    <ns8:secondYear>0</ns8:secondYear>
+                                    <ns8:subsecYears>0</ns8:subsecYears>
+                                </ns8:financeInfo>
+                            </ns8:financingSourcesInfo>
+                            <ns8:budgetFinancings>
+                                <ns8:currentYear>2020</ns8:currentYear>
+                                <ns8:budgetFinancing>
+                                    <ns8:KBKCode>148050514096S1120244</ns8:KBKCode>
+                                    <ns8:KBKYearsInfo>
+                                        <ns8:total>438334.33</ns8:total>
+                                        <ns8:currentYear>438334.33</ns8:currentYear>
+                                        <ns8:firstYear>0</ns8:firstYear>
+                                        <ns8:secondYear>0</ns8:secondYear>
+                                        <ns8:subsecYears>0</ns8:subsecYears>
+                                    </ns8:KBKYearsInfo>
+                                </ns8:budgetFinancing>
+                                <ns8:totalSum>438334.33</ns8:totalSum>
+                            </ns8:budgetFinancings>
+                        </ns8:contractExecutionPaymentPlan>
+                        <ns8:deliveryPlacesInfo>
+                            <ns8:deliveryPlaceInfo>
+                                <ns8:kladr>
+                                    <ns8:kladrCode>39000000000</ns8:kladrCode>
+                                    <ns8:fullName>Российская Федерация, Калининградская обл</ns8:fullName>
+                                </ns8:kladr>
+                                <ns8:deliveryPlace>в соответствие с проектом Контракта </ns8:deliveryPlace>
+                                <ns8:noKladrForRegionSettlement>
+                                    <ns8:region>город Черняховск</ns8:region>
+                                </ns8:noKladrForRegionSettlement>
+                            </ns8:deliveryPlaceInfo>
+                        </ns8:deliveryPlacesInfo>
+                        <ns8:deliveryTerm>в соответствие с проектом Контракта </ns8:deliveryTerm>
+                        <ns8:oneSideRejection>Предусмотрена</ns8:oneSideRejection>
+                    </ns8:contractConditionsInfo>
+                    <ns8:provisionWarranty>
+                        <ns3:amount>4383.34</ns3:amount>
+                        <ns3:part>1.0</ns3:part>
+                        <ns3:procedureInfo>Исполнение настоящего Контракта, гарантийные обязательства могут обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона № 44-ФЗ, или внесением денежных средств на указанный Заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику. Способ обеспечения исполнения настоящего Контракта, гарантийных обязательств, срок действия банковской гарантии определяются в соответствии с требованиями Федерального закона № 44-ФЗ участником закупки, с которым заключается настоящий Контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный настоящим Контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона № 44-ФЗ. </ns3:procedureInfo>
+                        <ns3:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40302810540303000010</ns3:settlementAccount>
+                            <ns3:personalAccount>05353026710</ns3:personalAccount>
+                        </ns3:account>
+                    </ns8:provisionWarranty>
+                </ns8:customerRequirementInfo>
+            </ns8:customerRequirementsInfo>
+            <ns8:purchaseObjectsInfo>
+                <ns8:notDrugPurchaseObjectsInfo>
+                    <ns3:purchaseObject>
+                        <ns3:OKPD2>
+                            <ns4:OKPDCode>42.11.10.129</ns4:OKPDCode>
+                            <ns4:OKPDName>Дороги автомобильные, в том числе улично-дорожная сеть, и прочие автомобильные и пешеходные дороги, не включенные в другие группировки</ns4:OKPDName>
+                        </ns3:OKPD2>
+                        <ns3:name>Устройство тротуара по ул. Садовая в городе Черняховске (участок от ул. Калинина до ул.  Госпитальная)</ns3:name>
+                        <ns3:OKEI>
+                            <ns4:code>876</ns4:code>
+                            <ns4:nationalCode>УСЛ ЕД</ns4:nationalCode>
+                            <ns4:name>Условная единица</ns4:name>
+                        </ns3:OKEI>
+                        <ns3:price>438334.33</ns3:price>
+                        <ns3:quantity>
+                            <ns3:value>1</ns3:value>
+                        </ns3:quantity>
+                        <ns3:sum>438334.33</ns3:sum>
+                    </ns3:purchaseObject>
+                    <ns3:totalSum>438334.33</ns3:totalSum>
+                    <ns8:quantityUndefined>false</ns8:quantityUndefined>
+                </ns8:notDrugPurchaseObjectsInfo>
+            </ns8:purchaseObjectsInfo>
+            <ns8:preferensesInfo>
+                <ns8:preferenseInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MP44</ns4:shortName>
+                        <ns4:name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                </ns8:preferenseInfo>
+            </ns8:preferensesInfo>
+            <ns8:requirementsInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>ET44</ns4:shortName>
+                        <ns4:name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:content>Установлено</ns3:content>
+                </ns8:requirementInfo>
+                <ns8:requirementInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>TR442</ns4:shortName>
+                        <ns4:name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:content>Установлено</ns3:content>
+                </ns8:requirementInfo>
+            </ns8:requirementsInfo>
+            <ns8:restrictionsInfo>
+                <ns8:restrictionInfo>
+                    <ns3:preferenseRequirementInfo>
+                        <ns4:shortName>MB44330</ns4:shortName>
+                        <ns4:name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</ns4:name>
+                    </ns3:preferenseRequirementInfo>
+                    <ns3:content>Участниками закупки в настоящем запросе котировок в электронной форме могут быть только субъекты малого предпринимательства, социально ориентированные некоммерческие организации.</ns3:content>
+                </ns8:restrictionInfo>
+            </ns8:restrictionsInfo>
+            <ns8:contractServiceInfo>Управление контрактной службы администрации муниципального образования «Черняховский городской округ» Чвырова Елена Сергеевна - контрактный управляющий konkurs4@inster39.ru 8(40141) 33843 </ns8:contractServiceInfo>
+        </ns8:notificationInfo>
+    </ns2:epNotificationEZK>
+</ns2:export>
